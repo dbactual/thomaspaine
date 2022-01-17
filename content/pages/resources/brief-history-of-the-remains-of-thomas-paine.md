@@ -1,5 +1,5 @@
 ---
-Title: Brief History of the Remains of Thomas Paine
+title: Brief History of the Remains of Thomas Paine
 ---
    From the Time of Their Disinternment in 1819.
 

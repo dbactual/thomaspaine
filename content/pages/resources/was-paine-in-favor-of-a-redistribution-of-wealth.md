@@ -1,5 +1,5 @@
 ---
-Title: Was Paine in favor of a redistribution of wealth?
+title: Was Paine in favor of a redistribution of wealth?
 ---
 
    Not only was he in favor of it, but the concept in modern times originates

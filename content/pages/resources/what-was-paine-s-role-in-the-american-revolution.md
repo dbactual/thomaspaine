@@ -1,5 +1,5 @@
 ---
-Title: What was Paine's role in the American Revolution?
+title: What was Paine's role in the American Revolution?
 ---
 
    Paine was the only leading Founder who served in both the military and the

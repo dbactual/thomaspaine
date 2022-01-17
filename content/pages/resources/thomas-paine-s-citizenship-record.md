@@ -1,5 +1,5 @@
 ---
-Title: Thomas Paine's Citizenship Record
+title: Thomas Paine's Citizenship Record
 ---
 
    by Thomas D Scoble, Jr.

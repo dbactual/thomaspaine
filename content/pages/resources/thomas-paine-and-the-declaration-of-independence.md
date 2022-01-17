@@ -1,5 +1,5 @@
 ---
-Title: Thomas Paine and the Declaration of Independence
+title: Thomas Paine and the Declaration of Independence
 ---
 
    being also a critique of Maier's American Scripture.

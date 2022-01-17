@@ -1,5 +1,5 @@
 ---
-Title: Thomas Paine (1870) by Robert Ingersoll
+title: Thomas Paine (1870) by Robert Ingersoll
 ---
 
                                   Thomas Paine

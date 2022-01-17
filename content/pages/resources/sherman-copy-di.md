@@ -1,6 +1,5 @@
 ---
----
-Title: The Roger Sherman Copy of the Declaration of Independence
+title: The Roger Sherman Copy of the Declaration of Independence
 ---
 
 by Jonathan Scheick

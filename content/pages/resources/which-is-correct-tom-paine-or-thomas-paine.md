@@ -1,5 +1,5 @@
 ---
-Title: Which is correct "Tom Paine" or "Thomas Paine"?
+title: Which is correct "Tom Paine" or "Thomas Paine"?
 ---
 
    Paine never signed his name "Tom" Paine. He always used Thomas. "Tom"

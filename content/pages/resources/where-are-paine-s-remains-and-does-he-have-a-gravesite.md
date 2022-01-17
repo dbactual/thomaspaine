@@ -1,5 +1,5 @@
 ---
-Title: Where are Paine's remains, and does he have a gravesite?
+title: Where are Paine's remains, and does he have a gravesite?
 ---
 
    Thomas Paine is the only Founder without a gravesite. The story of his

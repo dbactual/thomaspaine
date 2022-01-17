@@ -1,5 +1,5 @@
 ---
-Title: Did Thomas Paine support the U.S. Constitution?
+title: Did Thomas Paine support the U.S. Constitution?
 ---
 
    He favored the idea of the Constitution to establish the government (it

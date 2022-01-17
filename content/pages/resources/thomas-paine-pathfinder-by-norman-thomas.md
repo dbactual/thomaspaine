@@ -1,5 +1,5 @@
 ---
-Title: Thomas Paine, Pathfinder by Norman Thomas
+title: Thomas Paine, Pathfinder by Norman Thomas
 ---
    by Norman Thomas
 

@@ -1,5 +1,5 @@
 ---
-Title: Linton's Comments on Paine's Habits
+title: Linton's Comments on Paine's Habits
 ---
 
    To the Editor of SCRIBNER'S MONTHLY:

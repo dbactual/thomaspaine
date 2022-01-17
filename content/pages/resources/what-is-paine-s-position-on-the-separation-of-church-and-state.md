@@ -1,5 +1,5 @@
 ---
-Title: What is Paine's position on the separation of church and state?
+title: What is Paine's position on the separation of church and state?
 ---
 
    Since Paine believed that all organized religion was a tool to monopolize

@@ -1,5 +1,5 @@
 ---
-Title: Thomas Paine's Legacy of Equality by Ray Polin
+title: Thomas Paine's Legacy of Equality by Ray Polin
 ---
 
    by Raymond Polin and Constance Polin

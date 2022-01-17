@@ -1,5 +1,5 @@
 ---
-Title: Thomas Paine by Elbert Hubbard
+title: Thomas Paine by Elbert Hubbard
 ---
 
    Thomas Paine was an English mechanic, of Quaker origin, born in the year

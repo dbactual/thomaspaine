@@ -1,5 +1,5 @@
 ---
-Title: Why isn't Paine recognized as a leading figure of the American Revolution?
+title: Why isn't Paine recognized as a leading figure of the American Revolution?
 ---
 
    Like most topics in American history, there are two camps of historians.

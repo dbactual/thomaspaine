@@ -1,5 +1,5 @@
 ---
-Title: Was Thomas Paine a socialist?
+title: Was Thomas Paine a socialist?
 ---
    If by "socialist" we mean a state-supported welfare system to ensure the
    poor and working poor lead comfortable lives, then yes. Paine supported a

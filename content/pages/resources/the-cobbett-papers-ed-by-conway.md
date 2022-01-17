@@ -1,5 +1,5 @@
 ---
-Title: The Cobbett Papers, ed. by Conway
+title: The Cobbett Papers, ed. by Conway
 ---
 
                                THE COBBETT PAPERS

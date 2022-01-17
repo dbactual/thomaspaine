@@ -1,5 +1,5 @@
 ---
-Title: Lewis Lapham Speech at the 2012 International Conference for Thomas Paine Studies at Iona College
+title: Lewis Lapham Speech at the 2012 International Conference for Thomas Paine Studies at Iona College
 ---
 On being asked ten years ago to speak to the Thomas Paine National Historical Association here in New Rochelle, I assumed that it would be a simple matter of stringing together the literary equivalent of a laurel wreath and setting it upon the head of a statue.  It had been several years since I'd read The Age of Reason or Rights of Man, but in my own writing I'd borrowed more than one of Paine's lines of argument, often unwittingly nearly always to good effect, and I didn't think I'd have much trouble placing the figure of Paine on the pedestal of the heroic American past.
 

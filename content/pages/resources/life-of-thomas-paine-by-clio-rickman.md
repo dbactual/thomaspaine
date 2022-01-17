@@ -1,5 +1,5 @@
 ---
-Title: Life of Thomas Paine by Clio Rickman
+title: Life of Thomas Paine by Clio Rickman
 ---
 
    Preface to Rickman's "Life"

@@ -1,5 +1,5 @@
 ---
-Title: Did Paine write these quotes?
+title: Did Paine write these quotes?
 ---
 
 The following quotes are NOT from Thomas Paine:

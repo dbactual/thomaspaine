@@ -1,5 +1,5 @@
 ---
-Title: What was Thomas Paine's stance on Women's Rights?
+title: What was Thomas Paine's stance on Women's Rights?
 ---
 
    Paine was a strong advocate for women's equal rights, but he did not

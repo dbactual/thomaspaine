@@ -1,5 +1,5 @@
 ---
-Title: 'Common Sense' and its Meaning Today by Jack Fruchtman
+title: \"Common Sense\" and its Meaning Today by Jack Fruchtman
 ---
 
    by Jack Fruchtman Jr., Towson University

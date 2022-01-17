@@ -1,5 +1,5 @@
 ---
-Title: Portraits of Paine by Moncure Conway
+title: Portraits of Paine by Moncure Conway
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-Title: 'Common Sense' and the American Revolution by Harvey Kaye
+title: \'Common Sense\' and the American Revolution by Harvey Kaye
 ---
 
    by Harvey Kaye

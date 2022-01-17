@@ -1,5 +1,5 @@
 ---
-Title: Did Thomas Paine live in Bordentown?
+title: Did Thomas Paine live in Bordentown?
 ---
 
    Bordentown is the only place in the world where Paine bought property. He

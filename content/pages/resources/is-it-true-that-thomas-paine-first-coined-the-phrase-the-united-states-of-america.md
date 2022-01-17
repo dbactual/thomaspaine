@@ -1,5 +1,5 @@
 ---
-Title: Is it true that Thomas Paine first coined the phrase, "The United States of America?"
+title: Is it true that Thomas Paine first coined the phrase, "The United States of America?"
 ---
 
    Yes. Previously it was claimed that American Crisis III was the

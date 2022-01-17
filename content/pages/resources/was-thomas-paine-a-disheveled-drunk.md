@@ -1,5 +1,5 @@
 ---
-Title: Was Thomas Paine a disheveled drunk?
+title: Was Thomas Paine a disheveled drunk?
 ---
    No.  Again, most of the "biographies" and myths about Paine originate from
    the early slander campaign by the British royalty and the Federalists, and

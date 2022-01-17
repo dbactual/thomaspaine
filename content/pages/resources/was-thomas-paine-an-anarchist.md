@@ -1,5 +1,5 @@
 ---
-Title: Was Thomas Paine an anarchist?
+title: Was Thomas Paine an anarchist?
 ---
 
    No. Although many have tried to make that case (including an

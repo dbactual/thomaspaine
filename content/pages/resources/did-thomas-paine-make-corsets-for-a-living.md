@@ -1,5 +1,5 @@
 ---
-Title: Did Thomas Paine make corsets for a living?
+title: Did Thomas Paine make corsets for a living?
 ---
    Paine was trained at an early age to follow his father's trade as a
    staymaker.  The first biography of Paine by Oldys (who was paid by

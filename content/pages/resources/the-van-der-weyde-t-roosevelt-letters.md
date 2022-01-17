@@ -1,5 +1,5 @@
 ---
-Title: The van der Weyde - T. Roosevelt Letters
+title: The van der Weyde - T. Roosevelt Letters
 ---
 
    TPNHA note: William  van der Weyde was President of the Thomas Paine

@@ -1,5 +1,5 @@
 ---
-Title: The Adventures of Thomas Paine's Bones by Moncure Conway
+title: The Adventures of Thomas Paine's Bones by Moncure Conway
 ---
    First President of the Thomas Paine National Historical Association
 

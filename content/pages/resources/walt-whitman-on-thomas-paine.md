@@ -1,5 +1,5 @@
 ---
-Title: Walt Whitman on Thomas Paine
+title: Walt Whitman on Thomas Paine
 ---
 
                    In Memory of Thomas Paine by Walt Whitman

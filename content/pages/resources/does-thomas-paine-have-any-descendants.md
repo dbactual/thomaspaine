@@ -1,5 +1,5 @@
 ---
-Title: Does Thomas Paine have any descendants?
+title: Does Thomas Paine have any descendants?
 ---
 
    No. Paine was an only child, and he never had children (that survived).

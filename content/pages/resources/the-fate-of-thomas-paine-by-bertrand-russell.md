@@ -1,5 +1,5 @@
 ---
-Title: The Fate of Thomas Paine by Bertrand Russell
+title: The Fate of Thomas Paine by Bertrand Russell
 ---
 
    By Bertrand Russell

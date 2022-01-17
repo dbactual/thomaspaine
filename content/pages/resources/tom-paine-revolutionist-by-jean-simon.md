@@ -1,5 +1,5 @@
 ---
-Title: Tom Paine - Revolutionist by Jean Simon
+title: Tom Paine - Revolutionist by Jean Simon
 ---
 
    by Jean Simon (1952)

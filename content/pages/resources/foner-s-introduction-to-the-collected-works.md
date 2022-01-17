@@ -1,5 +1,5 @@
 ---
-Title: Foner's Introduction to the Collected Works
+title: Foner's Introduction to the Collected Works
 ---
 
    THOMAS PAINE-WORLD CITIZEN AND DEMOCRAT

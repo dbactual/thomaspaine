@@ -1,5 +1,5 @@
 ---
-Title: Life of Thomas Paine, Vol. I, by Moncure Conway
+title: Life of Thomas Paine, Vol. I, by Moncure Conway
 ---
 
                                       THE

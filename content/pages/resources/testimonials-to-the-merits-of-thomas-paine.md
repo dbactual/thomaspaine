@@ -1,5 +1,5 @@
 ---
-Title: Testimonials to the Merits of Thomas Paine
+title: Testimonials to the Merits of Thomas Paine
 ---
 
    Compiled by Joseph N. Moreau

@@ -1,9 +1,8 @@
 ---
-Title: 'Rights of Man' in America
+title: \"Rights of Man\" in America
 ---
 
    The Celebration and Damnation of Thomas Paine
-   -------
 
    By Alfred F. Young, award-winning historian on labor history and
    the American Revolution
@@ -48,7 +47,7 @@ Title: 'Rights of Man' in America
    the earth was tumbled into the grave, `Oh! Mr. Paine! My son stands here
    as testimony of the gratitude of America, and I, for France!'
 
-        A few others doubtless had paid their last respects to Paine at
+   A few others doubtless had paid their last respects to Paine at
    Greenwich in response to a paragraph the day before by Jacob Frank, the
    editor, in the New York Public Advertiser inviting friends "to attend the
    funeral from (Paine's) late residence", but if so, it was not enough to
@@ -67,7 +66,7 @@ Title: 'Rights of Man' in America
    Freneau, alone among American writers of his day, paid Paine tribute in
    poetry.
 
-        What had happened? Thomas Paine was the author of the three most
+   What had happened? Thomas Paine was the author of the three most
    widely read and influential pamphlets in the English language in the last
    quarter of the eighteenth century: Common Sense, Rights of Man, and The
    Age of Reason. In 1776 Common Sense, Paine rightly claimed, "awaked
@@ -81,7 +80,7 @@ Title: 'Rights of Man' in America
    "distinguished merit" in the Revolution. Rights of Man published in the
    1790's renewed his popular reputation.
 
-        What explains Paine's fall from grace in the United States? The most
+   What explains Paine's fall from grace in the United States? The most
    commonly offered explanation lies in the response to The Age of Reason,
    the third of his best selling works which followed on the heels of Rights
    of Man in 1794 and 1795, circulated through the late 1790s. His attack on
@@ -91,7 +90,7 @@ Title: 'Rights of Man' in America
    it probably eclipsed Rights of Man in the breadth and intensity of the
    reaction it provoked. [ft Marcus Daniel thesis on English response].
 
-        When Paine returned to the United States in 1802 after a fifteen year
+   When Paine returned to the United States in 1802 after a fifteen year
    absence he was greeted with a wave of abuse in which the dominant theme
    was religious blended with an attack on his private moral character. He
    was, to take the epithets only from the most genteel Federalist papers, "a
@@ -99,7 +98,7 @@ Title: 'Rights of Man' in America
    atheist", "an obscene old sinner; he was "godless", "impious", "a
    blasphemer" [Knudson article NYHSQJ, Hawke].
 
-        The attack on Paine struck roots among ordinary people. In Washington
+   The attack on Paine struck roots among ordinary people. In Washington
    inn keepers refused to put Paine up and he finally entered one under an
    assumed name. At Trenton, one stagecoach driver refused to carry Paine to
    New York: "I'll be damned if he shall go on my stage." And another
@@ -108,7 +107,7 @@ Title: 'Rights of Man' in America
    was disciplined. In New Rochelle mothers warned their children to stay
    away from Paine - he was a bad man. [Hawke}
 
-        The religious explanation is appealing. The orthodox clergy attacked
+   The religious explanation is appealing. The orthodox clergy attacked
    him with an unprecedented fury. Federalist leaders exploited the religious
    issue. And many Jeffersonian politicians, even closet deists, found
    Paine's irreligion politically embarrassing, especially because so many
@@ -118,7 +117,7 @@ Title: 'Rights of Man' in America
    constituents of the Democratic Republicans. It may be that in the last
    analysis that Paine's deism sealed his fate.
 
-        But was it so simple? I would like to offer three other hypotheses
+   But was it so simple? I would like to offer three other hypotheses
    for the eclipse of Thomas Paine. [NB other scholars on this issue: Dixon
    Wecter, Eric Foner, Aldridge, Conway]. First, from the outset of his
    career Paine was under attack for his political radicalism. From 1776 to
@@ -137,7 +136,7 @@ Title: 'Rights of Man' in America
    century radical thought in coping with the new social issues of the 19th
    century.
 
-        To probe the seeming puzzle of the rejection of Paine in his last
+   To probe the seeming puzzle of the rejection of Paine in his last
    years we should try to unlock the secrets of his success. To make my case
    I would therefore like to tum to an exploration of the reception, first in
    Common Sense in 1776 and then of Rights of Man in the 1790s, first in the
@@ -145,7 +144,7 @@ Title: 'Rights of Man' in America
    scene from 1802 to 1809.
                                                                            I
 
-        One needs Common Sense to understand Rights of Man. It was the basis
+   One needs Common Sense to understand Rights of Man. It was the basis
    of his subsequent reputation. On the title page of Rights of Man Paine
    identified himself as the author of Common Sense. More important, as Paine
    had no hesitation in admitting, the principles of Rights of Man "were the
@@ -155,7 +154,7 @@ Title: 'Rights of Man' in America
    of the argument of Part II and much of the language follow the first
    pamphlet.
 
-        Common Sense has come down in history oversimply as an argument for
+   Common Sense has come down in history oversimply as an argument for
    American Independence. Actually the message to Americans was
    triple-barreled: independence, republicanism and empowerment of the common
    people. Abandon the goal of reconciliation with the mother country, he
@@ -166,26 +165,26 @@ Title: 'Rights of Man' in America
    artisans - rely not on learned authorities but on your own reason, your
    own common sense.
 
-        The tone of the writing was warmly equalitarian. "Male and female are
+   The tone of the writing was warmly equalitarian. "Male and female are
    the distinctions of nature, good and bad the distinctions of heaven; but
    how a race of men came into the world so exalted above the rest ... is
    worth inquiring into". "Of more worth is one honest man to society, and in
    the light of God than all the crowned ruffians that ever lived". [pg 16
    Foner ed]
 
-        The tone was irreverent, often coarse. The first king was "nothing
+   The tone was irreverent, often coarse. The first king was "nothing
    better than the principal ruffian of some restless gang". The claim of
    William the Conqueror, "a French bastard landing with an armed banditti
    and establishing himself king of England against the consent of the
    natives, in plain terms a very paltry rascally original. It certainly hath
    no divinity in it". [pg 14]
 
-        And the appeal was suffused with a millennialist idealism, "We have
+   And the appeal was suffused with a millennialist idealism, "We have
    it in our power to begin the world over again. A situation similar to the
    present, hath not happened since the days of Noah until now. The birthday
    of a new world is at hand ..." [pg 45 Foner edn]
 
-        It is these combined qualities that account for the phenomenal
+   It is these combined qualities that account for the phenomenal
    popularity of the pamphlet. If its success was not quite as Paine
    proclaimed - "beyond anything since the invention of printing" - it very
    likely was read by or read to a large share of the adult white male
@@ -201,7 +200,7 @@ Title: 'Rights of Man' in America
    category of the lowest priced publications. And it was relatively short,
    usually less than 60 pages, and arranged in four systematic chapters.
 
-        The pamphlet went through some 35 separate printings (counting the
+   The pamphlet went through some 35 separate printings (counting the
    various editions), 15 in Philadelphia, 16 in New England cities and towns,
    almost all between January and June, 1776. Boastful as he was, there was
    something to Paine's claim in April, 1776, that there was "never a
@@ -213,14 +212,14 @@ Title: 'Rights of Man' in America
    anecdotal evidence from sources high and low attest to the enormous
    popularity of Common Sense early in 1776. [cite several letters]
 
-        It was successful because it came at precisely the time when masses
+   It was successful because it came at precisely the time when masses
    of people were ready for its message. A war was on. Tens of thousands of
    men were in action in the militia or the new regular army. Committees were
    forming everywhere. British government was collapsing as provincials were
    erecting in effect a dual government. The prospect of reconciliation with
    Britain was running out. A war was on but what were the Americans fighting
    for?
-        In weighing influence, the active role of the reader is often
+   In weighing influence, the active role of the reader is often
    unappreciated. Reading is an act of volition. People had to buy the
    pamphlet; one shilling was cheap as pamphlets went but costly to a
    housewright who might make 3/ or 4/ a day or a weaver, tailor or carpenter
@@ -228,7 +227,7 @@ Title: 'Rights of Man' in America
    was read aloud, a person had to make a decision to come to listen or stay
    to hear it out.
 
-        As one soldier remembered it [Ashbel Green memoir] Common Sense
+   As one soldier remembered it [Ashbel Green memoir] Common Sense
    "struck a string which required but a touch to make it vibrate". Joseph
    Hawley, a leader in western Massachusetts said it somewhat differently:
    "every sentiment has sunk into my well prepared heart" [Foner pg 86]. Thus
@@ -238,12 +237,12 @@ Title: 'Rights of Man' in America
    first idea of independence was not "suggested to them by the pamphlet
    Common Sense". [pg 88 Rush Adams Correspondence]
 
-        Paine's special contribution - which Adams could not abide - was to
+   Paine's special contribution - which Adams could not abide - was to
    crystallize this mounting sentiment for independence, link it to
    republicanism, and, to use the lingo of the late twentieth century, lift
    the consciousness of the "common people" to a more democratic level.
 
-        What Adams well knew was that Paine's pamphlet precipitated a
+   What Adams well knew was that Paine's pamphlet precipitated a
    three-cornered debate. The first between the opponents and advocates of
    independence - between Paine and some now forgotten Tory pamphleteers -
    was easily won and was irrelevant after July 4, 1776. The second was among
@@ -261,7 +260,7 @@ Title: 'Rights of Man' in America
    so democratical without any restraint or even an attempt at any equilibrium
    or counterpoise." [diary]
 
-        Very soon Adams circulated in manuscript his own "Thoughts on
+   Very soon Adams circulated in manuscript his own "Thoughts on
    Government" which he put into print to instruct patriot leaders in
    drafting constitutions for the newly independent states. Paine's ideals
    led to the Pennsylvania constitution, the most democratic of all: a one
@@ -278,7 +277,7 @@ Title: 'Rights of Man' in America
    authority - the antithesis of Paine's egalitarianism. [Page Smith; Elisha
    Douglass]
 
-        What Adams detested most in Paine was what he called his
+   What Adams detested most in Paine was what he called his
    "impudence". He had a taste of it in his own family. In March, '76 out of
    the blue, Adams' wife, Abigail wrote to him to "remember the ladies" in
    recasting a code of laws for America. "Do not put such unlimited power
@@ -292,13 +291,13 @@ Title: 'Rights of Man' in America
    have been lost upon John Adams that Abigail had read the copy of Common
    Sense he had sent her the month before. [Young article on Women of Boston]
 
-        In 1819, forty years later smoke still came out of his ears as Adams
+   In 1819, forty years later smoke still came out of his ears as Adams
    fumed about the pamphlet. "What a poor, ignorant, malicious, short-sighted
    crapulous mass is Tom Paine's Common Sense." [Letters 1819, Hawke]
 
-                                                                           II
+                              II
 
-        In the 1790's Rights of Man revived the conflict between the two
+   In the 1790's Rights of Man revived the conflict between the two
    types of republicanism epitomized in the 1776 debate between Paine and
    Adams. To understand the celebration and damnation of Rights of Man two
    contexts are needed: the history of the fifteen years gone by and the
@@ -313,7 +312,7 @@ Title: 'Rights of Man' in America
    political system as a model for England to follow. Why should such a work
    have become so popular in the United States?
 
-        Let me in a kind of historical shorthand offer my sense of what
+   Let me in a kind of historical shorthand offer my sense of what
    happened between 1776 and 1789 in the struggle between the two kinds of
    republicanism. During the Revolution patriot elites - the would-be ruling
    classes - divided in their strategy as to how to deal with the democratic
@@ -336,7 +335,7 @@ Title: 'Rights of Man' in America
    whipped. John Adams sometimes leaned towards accommodation, sometimes
    towards coercion. [Young, Democratic Republicans, and articles 1981, 1990]
 
-        The first New York State constitution was, in the words of John Jay,
+   The first New York State constitution was, in the words of John Jay,
    a "perfect blend of the aristocratic and democratic". Much the same could
    be said of Adams's Massachusetts constitution and the federal constitution
    which emerged in 1787. The federal convention at Philadelphia was
@@ -357,9 +356,9 @@ Title: 'Rights of Man' in America
    accommodaters. In 1789 they accommodated the democratic opponents of the
    constitution still further by adding a Bill of Rights.
 
-                                                               III
+                            III
 
-        The Rights of Man won an audience in the 1790's because the
+   The Rights of Man won an audience in the 1790's because the
    Federalists in power moved away from accommodation towards coercion.
    Federalists strung the "strings" which Rights of Man could "vibrate"
    First, they attempted to give the government what they called a "high
@@ -382,7 +381,7 @@ Title: 'Rights of Man' in America
    had abandoned. Moreover the taxes to raise this grand Hamiltonian edifice
    seemed to fall heavily on farmers.
 
-        Federalist foreign policies provided a third string to vibrate. The
+   Federalist foreign policies provided a third string to vibrate. The
    French Revolution at first was not a partisan issue; France had been
    America's indispensable ally in the revolution and a formal French
    alliance was still in place. But as the French revolution moved to the
@@ -401,7 +400,7 @@ Title: 'Rights of Man' in America
    Electoral battles f o r Congress underway in '94 were in f u l l swing in
    '95 as Jefferson challenged Adams for the presidency.
 
-        Repression rapidly replaced accommodation as Federalist policy. They
+   Repression rapidly replaced accommodation as Federalist policy. They
    sent an army to put down the Whiskey Rebellion in Pennsylvania, attempted
    in Congress to "censure" the Democratic Socit.ies as "self created" ,
    condemned the crowds demonstrating against Jay's Treaty with Great Britain
@@ -409,7 +408,7 @@ Title: 'Rights of Man' in America
    Sedition Laws under which they could prosecute criticism of the government
    as sedition.
 
-        Thus Rights of Man thus unintentionally could vibrate the same
+   Thus Rights of Man thus unintentionally could vibrate the same
    American strings that Common Sense had plucked.  Once again Paine blasted
    away at monarchy: "If I ask the farmer, the manufacturer, the merchant,
    the tradesman and down through all the occupations of  life to the common
@@ -418,7 +417,7 @@ Title: 'Rights of Man' in America
    of King, Lord and Commons as appropriate for Great Britain enough to give
    an American resonance to Paine's attack.
 
-        Paine went after what he called the "farce of titles " which Adams
+   Paine went after what he called the "farce of titles " which Adams
    had openly advocated. "Titles are like circles drawn by the magicians
    wand," wrote Paine, "to contract the sphere of man's felicity. He lives
    immured within the Bastille of a word, and surveys at a distance the
@@ -437,7 +436,7 @@ Title: 'Rights of Man' in America
    ready to tar and feather excise tax collectors such lines may have been
    more an incitement than comfort.
 
-        Paine linked the cost of  monarchy and aristocracy to taxation. He
+   Paine linked the cost of  monarchy and aristocracy to taxation. He
    framed the issue for the individual as "whether the fruits of his labor
    shall be enjoyed by himself, or consumed by the profligacy of governments"
    (p 404), and in so doing he touched a deep nerve among American farmers
@@ -459,7 +458,7 @@ Title: 'Rights of Man' in America
    to Paine's plan in chapter 5 for a system of old age pensions, education,
    child subsidies,--the liniments of the welfare state .
 
-        Paine no less in the 1790s than in 1776 appealed to the idealism,
+   Paine no less in the 1790s than in 1776 appealed to the idealism,
    indeed the millennial streak among Americans. "It is an age of revolutions
    in which everything may be looked for" (p 344). And everything was not
    confined to governments. "When it shall be said in any country in the
@@ -471,7 +470,7 @@ Title: 'Rights of Man' in America
    ( p 446)
 
 
-        That Rights of Man thus had the potential to reach a wide audience in
+   That Rights of Man thus had the potential to reach a wide audience in
    the United States is clear. Exactly how popular was it? There is no study
    of the publishing history of the pamphlet in the United States. It clearly
    was one of the most widely circulated titles of the I790s.  How many
@@ -482,7 +481,7 @@ Title: 'Rights of Man' in America
    make money. Whatever their politics, they could not afford to bring out
    non sellers. [Botein; Eliz Reilly thesis]
 
-        Using the standard bibliographic guides [Evans; Mooney-Shipton] I
+   Using the standard bibliographic guides [Evans; Mooney-Shipton] I
    count about 26 printings of Rights of Man, 12 of part I in seven different
    cities and I9 of Part II in six cities, plus several combined printings of
    Parts I and II.   If the circulation statistics are beyond recovery, there
@@ -504,7 +503,7 @@ Title: 'Rights of Man' in America
    passages were frequently reprinted in the newspapers which grew in number
    from about 100 in 1790 to 230 in 1800.
 
-        The Age of Reason. to get a comparison in place, followed from 1794
+   The Age of Reason. to get a comparison in place, followed from 1794
    to 1796 with 18 printings in five cities , seven in New York by John
    Fellows, the deist. Even Isaiah Thomas America's most successful printer,
    ever attuned to what would sell, whether it was Mother Goose or Fanny Hill
@@ -536,7 +535,7 @@ Title: 'Rights of Man' in America
    "much read here with avidity and pleasure," but I can not match this with
    comment for the rest of the decade.
 
-        There are several measures of its impact. One lies in the toasts that
+   There are several measures of its impact. One lies in the toasts that
    were a common feature of political celebrating on the fourth of July or
    victories of the French Revolution. Toasts in New York may well be
    representative. In New York City in mid July 1792 the Tammany Society-- a
@@ -565,7 +564,7 @@ Title: 'Rights of Man' in America
    Repos book; Simon Newman toasts kindly provided from thesis l991; P Foner
    toasts]
 
-        A second measure of the influence of the pamphlet is the usage of the
+   A second measure of the influence of the pamphlet is the usage of the
    phrase "the rights of man". On July Fourth celebrations which were rapidly
    becoming Democratic-Republican festivals, there invariably was a toast to
    the "The Rights of Man" but the reference, I think, trag less to the book
@@ -589,7 +588,7 @@ Title: 'Rights of Man' in America
    Paine. And one can say the same of the more numerous Fourth of July
    orations under Republican auspices. [Eugene Link; P. Foner, ed documents]
 
-        A comparison of the response to Rights of Man in the United States to
+   A comparison of the response to Rights of Man in the United States to
    Great Britain sets off both. The pamphlet almost did for the British what
    Common Sense had done for Americans in 1776. In the l790's, we have it on
    the commanding authority of E.P Thompson, "something like an 'English
@@ -603,7 +602,7 @@ Title: 'Rights of Man' in America
    pence.
 
 
-        The pamphlet reached deep into the laboring classes. One could not
+   The pamphlet reached deep into the laboring classes. One could not
    write for the United States a paragraph comparable to Thompson's summary
    for England:
 
@@ -624,7 +623,7 @@ Title: 'Rights of Man' in America
    book became in the l9th-century in Thompson's words "a foundation text of
    the British working class'' together with The Age of Reason.
 
-        The influence of Rights of Man in America, thus it could be argued
+   The influence of Rights of Man in America, thus it could be argued
    was neither as widespread nor as intense nor did it sink roots as deeply
    among the laboring classes and the poor. Rather it percolated through a
    democratic movement over a period of years, helping to set its tone. Paine
@@ -632,9 +631,9 @@ Title: 'Rights of Man' in America
    Britain or as he had been in America in the l770's. And perhaps this helps
    to explain why he failed to consolidate his reputation.
 
-                                                                           IV
+                              IV
 
-        Let me return now to the hypotheses I suggested to explain the
+   Let me return now to the hypotheses I suggested to explain the
    eclipse of Paine in 1809.
 
        First the question of Paine's deism. Given the long history of
@@ -645,7 +644,7 @@ Title: 'Rights of Man' in America
    concealed object. Religion is not the cause but is the stalking horse.
    They put it forward to conceal themselves behind it." [Foner, ed 1436]
 
-        William Duane, the Paineite editor of the Philadelphia Aurora, put it
+   William Duane, the Paineite editor of the Philadelphia Aurora, put it
    this way:"It is not Thomas Paine's want of religion but his want of faith
    in kings and priests that has made him the object of Tory detestation."
    [180l Aldrich 277]  "His religious sentiments have been denounced for
@@ -654,7 +653,7 @@ Title: 'Rights of Man' in America
    am singular to believe, have done more harm than his irreligious ones. He
    understands neither government nor religion" [to Rush.1810 p 156-57 Koch].
 
-         The antagonism of evangelical religion to deism was real but we
+    The antagonism of evangelical religion to deism was real but we
    should not exaggerate it. During the revolutionary era in America at key
    moments there had been an alliance of evangelicals and deists. The
    Philadelphia radicals drew from both groups; even in Boston Samuel Adams,
@@ -672,7 +671,7 @@ Title: 'Rights of Man' in America
    paid homage to their benefactor by sending a mammoth 400 pound cheese to
    President Jefferson in the White House. [Butterfield article]
 
-        Paine himself was aware of the common stake in religious liberty of
+   Paine himself was aware of the common stake in religious liberty of
    deists and evangelicals in the election campaign for Jefferson in the Fall
    of 1804. In the sleepy fishing village of Stonington, Connecticut Paine
    was visited by a group of Baptists who included three ministers: "They cry
@@ -681,12 +680,12 @@ Title: 'Rights of Man' in America
    to him. For my own part I had rather vote for a deist than a blue-skin
    Presbyterian." (a reference to the rigid Connecticut blue laws)
 
-        "You judge right", Paine responded, "for a man that is not of any of
+   "You judge right", Paine responded, "for a man that is not of any of
    the sectaries will hold the balance between all; but give power to a bigot
    of any sectary and he will use it to the oppression of the rest, as the
    blue skins do in Connecticut [Hawke,m p 371 from Foner vol II 1459-060]
 
-        Equally important there was a species of evangelical who blended the
+   Equally important there was a species of evangelical who blended the
    Bible with Paine. Thompson has called attention to them, in Wales, for
    example: "itinerant methodist preachers who descant on the Rights of Man
    and attack Kingly government" [EPT 108]. Nathan Hatch has identified them
@@ -698,7 +697,7 @@ Title: 'Rights of Man' in America
    egalitarianism. They shared a "deep seated aversion to traditional
    inquiry", (Hatch, Democratization book,36-37)
 
-        The religious issue functioned to divide the Jeffersonians. True
+   The religious issue functioned to divide the Jeffersonians. True
    believers were hostile. Unitarians like Joseph Priestly wanted to
    disassociate their liberalism from radicalism. [Marcus Daniel thesis] And
    the Jeffersonian politicians fearful of losing their constituents were
@@ -706,7 +705,7 @@ Title: 'Rights of Man' in America
    politicians were unwilling to take a stand on the principle that religion
    was a matter of private opinion. [see Hawke p 353].
 
-        Second, Paine's fading from public memory made possible the attack
+   Second, Paine's fading from public memory made possible the attack
    that isolated him. This was part of the larger problem of passing on the
    experience of one generation to another, a persistent problem which
    shocked the revolutionary generation no less than generations before and
@@ -720,7 +719,7 @@ Title: 'Rights of Man' in America
    besides this there are but few of the old standers left and known that I
    know of in this city," NewYork..[Conway 307]
 
-        The institutions that pass on heritage: historians, historical
+   The institutions that pass on heritage: historians, historical
    societies, museums, were in their infancy and those underway were often
    under the auspices of conservative gentry. Fourth of July orations passed
    on historical abstractions. The tens of thousands of veterans of the
@@ -742,7 +741,7 @@ Title: 'Rights of Man' in America
    German immigrant working class radicals, freethinkers and deists. And has
    it not been ever thus? [Mark Lause article; Sean Wilentz;Michael Kammen]
 
-        Finally, Paine, as others have suggested, was the victim of the
+   Finally, Paine, as others have suggested, was the victim of the
    success of his ideas. There was never a serious prospect of monarchy in
    America. As Paine put it, "If I ask a man in America if he wants a king,
    he retorts, and asks me if I take him for an idiot" [Foner 326-27]. The
@@ -756,7 +755,7 @@ Title: 'Rights of Man' in America
    accommodation [David Fischer]. Hamilton out of power reflected ruefully
    "This American world was not for me".
 
-        It was not that the principles of Rights of Man were irrelevant. The
+   It was not that the principles of Rights of Man were irrelevant. The
    Jacobin refugees from English persecution who established themselves as
    Jeffersonian editors and politicians in American cities took up the causes
    of expanding suffrage, reforming the judicial system, eliminating English
@@ -764,7 +763,7 @@ Title: 'Rights of Man' in America
    his ideas triumphed?
 
 
-        Neither Paine nor the middle class bearers of his 18th century
+   Neither Paine nor the middle class bearers of his 18th century
    radicalism were prepared to extend the principles of Book II ch 5 of
    Rights of Man to do battle in a war on poverty. The
    causes of poverty to Paine lay in corrupt governments redistributing the
@@ -779,7 +778,7 @@ Title: 'Rights of Man' in America
    realities of American life. Others would take up these causes in the next
    generation.
 
-        Perhaps it is fitting to allow John Adams, Paine's life-long foe to
+   Perhaps it is fitting to allow John Adams, Paine's life-long foe to
    offer the final testimony. Adams is a strange witness to call for the
    defense.  Paine was Adams's nemesis in 1776, in 1791,  even in 180l , his
    ideas contributing to Adams 's defeat.   Adams's judgment was not always

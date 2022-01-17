@@ -1,5 +1,5 @@
 ---
-Title: How Paine Transformed Locke by Fayette Arnold
+title: How Paine Transformed Locke by Fayette Arnold
 ---
    HOW THOMAS PAINE INVALIDATED THE PRE-ENLIGHTENMENT WORLD VIEW BY
    TRANSFORMING THE PRINCIPLES OF JOHN LOCKE

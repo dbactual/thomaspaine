@@ -1,5 +1,5 @@
 ---
-Title: How 'American' was Thomas Paine? by Jack Fruchtman
+title: How 'American' was Thomas Paine? by Jack Fruchtman
 ---
 
 by Jack Fruchtman Jr.

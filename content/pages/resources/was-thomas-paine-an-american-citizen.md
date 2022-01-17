@@ -1,5 +1,5 @@
 ---
-Title: Was Thomas Paine an American citizen?
+title: Was Thomas Paine an American citizen?
 ---
 
    Yes. He was born in England, emigrated to the American colonies and became

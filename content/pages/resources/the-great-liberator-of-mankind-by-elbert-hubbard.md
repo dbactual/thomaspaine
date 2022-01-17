@@ -1,5 +1,5 @@
 ---
-Title: The Great Liberator of Mankind by Elbert Hubbard
+title: The Great Liberator of Mankind by Elbert Hubbard
 ---
 
    by Elbert Hubbard

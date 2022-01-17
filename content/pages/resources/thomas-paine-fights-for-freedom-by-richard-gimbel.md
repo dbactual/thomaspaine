@@ -1,5 +1,5 @@
 ---
-Title: Thomas Paine Fights for Freedom by Richard Gimbel
+title: Thomas Paine Fights for Freedom by Richard Gimbel
 ---
    By COLONEL RICHARD GIMBEL
 

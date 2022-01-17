@@ -1,5 +1,5 @@
 ---
-Title: What was Thomas Paine's stance on slavery?
+title: What was Thomas Paine's stance on slavery?
 ---
 
 Paine was a staunch abolitionist despite the fact that he seldom wrote

@@ -1,5 +1,5 @@
 ---
-Title: Congressional Testimony of Fred Friendly
+title: Congressional Testimony of Fred Friendly
 ---
 
 Testimony of Professor Fred Friendly

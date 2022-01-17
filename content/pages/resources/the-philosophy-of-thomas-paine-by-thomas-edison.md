@@ -1,5 +1,5 @@
 ---
-Title: The Philosophy of Thomas Paine by Thomas Edison
+title: The Philosophy of Thomas Paine by Thomas Edison
 ---
 
    by Thomas Alva Edison

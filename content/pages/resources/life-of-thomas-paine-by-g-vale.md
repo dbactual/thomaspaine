@@ -1,5 +1,5 @@
 ---
-Title: Life of Thomas Paine by G. Vale
+title: Life of Thomas Paine by G. Vale
 ---
 
                             The Life of Thomas Paine

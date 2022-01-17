@@ -1,5 +1,5 @@
 ---
-Title: Thomas Paine's View of Constitutions by Ray Polin
+title: Thomas Paine's View of Constitutions by Ray Polin
 ---
    by Raymond and Constance Polin
 

@@ -1,5 +1,5 @@
 ---
-Title: The Age of Paine by Jon Katz
+title: The Age of Paine by Jon Katz
 ---
    This article first appeared in Wired Magazine in 1995.
 

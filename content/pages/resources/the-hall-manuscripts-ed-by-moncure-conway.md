@@ -1,5 +1,5 @@
 ---
-Title: The Hall Manuscripts, ed. by Moncure Conway
+title: The Hall Manuscripts, ed. by Moncure Conway
 ---
 
                               THE HALL MANUSCRIPTS

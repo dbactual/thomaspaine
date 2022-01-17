@@ -1,5 +1,5 @@
 ---
-Title: The Vindication of Thomas Paine by Robert Ingersoll
+title: The Vindication of Thomas Paine by Robert Ingersoll
 ---
 
       "To argue with a man who has renounced the use and authority of reason,

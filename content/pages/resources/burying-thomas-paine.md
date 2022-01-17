@@ -1,5 +1,5 @@
 ---
-Title: Burying Thomas Paine
+title: Burying Thomas Paine
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-Title: Ingersoll's Second Reply to NY Observer
+title: Ingersoll's Second Reply to NY Observer
 ---
    PEORIA, Nov. 2d, 1877.
 

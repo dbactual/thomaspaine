@@ -7,7 +7,7 @@
 SITEURL := http://localhost:8000
 #SITEURL := https://thomaspaine.org
 pandoc := pandoc
-PANDOC_ARGS = --ascii
+PANDOC_ARGS = --ascii --fail-if-warnings
 
 .PHONY : all
 
@@ -180,10 +180,11 @@ output/pages/footer.html: templates/*
 	@mkdir -p "$(@D)"
 	@cp $< $@
 
+
 # -------
 
 output/works/%.html: content/works/%.md templates/*
-	@echo "html -> $@"
+	@echo "works -> $@"
 	@mkdir -p "$(@D)"
 	@${pandoc} ${PANDOC_ARGS} \
 	  --variable SITEURL=${SITEURL} \
@@ -194,7 +195,7 @@ output/works/%.html: content/works/%.md templates/*
 	  -o $@
 
 output/pages/%.html: content/pages/%.md templates/*
-	@echo "html -> $@"
+	@echo "pages -> $@"
 	@mkdir -p "$(@D)"
 	@${pandoc} ${PANDOC_ARGS} \
 	  --variable SITEURL=${SITEURL} \

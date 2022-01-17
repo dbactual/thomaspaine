@@ -1,5 +1,5 @@
 ---
-Title: Life and Deeds of Thomas Paine by Ingersoll
+title: Life and Deeds of Thomas Paine by Ingersoll
 ---
 
    Life and Deeds of Thomas Paine

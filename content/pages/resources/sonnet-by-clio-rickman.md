@@ -1,5 +1,5 @@
 ---
-Title: Sonnet by Clio Rickman
+title: Sonnet by Clio Rickman
 ---
 
                                      Sonnet

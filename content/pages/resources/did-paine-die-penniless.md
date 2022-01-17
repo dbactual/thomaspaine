@@ -1,5 +1,5 @@
 ---
-Title: Did Paine die penniless?
+title: Did Paine die penniless?
 ---
 
    Like the "disheveled drunk" slander, this is not supported by fact. This

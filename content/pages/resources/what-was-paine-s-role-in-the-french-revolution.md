@@ -1,5 +1,5 @@
 ---
-Title: What was Paine's role in the French Revolution?
+title: What was Paine's role in the French Revolution?
 ---
 
    Paine played a similar role in the French Revolution to that in the

@@ -1,5 +1,5 @@
 ---
-Title: Thomas Paine as Political Theorist by Ray Polin
+title: Thomas Paine as Political Theorist by Ray Polin
 ---
 
    by Raymond and Constance Polin

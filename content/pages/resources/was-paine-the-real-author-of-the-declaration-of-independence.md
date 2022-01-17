@@ -1,5 +1,5 @@
 ---
-Title: Was Paine the real author of the Declaration of Independence?
+title: Was Paine the real author of the Declaration of Independence?
 ---
 
    No. Several authors

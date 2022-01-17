@@ -1,5 +1,5 @@
 ---
-Title: Applied Science of Thomas Paine
+title: Applied Science of Thomas Paine
 ---
 *Applied Science of Thomas Paine, Inventor of the United States of America, in the Physical and Organizational Domains*
 
