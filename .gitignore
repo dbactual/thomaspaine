@@ -1,4 +1,10 @@
 *~
 .DS_Store
-gen
-output
+gen/
+output/
+.task/
+# generated files
+templates/timeline.html
+templates/timeline_index.html
+templates/writings.html
+templates/writings_index.html

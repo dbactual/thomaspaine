@@ -1,0 +1,48 @@
+name: deploy
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Install SSH Key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.DEPLOY_KEY }}
+          known_hosts: 'placeholder'
+
+      - name: Adding Known Hosts
+        run: ssh-keyscan -H ${{ secrets.DEPLOY_HOST }} >> ~/.ssh/known_hosts
+
+      - name: install pandoc
+        uses: r-lib/actions/setup-pandoc@v1
+        with:
+          pandoc-version: '2.16.2' # The pandoc version to download (if necessary) and use.
+
+      - name: install packages
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
+          sudo sh -c "$(curl --location https://taskfile.dev/install.sh)" -- -d
+          bash --version
+          ./bin/task --version
+          jq --version
+
+      - name: build
+        run: |
+          ./bin/task
+
+      - name: rsync
+        if: ${{ github.event_name == 'push' }}
+        run: |
+          rsync -avz --del -e "ssh" output/* ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}:${{ secrets.DEPLOY_DIR }}
