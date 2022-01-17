@@ -32,3 +32,8 @@ jobs:
       - name: build
         run: |
           make
+
+      - name: rsync
+        if: ${{ github.event_name == 'push' }}
+        run: |
+          rsync -avz -e "ssh" output/* ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}:~/www/thomaspaine-deployment-dir/
