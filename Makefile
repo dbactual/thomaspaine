@@ -51,7 +51,7 @@ output/css/%: content/css/%
 	@mkdir -p "$(@D)"
 	@cp "$<" "$@"
 
-output/pages/writings_and_timeline.html: content/pages/writings_and_timeline.md gen/* templates/*
+output/pages/writings_and_timeline.html: content/pages/writings_and_timeline.md gen/timeline_index.md gen/writings_index.md templates/*
 	@echo "writings & timeline -> $@"
 	@mkdir -p "$(@D)"
 	@$(pandoc) \
