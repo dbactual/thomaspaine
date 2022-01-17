@@ -1,6 +1,5 @@
 ---
 PubDate: 1802-11-15
-Slug: major-works/to-the-citizens-of-the-united-states
 title: "To the Citizens of the United States"
 ---
 

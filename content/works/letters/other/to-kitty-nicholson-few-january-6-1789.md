@@ -1,6 +1,5 @@
 ---
 PubDate: 1789-01-06
-Slug: letters/other/to-kitty-nicholson-few-january-6-1789
 title: "To Kitty Nicholson Few  January 6, 1789"
 ---
 

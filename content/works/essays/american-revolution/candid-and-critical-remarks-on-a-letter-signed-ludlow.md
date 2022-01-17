@@ -1,6 +1,5 @@
 ---
 PubDate: 1777-06-07
-Slug: essays/american-revolution/candid-and-critical-remarks-on-a-letter-signed-ludlow
 title: "Candid and Critical Remarks on a Letter Signed Ludlow"
 ---
 

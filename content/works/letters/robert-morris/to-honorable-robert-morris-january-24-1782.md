@@ -1,6 +1,5 @@
 ---
 PubDate: 1782-01-24
-Slug: letters/robert-morris/to-honorable-robert-morris-january-24-1782
 title: "To Honorable Robert Morris, Esq.  January 24, 1782"
 ---
 

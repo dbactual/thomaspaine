@@ -1,6 +1,5 @@
 ---
 PubDate: 1803-01-12
-Slug: letters/thomas-jefferson/to-thomas-jefferson-january-12-1803
 title: "To Thomas Jefferson January 12, 1803"
 ---
 

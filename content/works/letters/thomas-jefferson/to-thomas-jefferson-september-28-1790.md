@@ -1,6 +1,5 @@
 ---
 PubDate: 1790-09-28
-Slug: letters/thomas-jefferson/to-thomas-jefferson-september-28-1790
 title: "To Thomas Jefferson  September 28, 1790"
 ---
 

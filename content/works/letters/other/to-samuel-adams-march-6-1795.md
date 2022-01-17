@@ -1,6 +1,5 @@
 ---
 PubDate: 1795-03-06
-Slug: letters/other/to-samuel-adams-march-6-1795
 title: "To Samuel Adams  March 6, 1795"
 ---
 

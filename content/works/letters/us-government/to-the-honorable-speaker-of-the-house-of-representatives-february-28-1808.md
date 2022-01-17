@@ -1,6 +1,5 @@
 ---
 PubDate: 1808-02-28
-Slug: letters/us-government/to-the-honorable-speaker-of-the-house-of-representatives-february-28-1808
 title: "To the Honorable Speaker of the House of Representatives  February 28, 1808"
   
 ---

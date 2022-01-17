@@ -1,6 +1,5 @@
 ---
 PubDate: 1805-07-08
-Slug: essays/english-affairs/remarks-on-english-affairs
 title: "Remarks on English Affairs"
 ---
 

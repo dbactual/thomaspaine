@@ -1,6 +1,5 @@
 ---
 PubDate: 1782-03-01
-Slug: letters/robert-morris/to-honorable-robert-morris-march-1782
 title: "To Honorable Robert Morris, Esq.  March 1782"
 ---
 

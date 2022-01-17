@@ -1,6 +1,5 @@
 ---
 PubDate: 1785-09-23
-Slug: letters/benjamin-franklin/to-honorable-benjamin-franklin-esq-september-23-1785
 title: "To Honorable Benjamin Franklin, ESQ., September 23, 1785"
 ---
 

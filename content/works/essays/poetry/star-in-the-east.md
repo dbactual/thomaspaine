@@ -1,6 +1,5 @@
 ---
 PubDate: 1799-01-01
-Slug: essays/poetry/star-in-the-east
 title: "Star in the East"
 ---
 

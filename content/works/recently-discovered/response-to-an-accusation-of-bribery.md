@@ -1,6 +1,5 @@
 ---
 PubDate: 1782-05-01
-Slug: recently-discovered/response-to-an-accusation-of-bribery
 title: "Response to an Accusation of Bribery"
 ---
 

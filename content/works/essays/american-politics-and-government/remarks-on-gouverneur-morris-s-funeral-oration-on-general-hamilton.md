@@ -1,6 +1,5 @@
 ---
 PubDate: 1804-08-07
-Slug: essays/american-politics-and-government/remarks-on-gouverneur-morris-s-funeral-oration-on-general-hamilton
 title: "Remarks on Gouverneur Morris's Funeral Oration on General Hamilton"
 ---
 

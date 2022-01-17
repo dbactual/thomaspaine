@@ -1,6 +1,5 @@
 ---
 PubDate: 1804-08-02
-Slug: questionable-authorship/to-the-people-of-connecticut
 title: "To the people of Connecticut"
 ---
 

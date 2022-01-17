@@ -1,6 +1,5 @@
 ---
 PubDate: 1799-11-01
-Slug: letters/other/to-general-brune-november-1799
 title: "To General Brune  November, 1799"
 ---
 

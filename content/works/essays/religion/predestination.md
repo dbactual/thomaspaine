@@ -1,6 +1,5 @@
 ---
 PubDate: 1809-01-01
-Slug: essays/religion/predestination
 title: "Predestination"
 ---
 

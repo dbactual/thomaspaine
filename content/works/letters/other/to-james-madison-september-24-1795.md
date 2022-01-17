@@ -1,6 +1,5 @@
 ---
 PubDate: 1795-09-24
-Slug: letters/other/to-james-madison-september-24-1795
 title: "To James Madison  September 24, 1795"
 ---
 

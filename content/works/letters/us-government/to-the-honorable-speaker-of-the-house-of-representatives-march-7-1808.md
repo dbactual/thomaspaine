@@ -1,6 +1,5 @@
 ---
 PubDate: 1808-03-07
-Slug: letters/us-government/to-the-honorable-speaker-of-the-house-of-representatives-march-7-1808
 title: "To the Honorable Speaker of the House of Representatives   March 7, 1808"
   
 ---

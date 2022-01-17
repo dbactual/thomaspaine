@@ -1,6 +1,5 @@
 ---
 PubDate: 1805-09-30
-Slug: letters/thomas-jefferson/to-thomas-jefferson-september-30-1805
 title: "To Thomas Jefferson September 30, 1805"
 ---
 

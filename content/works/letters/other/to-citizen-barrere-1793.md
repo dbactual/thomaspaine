@@ -1,6 +1,5 @@
 ---
 PubDate: 1793-01-01
-Slug: letters/other/to-citizen-barrere-1793
 title: "To Citizen Barrere  1793"
 ---
 

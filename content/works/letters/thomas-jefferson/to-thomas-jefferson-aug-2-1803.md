@@ -1,6 +1,5 @@
 ---
 PubDate: 1803-08-02
-Slug: letters/thomas-jefferson/to-thomas-jefferson-aug-2-1803
 title: "To Thomas Jefferson  August 2, 1803"
 ---
 

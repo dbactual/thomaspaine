@@ -1,6 +1,5 @@
 ---
 PubDate: 1778-12-01
-Slug: essays/american-revolution/a-serious-address-to-the-people-of-penn
 title: "A Serious Address To The People Of Pennsylvania On The Present Situation Of Their Affairs"
 ---
 

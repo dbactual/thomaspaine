@@ -1,6 +1,5 @@
 ---
 PubDate: 1790-04-16
-Slug: letters/other/to-anonymous-april-16-1790
 title: "To Anonymous  April 16, 1790"
 ---
 

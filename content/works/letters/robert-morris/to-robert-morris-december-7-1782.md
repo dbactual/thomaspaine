@@ -1,6 +1,5 @@
 ---
 PubDate: 1782-12-07
-Slug: letters/robert-morris/to-robert-morris-december-7-1782
 title: "To Robert Morris  December 7, 1782"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1782-05-22
-Slug: major-works/american-crisis/the-crisis-xi
 title: "The Crisis XI"
 ---
 

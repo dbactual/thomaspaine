@@ -1,6 +1,5 @@
 ---
 PubDate: 1783-10-13
-Slug: letters/george-washington/to-george-washington-october-13-1783
 title: "To George Washington  October 13, 1783"
 ---
 

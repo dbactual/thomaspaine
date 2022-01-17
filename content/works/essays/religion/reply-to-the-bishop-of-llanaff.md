@@ -1,6 +1,5 @@
 ---
 PubDate: 1803-03-01
-Slug: essays/religion/reply-to-the-bishop-of-llanaff
 title: "Reply to the Bishop of Llanaff"
 ---
 

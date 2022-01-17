@@ -1,6 +1,5 @@
 ---
 PubDate: 1795-08-05
-Slug: letters/other/to-benjamin-franklin-bache-august-5-1795
 title: "To Benjamin Franklin Bache  August 5, 1795"
 ---
 

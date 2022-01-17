@@ -1,6 +1,5 @@
 ---
 PubDate: 1785-12-01
-Slug: letters/other/to-mr-claypoole-pennsylvania-packet-december-1785
 title: "To Mr. Claypoole (Pennsylvania Packet)  December, 1785"
 ---
 

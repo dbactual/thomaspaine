@@ -1,6 +1,5 @@
 ---
 PubDate: 1803-01-01
-Slug: essays/religion/examination-of-the-prophesies
 title: "Examination of the Prophesies "
 ---
 

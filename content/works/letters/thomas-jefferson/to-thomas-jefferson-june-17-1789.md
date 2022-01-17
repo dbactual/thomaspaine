@@ -1,6 +1,5 @@
 ---
 PubDate: 1789-06-17
-Slug: letters/thomas-jefferson/to-thomas-jefferson-june-17-1789
 title: "To Thomas Jefferson  June 17, 1789"
 ---
 

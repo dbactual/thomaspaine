@@ -1,6 +1,5 @@
 ---
 PubDate: 1804-03-24
-Slug: letters/other/to-mr-hyer-march-24-1804
 title: "To Mr. Hyer  March 24, 1804"
 ---
 

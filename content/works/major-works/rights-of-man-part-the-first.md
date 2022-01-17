@@ -1,6 +1,5 @@
 ---
 PubDate: 1791-02-01
-Slug: major-works/rights-of-man-part-the-first
 title: "Rights of Man Part the First"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1775-02-01
-Slug: questionable-authorship/new-anecdotes-of-alexander-the-great
 title: "New Anecdotes of Alexander the Great"
 ---
 

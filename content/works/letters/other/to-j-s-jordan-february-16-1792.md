@@ -1,6 +1,5 @@
 ---
 PubDate: 1792-02-16
-Slug: letters/other/to-j-s-jordan-february-16-1792
 title: "To J.S. Jordan February 16, 1792"
 ---
 

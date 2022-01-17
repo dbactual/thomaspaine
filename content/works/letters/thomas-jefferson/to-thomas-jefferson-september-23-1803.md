@@ -1,6 +1,5 @@
 ---
 PubDate: 1803-09-23
-Slug: letters/thomas-jefferson/to-thomas-jefferson-september-23-1803
 title: "To Thomas Jefferson  September 23, 1803"
 ---
 

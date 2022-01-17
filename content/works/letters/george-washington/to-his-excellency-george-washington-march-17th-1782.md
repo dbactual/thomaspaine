@@ -1,6 +1,5 @@
 ---
 PubDate: 1782-03-17
-Slug: letters/george-washington/to-his-excellency-george-washington-march-17th-1782
 title: "To his Excellency George Washington  March 17th, 1782"
 ---
 

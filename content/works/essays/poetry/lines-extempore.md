@@ -1,6 +1,5 @@
 ---
 PubDate: 1803-07-01
-Slug: essays/poetry/lines-extempore
 title: "Lines, Extempore"
 ---
 

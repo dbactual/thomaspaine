@@ -1,6 +1,5 @@
 ---
 PubDate: 1797-04-27
-Slug: letters/other/to-james-madison-april-27-1797
 title: "To James Madison  April 27, 1797"
 ---
 

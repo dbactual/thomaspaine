@@ -1,6 +1,5 @@
 ---
 PubDate: 1801-06-25
-Slug: letters/thomas-jefferson/to-thomas-jefferson-june-25-1801
 title: "To Thomas Jefferson  June 25,1801"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1796-01-01
-Slug: letters/other/to-m-tallyrand-1796
 title: "To M. Tallyrand  [1797]"
 ---
 

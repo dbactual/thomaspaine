@@ -1,6 +1,5 @@
 ---
 PubDate: 1789-05-01
-Slug: letters/thomas-jefferson/to-thomas-jefferson-may-1789
 title: "To Thomas Jefferson  May 1789"
 ---
 

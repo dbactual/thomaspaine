@@ -1,6 +1,5 @@
 ---
 PubDate: 1803-08-06
-Slug: letters/other/to-james-madison-august-6-1803
 title: "To James Madison  August 6, 1803"
 ---
 

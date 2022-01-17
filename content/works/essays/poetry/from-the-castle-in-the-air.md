@@ -1,6 +1,5 @@
 ---
 PubDate: 1794-02-01
-Slug: essays/poetry/from-the-castle-in-the-air
 title: "From the Castle in the Air"
 ---
 

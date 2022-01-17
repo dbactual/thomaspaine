@@ -1,6 +1,5 @@
 ---
 PubDate: 1797-04-01
-Slug: letters/other/to-citizen-president-spring-1797
 title: "To Citizen President  Spring 1797"
 ---
 

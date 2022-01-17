@@ -1,6 +1,5 @@
 ---
 PubDate: 1775-01-04
-Slug: questionable-authorship/a-dialogue-between-general-wolfe-and-general-gage
 title: "A Dialogue between General Wolfe and General Gage"
 ---
 

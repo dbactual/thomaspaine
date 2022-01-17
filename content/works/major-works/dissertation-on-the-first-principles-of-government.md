@@ -1,6 +1,5 @@
 ---
 PubDate: 1795-07-01
-Slug: major-works/dissertation-on-the-first-principles-of-government
 title: "Dissertation on the First Principles of Government"
 ---
 

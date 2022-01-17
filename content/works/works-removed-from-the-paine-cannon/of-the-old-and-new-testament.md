@@ -1,6 +1,5 @@
 ---
 PubDate: 1803-03-31
-Slug: questionable-authorship/of-the-old-and-new-testament
 title: "Of the Old and New Testament"
 ---
 

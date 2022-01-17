@@ -1,6 +1,5 @@
 ---
 PubDate: 1789-03-26
-Slug: letters/thomas-jefferson/to-thomas-jefferson-february-26th-1789-march-12-1789
 title: "To Thomas Jefferson February 26th, 1789 & March 12, 1789"
 ---
 

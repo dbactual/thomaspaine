@@ -1,6 +1,5 @@
 ---
 PubDate: 1789-03-08
-Slug: letters/other/to-benjamin-west-march-8-1789
 title: "To Benjamin West  March 8, 1789"
 ---
 

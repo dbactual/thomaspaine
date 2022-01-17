@@ -1,6 +1,5 @@
 ---
 PubDate: 1775-05-01
-Slug: questionable-authorship/the-dream-interpreted
 title: "The Dream Interpreted"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1792-02-01
-Slug: major-works/rights-of-man-part-the-second
 title: "Rights of Man Part the Second"
 ---
 

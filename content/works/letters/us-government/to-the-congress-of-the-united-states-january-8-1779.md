@@ -1,6 +1,5 @@
 ---
 PubDate: 1779-01-08
-Slug: letters/us-government/to-the-congress-of-the-united-states-january-8-1779
 title: "To the Congress of the United States  January 8, 1779"
 ---
 

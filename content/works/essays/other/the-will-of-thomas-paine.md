@@ -1,6 +1,5 @@
 ---
 PubDate: 1809-01-18
-Slug: essays/other/the-will-of-thomas-paine
 title: "The Will of Thomas Paine"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1780-09-09
-Slug: letters/other/to-major-general-nathanael-greene-september-9-1780
 title: "To Major-General Nathanael Greene  September 9, 1780"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1803-06-01
-Slug: essays/other/the-construction-of-iron-bridges
 title: "The Construction of Iron Bridges"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1779-06-30
-Slug: essays/american-revolution/peace-and-the-newfoundland-fisheries
 title: "Peace and the Newfoundland Fisheries"
 ---
 

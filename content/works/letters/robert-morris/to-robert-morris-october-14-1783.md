@@ -1,6 +1,5 @@
 ---
 PubDate: 1783-10-14
-Slug: letters/robert-morris/to-robert-morris-october-14-1783
 title: "To Robert Morris  October 14, 1783"
 ---
 

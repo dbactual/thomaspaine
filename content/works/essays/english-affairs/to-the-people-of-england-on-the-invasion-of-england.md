@@ -1,6 +1,5 @@
 ---
 PubDate: 1804-03-06
-Slug: essays/english-affairs/to-the-people-of-england-on-the-invasion-of-england
 title: "To the People of England on the Invasion of England"
 ---
 

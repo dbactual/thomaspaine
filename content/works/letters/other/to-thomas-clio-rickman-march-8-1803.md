@@ -1,6 +1,5 @@
 ---
 PubDate: 1803-03-08
-Slug: letters/other/to-thomas-clio-rickman-march-8-1803
 title: "To Thomas Clio Rickman  March 8, 1803"
 ---
 

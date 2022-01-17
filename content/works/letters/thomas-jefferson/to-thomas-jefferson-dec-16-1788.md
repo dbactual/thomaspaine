@@ -1,6 +1,5 @@
 ---
 PubDate: 1788-12-16
-Slug: letters/thomas-jefferson/to-thomas-jefferson-dec-16-1788
 title: "To Thomas Jefferson December 16, 1788"
 ---
 

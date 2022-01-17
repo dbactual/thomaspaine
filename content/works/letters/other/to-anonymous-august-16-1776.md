@@ -1,6 +1,5 @@
 ---
 PubDate: 1776-08-16
-Slug: letters/other/to-anonymous-august-16-1776
 title: "To Anonymous  August 16, 1776"
 ---
 

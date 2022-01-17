@@ -1,6 +1,5 @@
 ---
 PubDate: 1778-03-21
-Slug: major-works/american-crisis/the-crisis-v
 title: "The Crisis V"
 ---
 

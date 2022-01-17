@@ -1,6 +1,5 @@
 ---
 PubDate: 1786-11-19
-Slug: letters/other/to-the-honarable-thomas-fitzsimmons-november-19th-1786
 title: "To the Honarable Thomas Fitzsimmons  November 19th, 1786"
 ---
 

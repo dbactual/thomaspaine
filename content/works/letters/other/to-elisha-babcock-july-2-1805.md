@@ -1,6 +1,5 @@
 ---
 PubDate: 1805-07-02
-Slug: letters/other/to-elisha-babcock-july-2-1805
 title: "To Elisha Babcock  July 2, 1805"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1781-08-01
-Slug: letters/other/to-his-excellency-thomas-mckean-august-or-september-1781
 title: "To his Excellency Thomas McKean  [August or September, 1781]"
 ---
 

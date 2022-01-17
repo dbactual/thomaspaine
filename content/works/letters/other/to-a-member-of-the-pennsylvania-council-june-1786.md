@@ -1,6 +1,5 @@
 ---
 PubDate: 1786-06-01
-Slug: letters/other/to-a-member-of-the-pennsylvania-council-june-1786
 title: "To a Member of the Pennsylvania Council  June, 1786"
 ---
 

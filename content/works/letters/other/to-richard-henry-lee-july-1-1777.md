@@ -1,6 +1,5 @@
 ---
 PubDate: 1777-07-01
-Slug: letters/other/to-richard-henry-lee-july-1-1777
 title: "To Richard Henry Lee  July 1, 1777"
 ---
 

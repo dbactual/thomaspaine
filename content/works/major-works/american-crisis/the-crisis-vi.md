@@ -1,6 +1,5 @@
 ---
 PubDate: 1778-10-20
-Slug: major-works/american-crisis/the-crisis-vi
 title: "The Crisis VI"
 ---
 

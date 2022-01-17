@@ -1,6 +1,5 @@
 ---
 PubDate: 1808-01-21
-Slug: letters/us-government/to-the-honorable-senate-of-the-united-states-jan-21-1808
 title: "To the Honorable Senate of the United States  January 21, 1808"
 ---
 

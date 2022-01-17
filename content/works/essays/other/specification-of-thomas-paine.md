@@ -1,6 +1,5 @@
 ---
 PubDate: 1788-08-28
-Slug: essays/other/specification-of-thomas-paine
 title: "Specification of Thomas Paine"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1794-10-13
-Slug: letters/james-monroe/to-james-monroe-october-13-1794
 title: "To James Monroe  October 13, 1794"
 ---
 

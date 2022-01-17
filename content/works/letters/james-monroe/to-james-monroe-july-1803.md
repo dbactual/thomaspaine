@@ -1,6 +1,5 @@
 ---
 PubDate: 1803-07-01
-Slug: letters/james-monroe/to-james-monroe-july-1803
 title: "To James Monroe  July, 1803"
 ---
 

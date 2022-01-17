@@ -1,6 +1,5 @@
 ---
 PubDate: 1780-10-04
-Slug: major-works/american-crisis/the-crisis-extraordinary
 title: "The Crisis Extraordinary"
 ---
 

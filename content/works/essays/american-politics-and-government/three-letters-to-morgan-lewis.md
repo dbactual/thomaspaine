@@ -1,6 +1,5 @@
 ---
 PubDate: 1807-04-27
-Slug: essays/american-politics-and-government/three-letters-to-morgan-lewis
 title: "Three Letters to Morgan Lewis"
 ---
 

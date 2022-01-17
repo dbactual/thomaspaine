@@ -1,6 +1,5 @@
 ---
 PubDate: 1786-09-15
-Slug: recently-discovered/on-the-affairs-of-the-state
 title: "On the Affairs of The State"
 ---
 

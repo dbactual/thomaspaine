@@ -1,6 +1,5 @@
 ---
 PubDate: 1778-10-24
-Slug: letters/benjamin-franklin/to-benjamin-franklin-october-24-1778
 title: "To Benjamin Franklin  October 24, 1778"
 ---
 

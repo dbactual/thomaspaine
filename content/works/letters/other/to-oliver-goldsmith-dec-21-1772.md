@@ -1,6 +1,5 @@
 ---
 PubDate: 1772-12-21
-Slug: letters/other/to-oliver-goldsmith-dec-21-1772
 title: "To Oliver Goldsmith  Decemer 21, 1772"
 ---
 

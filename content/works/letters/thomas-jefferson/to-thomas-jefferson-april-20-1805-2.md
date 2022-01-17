@@ -1,6 +1,5 @@
 ---
 PubDate: 1805-04-20
-Slug: letters/thomas-jefferson/to-thomas-jefferson-april-20-1805-2
 title: "To Thomas Jefferson  April 20, 1805 (2)"
 ---
 

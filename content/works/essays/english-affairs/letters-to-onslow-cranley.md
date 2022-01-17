@@ -1,6 +1,5 @@
 ---
 PubDate: 1792-06-17
-Slug: essays/english-affairs/letters-to-onslow-cranley
 title: "Letters to Onslow Cranley"
 ---
 

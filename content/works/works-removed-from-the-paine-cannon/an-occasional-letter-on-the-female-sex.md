@@ -1,6 +1,5 @@
 ---
 PubDate: 1775-08-01
-Slug: questionable-authorship/an-occasional-letter-on-the-female-sex
 title: "An Occasional Letter on the Female Sex"
 ---
 

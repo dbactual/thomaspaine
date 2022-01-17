@@ -1,6 +1,5 @@
 ---
 PubDate: 1779-01-17
-Slug: letters/other/to-the-honorable-henry-laurens-january-17-1779
 title: "To the Honorable Henry Laurens  January 17, 1779"
 ---
 

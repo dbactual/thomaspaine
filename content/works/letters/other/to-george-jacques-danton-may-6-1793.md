@@ -1,6 +1,5 @@
 ---
 PubDate: 1793-05-06
-Slug: letters/other/to-george-jacques-danton-may-6-1793
 title: "To George Jacques Danton May 6, 1793"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1780-03-01
-Slug: major-works/american-crisis/the-crisis-viii
 title: "The Crisis VIII"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1777-10-30
-Slug: letters/other/to-timothy-matlack-oct-30-1777
 title: "To Timothy Matlack  Oct. 30, 1777"
 ---
 

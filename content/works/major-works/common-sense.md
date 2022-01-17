@@ -1,6 +1,5 @@
 ---
 PubDate: 1776-01-10
-Slug: major-works/common-sense
 title: "Common Sense"
 Category: Works
 ---

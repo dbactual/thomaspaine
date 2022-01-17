@@ -1,6 +1,5 @@
 ---
 PubDate: 1787-02-01
-Slug: questionable-authorship/the-society-for-political-inquiries
 title: "The Society for Political Inquiries"
 ---
 

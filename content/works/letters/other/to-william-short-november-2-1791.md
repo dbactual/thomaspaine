@@ -1,6 +1,5 @@
 ---
 PubDate: 1791-11-02
-Slug: letters/other/to-william-short-november-2-1791
 title: "To William Short November 2, 1791"
 ---
 

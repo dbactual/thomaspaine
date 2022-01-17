@@ -1,6 +1,5 @@
 ---
 PubDate: 1785-09-23
-Slug: letters/other/to-temple-franklin-sept-23-1785
 title: "To Temple Franklin  Sept. 23, 1785"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1782-04-04
-Slug: recently-discovered/the-necessity-of-taxation
 title: "The Necessity of Taxation"
 ---
 

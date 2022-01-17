@@ -1,6 +1,5 @@
 ---
 PubDate: 1787-08-20
-Slug: essays/english-affairs/prospects-on-the-rubicon
 title: "Prospects on the Rubicon"
 ---
 

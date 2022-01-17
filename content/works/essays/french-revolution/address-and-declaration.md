@@ -1,6 +1,5 @@
 ---
 PubDate: 1791-08-20
-Slug: essays/french-revolution/address-and-declaration
 title: "Address and Declaration"
 ---
 

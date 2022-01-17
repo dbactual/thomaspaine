@@ -1,6 +1,5 @@
 ---
 PubDate: 1793-02-17
-Slug: letters/other/to-doctor-james-o-fallon-february-the-17-1793
 title: "To Doctor James O'Fallon  February the 17, 1793"
 ---
 

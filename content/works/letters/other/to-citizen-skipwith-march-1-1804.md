@@ -1,6 +1,5 @@
 ---
 PubDate: 1804-03-01
-Slug: letters/other/to-citizen-skipwith-march-1-1804
 title: "To Citizen Skipwith  March 1, 1804"
 ---
 

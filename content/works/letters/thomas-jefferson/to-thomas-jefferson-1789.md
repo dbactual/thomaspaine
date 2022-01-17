@@ -1,6 +1,5 @@
 ---
 PubDate: 1789-01-01
-Slug: letters/thomas-jefferson/to-thomas-jefferson-1789
 title: "To Thomas Jefferson [1789]"
 ---
 

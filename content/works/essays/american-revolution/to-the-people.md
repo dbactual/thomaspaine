@@ -1,6 +1,5 @@
 ---
 PubDate: 1777-03-18
-Slug: essays/american-revolution/to-the-people
 title: "To the People"
 ---
 

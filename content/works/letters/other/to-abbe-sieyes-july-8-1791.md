@@ -1,6 +1,5 @@
 ---
 PubDate: 1791-07-16
-Slug: letters/other/to-abbe-sieyes-july-8-1791
 title: "To Abbe Sieyes  July 8, 1791"
 ---
 

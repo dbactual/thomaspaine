@@ -1,6 +1,5 @@
 ---
 PubDate: 1807-07-21
-Slug: essays/english-affairs/of-the-conparative-powers-and-expense-of-ships-of-war
 title: "Of the Conparative Powers and Expense of Ships of War"
 ---
 

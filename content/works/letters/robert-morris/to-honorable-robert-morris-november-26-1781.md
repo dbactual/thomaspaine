@@ -1,6 +1,5 @@
 ---
 PubDate: 1781-11-26
-Slug: letters/robert-morris/to-honorable-robert-morris-november-26-1781
 title: "To Honorable Robert Morris  November 26, 1781"
 ---
 

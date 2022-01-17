@@ -1,6 +1,5 @@
 ---
 PubDate: 1795-07-02
-Slug: questionable-authorship/observations-on-jay-s-treaty
 title: "Observations on Jay's Treaty"
 ---
 

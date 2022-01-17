@@ -1,6 +1,5 @@
 ---
 PubDate: 1786-11-03
-Slug: recently-discovered/attack-on-paper-money-laws
 title: "Attack On Paper Money Laws"
 ---
 

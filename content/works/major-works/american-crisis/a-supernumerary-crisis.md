@@ -1,6 +1,5 @@
 ---
 PubDate: 1782-05-31
-Slug: major-works/american-crisis/a-supernumerary-crisis
 title: "A Supernumerary Crisis"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1795-10-01
-Slug: major-works/age-of-reason-part-ii
 title: "The Age of Reason - Part II"
 ---
 

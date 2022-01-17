@@ -1,6 +1,5 @@
 ---
 PubDate: 1788-02-19
-Slug: letters/thomas-jefferson/to-thomas-jefferson-feb-19-1788
 title: "To Thomas Jefferson  February 19, 1788"
 ---
 

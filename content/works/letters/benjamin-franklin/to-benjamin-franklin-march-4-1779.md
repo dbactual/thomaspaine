@@ -1,6 +1,5 @@
 ---
 PubDate: 1779-03-04
-Slug: letters/benjamin-franklin/to-benjamin-franklin-march-4-1779
 title: "To Benjamin Franklin  March 4, 1779"
 ---
 

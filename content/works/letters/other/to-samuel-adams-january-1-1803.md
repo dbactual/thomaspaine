@@ -1,6 +1,5 @@
 ---
 PubDate: 1803-01-01
-Slug: letters/other/to-samuel-adams-january-1-1803
 title: "To Samuel Adams  January 1, 1803"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1794-09-14
-Slug: letters/james-monroe/to-james-monroe-september-14-1794
 title: "To James Monroe  September 14, 1794"
 ---
 

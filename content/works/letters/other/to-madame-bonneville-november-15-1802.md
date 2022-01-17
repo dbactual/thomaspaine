@@ -1,6 +1,5 @@
 ---
 PubDate: 1802-11-15
-Slug: letters/other/to-madame-bonneville-november-15-1802
 title: "To Madame Bonneville  November 15, 1802"
 ---
 

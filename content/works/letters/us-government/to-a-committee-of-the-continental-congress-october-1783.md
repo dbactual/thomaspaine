@@ -1,6 +1,5 @@
 ---
 PubDate: 1783-10-01
-Slug: letters/us-government/to-a-committee-of-the-continental-congress-october-1783
 title: "To a Committee of the Continental Congress October, 1783"
 ---
 

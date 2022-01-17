@@ -1,6 +1,5 @@
 ---
 PubDate: 1789-09-18
-Slug: letters/thomas-jefferson/to-thomas-jefferson-september-18-1789
 title: "To Thomas Jefferson September 18, 1789"
 ---
 

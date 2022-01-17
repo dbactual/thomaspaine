@@ -1,6 +1,5 @@
 ---
 PubDate: 1775-10-15
-Slug: questionable-authorship/a-serious-thought
 title: "A Serious Thought"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1781-03-11
-Slug: letters/other/to-james-hutchinson-march-11th-1781
 title: "To James Hutchinson  March 11th, 1781"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1793-09-05
-Slug: letters/other/to-citizen-barrere-september-5-1793
 title: "To Citizen Barrere  September 5, 1793"
 ---
 

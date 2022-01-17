@@ -1,6 +1,5 @@
 ---
 PubDate: 1797-05-14
-Slug: letters/thomas-jefferson/to-thomas-jefferson-may-14-1797
 title: "To Thomas Jefferson  May 14, 1797"
 ---
 

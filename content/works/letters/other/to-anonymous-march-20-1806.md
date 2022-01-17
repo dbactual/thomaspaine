@@ -1,6 +1,5 @@
 ---
 PubDate: 1806-03-20
-Slug: letters/other/to-anonymous-march-20-1806
 title: "To Anonymous  March 20, 1806"
 ---
 

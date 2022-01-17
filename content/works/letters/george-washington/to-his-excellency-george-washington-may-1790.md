@@ -1,6 +1,5 @@
 ---
 PubDate: 1790-05-01
-Slug: letters/george-washington/to-his-excellency-george-washington-may-1790
 title: "To His Excellency George Washington  May 1790"
 ---
 

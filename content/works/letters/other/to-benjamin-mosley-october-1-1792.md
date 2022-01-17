@@ -1,6 +1,5 @@
 ---
 PubDate: 1792-10-01
-Slug: letters/other/to-benjamin-mosley-october-1-1792
 title: "To Benjamin Mosley October 1, 1792"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1795-07-07
-Slug: essays/french-revolution/the-constitution-of-1795
 title: "The Constitution of 1795"
 ---
 

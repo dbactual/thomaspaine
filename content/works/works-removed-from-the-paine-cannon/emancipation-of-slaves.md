@@ -1,6 +1,5 @@
 ---
 PubDate: 1780-03-01
-Slug: questionable-authorship/emancipation-of-slaves
 title: "Emancipation of Slaves"
 ---
 

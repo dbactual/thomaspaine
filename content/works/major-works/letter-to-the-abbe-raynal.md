@@ -1,6 +1,5 @@
 ---
 PubDate: 1782-12-01
-Slug: major-works/letter-to-the-abbe-raynal
 title: "Letter to the Abbe Raynal"
 ---
 

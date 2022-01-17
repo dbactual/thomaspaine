@@ -1,6 +1,5 @@
 ---
 PubDate: 1782-09-06
-Slug: letters/robert-morris/to-robert-morris-september-6-1782
 title: "To Robert Morris  September 6, 1782"
 ---
 

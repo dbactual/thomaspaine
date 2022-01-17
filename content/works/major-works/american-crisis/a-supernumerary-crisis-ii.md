@@ -1,6 +1,5 @@
 ---
 PubDate: 1783-12-09
-Slug: major-works/american-crisis/a-supernumerary-crisis-ii
 title: "A Supernumerary Crisis II"
 ---
 

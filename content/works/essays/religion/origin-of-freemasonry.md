@@ -1,6 +1,5 @@
 ---
 PubDate: 1805-07-01
-Slug: essays/religion/origin-of-freemasonry
 title: "Origin of Freemasonry"
 ---
 

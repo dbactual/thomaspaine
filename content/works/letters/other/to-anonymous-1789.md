@@ -1,6 +1,5 @@
 ---
 PubDate: 1789-01-01
-Slug: letters/other/to-anonymous-1789
 title: "To Anonymous  [1789]"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1777-01-29
-Slug: questionable-authorship/retreat-across-the-delaware
 title: "Retreat across the Delaware"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1800-07-01
-Slug: letters/other/to-anonymous-july-1800
 title: "To Anonymous  July 1800"
 ---
 

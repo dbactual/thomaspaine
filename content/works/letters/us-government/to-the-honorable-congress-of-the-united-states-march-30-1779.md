@@ -1,6 +1,5 @@
 ---
 PubDate: 1779-03-30
-Slug: letters/us-government/to-the-honorable-congress-of-the-united-states-march-30-1779
 title: "To the Honorable Congress of the United States  March 30, 1779"
 ---
 

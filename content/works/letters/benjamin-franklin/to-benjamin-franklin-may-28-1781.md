@@ -1,6 +1,5 @@
 ---
 PubDate: 1781-05-28
-Slug: letters/benjamin-franklin/to-benjamin-franklin-may-28-1781
 title: "To Benjamin Franklin  May 28, 1781"
 ---
 

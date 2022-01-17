@@ -1,6 +1,5 @@
 ---
 PubDate: 1783-06-07
-Slug: letters/other/to-his-excellency-elias-boudinot-june-7th-1783
 title: "To his Excellency Elias Boudinot  June 7th, 1783"
 ---
 

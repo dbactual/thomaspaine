@@ -1,6 +1,5 @@
 ---
 PubDate: 1787-09-21
-Slug: letters/other/to-the-right-honorable-the-marquis-of-lansdowne-sept-21-1787
 title: "To the Right Honorable the Marquis of Lansdowne  Sept. 21, 1787"
 ---
 

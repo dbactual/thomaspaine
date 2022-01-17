@@ -1,6 +1,5 @@
 ---
 PubDate: 1795-01-01
-Slug: letters/james-monroe/to-james-monroe-1795
 title: "To James Monroe  [1795]"
 ---
 

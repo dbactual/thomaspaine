@@ -1,6 +1,5 @@
 ---
 PubDate: 1796-08-13
-Slug: essays/poetry/contentment
 title: "Contentment"
 ---
 

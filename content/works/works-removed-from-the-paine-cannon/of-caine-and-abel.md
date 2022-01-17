@@ -1,6 +1,5 @@
 ---
 PubDate: 1803-03-31
-Slug: questionable-authorship/of-caine-and-abel
 title: "Of Caine And Abel"
 ---
 

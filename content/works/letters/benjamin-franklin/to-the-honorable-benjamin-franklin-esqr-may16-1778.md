@@ -1,6 +1,5 @@
 ---
 PubDate: 1778-05-16
-Slug: letters/benjamin-franklin/to-the-honorable-benjamin-franklin-esqr-may16-1778
 title: "To the Honorable Benjamin Franklin, Esqr.  May 16, 1778"
 ---
 

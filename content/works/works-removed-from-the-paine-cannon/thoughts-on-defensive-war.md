@@ -1,6 +1,5 @@
 ---
 PubDate: 1775-07-01
-Slug: questionable-authorship/thoughts-on-defensive-war
 title: "Thoughts on Defensive War"
 ---
 

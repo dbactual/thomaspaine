@@ -1,6 +1,5 @@
 ---
 PubDate: 1805-03-12
-Slug: letters/other/to-mr-hulbert-of-sheffield-march-12-1805
 title: "To Mr. Hulbert of Sheffield March 12, 1805"
 ---
 

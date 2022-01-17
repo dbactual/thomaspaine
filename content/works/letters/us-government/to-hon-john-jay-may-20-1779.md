@@ -1,6 +1,5 @@
 ---
 PubDate: 1779-05-20
-Slug: letters/us-government/to-hon-john-jay-may-20-1779
 title: "To Hon. John Jay  May 20, 1779"
 ---
 

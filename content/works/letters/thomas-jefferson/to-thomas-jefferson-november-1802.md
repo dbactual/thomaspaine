@@ -1,6 +1,5 @@
 ---
 PubDate: 1802-11-01
-Slug: letters/thomas-jefferson/to-thomas-jefferson-november-1802
 title: "To Thomas Jefferson  November, 1802"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1806-08-15
-Slug: letters/other/letter-to-andrew-dean-august-15-1806
 title: "To Andrew Dean, August 15, 1806"
 ---
 

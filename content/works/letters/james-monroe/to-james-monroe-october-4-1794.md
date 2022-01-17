@@ -1,6 +1,5 @@
 ---
 PubDate: 1794-10-04
-Slug: letters/james-monroe/to-james-monroe-october-4-1794
 title: "To James Monroe  October 4, 1794"
 ---
 

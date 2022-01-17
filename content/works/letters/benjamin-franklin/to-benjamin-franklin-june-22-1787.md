@@ -1,6 +1,5 @@
 ---
 PubDate: 1787-06-22
-Slug: letters/benjamin-franklin/to-benjamin-franklin-june-22-1787
 title: "To Benjamin Franklin  June 22, 1787"
 ---
 

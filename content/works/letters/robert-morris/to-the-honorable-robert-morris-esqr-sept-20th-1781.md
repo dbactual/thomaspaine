@@ -1,6 +1,5 @@
 ---
 PubDate: 1781-09-20
-Slug: letters/robert-morris/to-the-honorable-robert-morris-esqr-sept-20th-1781
 title: "To the Honorable Robert Morris, Esqr.  September 20, [1781]"
 ---
 

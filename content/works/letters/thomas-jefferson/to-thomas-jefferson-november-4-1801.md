@@ -1,6 +1,5 @@
 ---
 PubDate: 1801-11-04
-Slug: letters/thomas-jefferson/to-thomas-jefferson-november-4-1801
 title: "To Thomas Jefferson November 4, 1801"
 ---
 

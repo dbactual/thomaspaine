@@ -1,6 +1,5 @@
 ---
 PubDate: 1783-06-30
-Slug: letters/other/to-w-wallace-junior-june-30th-1783
 title: "To W. Wallace Junior  June 30th, 1783"
 ---
 

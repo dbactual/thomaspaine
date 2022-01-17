@@ -1,6 +1,5 @@
 ---
 PubDate: 1803-10-10
-Slug: letters/To-Elisha-Babcock-1803-10-10
 title: "To Elisha Babcock 1803-10-10"
 ---
 

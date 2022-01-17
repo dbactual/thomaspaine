@@ -1,6 +1,5 @@
 ---
 PubDate: 1795-11-19
-Slug: letters/other/to-gilbert-wakefield-a-b-november-19-1795
 title: "To Gilbert Wakefield, A.B.  November 19, 1795"
 ---
 

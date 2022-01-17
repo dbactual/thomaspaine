@@ -1,6 +1,5 @@
 ---
 PubDate: 1782-02-20
-Slug: letters/robert-morris/to-robert-morris-february-20-1782
 title: "To Robert Morris  February 20, 1782"
 ---
 

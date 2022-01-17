@@ -1,6 +1,5 @@
 ---
 PubDate: 1786-11-19
-Slug: letters/other/to-george-clymer-esquire-nov-19th-1786
 title: "To George Clymer, Esquire Nov 19th, 1786"
 ---
 

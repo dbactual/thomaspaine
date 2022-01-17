@@ -1,6 +1,5 @@
 ---
 PubDate: 1775-09-16
-Slug: essays/poetry/liberty-tree
 title: "Liberty Tree"
 ---
 

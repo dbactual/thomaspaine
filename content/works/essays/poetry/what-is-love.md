@@ -1,6 +1,5 @@
 ---
 PubDate: 1800-12-01
-Slug: essays/poetry/what-is-love
 title: "What is Love?"
 ---
 

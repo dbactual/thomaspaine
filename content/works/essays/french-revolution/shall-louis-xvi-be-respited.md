@@ -1,6 +1,5 @@
 ---
 PubDate: 1793-01-19
-Slug: essays/french-revolution/shall-louis-xvi-be-respited
 title: "Shall Louis XVI be Respited?"
 ---
 

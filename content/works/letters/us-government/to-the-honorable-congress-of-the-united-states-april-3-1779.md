@@ -1,6 +1,5 @@
 ---
 PubDate: 1779-04-03
-Slug: letters/us-government/to-the-honorable-congress-of-the-united-states-april-3-1779
 title: "To the Honorable Congress of the United States  April 3, 1779"
 ---
 

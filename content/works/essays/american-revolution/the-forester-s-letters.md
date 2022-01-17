@@ -1,6 +1,5 @@
 ---
 PubDate: 1776-04-03
-Slug: essays/american-revolution/the-forester-s-letters
 title: "The Forester's Letters"
 ---
 

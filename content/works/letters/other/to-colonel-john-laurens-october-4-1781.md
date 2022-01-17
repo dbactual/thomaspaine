@@ -1,6 +1,5 @@
 ---
 PubDate: 1781-10-04
-Slug: letters/other/to-colonel-john-laurens-october-4-1781
 title: "To Colonel [John] Laurens  October 4, 1781"
 ---
 

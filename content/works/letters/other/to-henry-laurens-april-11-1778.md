@@ -1,6 +1,5 @@
 ---
 PubDate: 1778-04-11
-Slug: letters/other/to-henry-laurens-april-11-1778
 title: "To Henry Laurens  April 11, 1778"
 ---
 

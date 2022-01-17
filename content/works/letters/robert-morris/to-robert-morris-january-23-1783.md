@@ -1,6 +1,5 @@
 ---
 PubDate: 1783-01-23
-Slug: letters/robert-morris/to-robert-morris-january-23-1783
 title: "To Robert Morris  January 23, 1783"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1776-06-10
-Slug: questionable-authorship/dialogue-between-the-ghost-of-general-montgomery-and-an-american-delegate
 title: "Dialogue between the Ghost of General Montgomery and an American Delegate"
 ---
 

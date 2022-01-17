@@ -1,6 +1,5 @@
 ---
 PubDate: 1802-04-01
-Slug: essays/religion/an-essay-on-dream
 title: "An Essay on Dream"
 ---
 

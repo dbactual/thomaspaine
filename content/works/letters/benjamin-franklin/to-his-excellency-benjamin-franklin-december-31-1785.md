@@ -1,6 +1,5 @@
 ---
 PubDate: 1785-12-31
-Slug: letters/benjamin-franklin/to-his-excellency-benjamin-franklin-december-31-1785
 title: "To His Excellency Benjamin Franklin December, 31 1785"
 ---
 

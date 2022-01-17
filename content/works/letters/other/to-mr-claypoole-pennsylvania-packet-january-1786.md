@@ -1,6 +1,5 @@
 ---
 PubDate: 1786-01-01
-Slug: letters/other/to-mr-claypoole-pennsylvania-packet-january-1786
 title: "To Mr Claypoole (Pennsylvania Packet)  January, 1786"
 ---
 

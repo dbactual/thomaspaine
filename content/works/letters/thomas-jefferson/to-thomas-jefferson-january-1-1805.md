@@ -1,6 +1,5 @@
 ---
 PubDate: 1805-01-01
-Slug: letters/thomas-jefferson/to-thomas-jefferson-january-1-1805
 title: "To Thomas Jefferson January 1, 1805"
 ---
 

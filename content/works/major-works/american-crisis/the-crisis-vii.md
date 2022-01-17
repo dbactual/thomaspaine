@@ -1,6 +1,5 @@
 ---
 PubDate: 1778-11-21
-Slug: major-works/american-crisis/the-crisis-vii
 title: "The Crisis VII"
 ---
 

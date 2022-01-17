@@ -1,6 +1,5 @@
 ---
 PubDate: 1796-02-01
-Slug: major-works/agrarian-justice
 title: "Agrarian Justice"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1800-10-04
-Slug: letters/thomas-jefferson/to-thomas-jefferson-october-4-1800
 title: "To Thomas Jefferson October 4, 1800"
 ---
 

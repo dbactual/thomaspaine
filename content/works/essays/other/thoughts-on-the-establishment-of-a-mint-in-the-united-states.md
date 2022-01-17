@@ -1,6 +1,5 @@
 ---
 PubDate: 1791-11-17
-Slug: essays/other/thoughts-on-the-establishment-of-a-mint-in-the-united-states
 title: "Thoughts on the Establishment of a Mint in the United States"
 ---
 

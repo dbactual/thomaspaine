@@ -1,6 +1,5 @@
 ---
 PubDate: 1775-01-01
-Slug: essays/other/the-magazine-in-america
 title: "The Magazine in America"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1784-02-16
-Slug: letters/other/to-general-lewis-morris-feb-16th-1784
 title: "To General Lewis Morris  February 16th, 1784"
 ---
 

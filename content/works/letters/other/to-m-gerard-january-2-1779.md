@@ -1,6 +1,5 @@
 ---
 PubDate: 1779-01-02
-Slug: letters/other/to-m-gerard-january-2-1779
 title: "To M. Gerard  January 2, 1779"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1792-11-20
-Slug: essays/french-revolution/on-the-propriety-of-bringing-louis-xvi-to-trial
 title: "On the Propriety of Bringing Louis XVI to Trial"
 ---
 

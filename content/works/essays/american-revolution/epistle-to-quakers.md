@@ -1,6 +1,5 @@
 ---
 PubDate: 1776-02-14
-Slug: essays/american-revolution/epistle-to-quakers
 title: "Epistle to Quakers"
 ---
 

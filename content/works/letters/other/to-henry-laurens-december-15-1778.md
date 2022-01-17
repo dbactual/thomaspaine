@@ -1,6 +1,5 @@
 ---
 PubDate: 1778-12-15
-Slug: letters/other/to-henry-laurens-december-15-1778
 title: "To Henry Laurens  December 15, 1778"
 ---
 

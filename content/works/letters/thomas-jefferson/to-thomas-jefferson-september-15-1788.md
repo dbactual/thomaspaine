@@ -1,6 +1,5 @@
 ---
 PubDate: 1788-09-15
-Slug: letters/thomas-jefferson/to-thomas-jefferson-september-15-1788
 title: "To Thomas Jefferson September 15, 1788"
 ---
 

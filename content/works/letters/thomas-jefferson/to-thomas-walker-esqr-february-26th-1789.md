@@ -1,6 +1,5 @@
 ---
 PubDate: 1789-02-26
-Slug: letters/thomas-jefferson/to-thomas-walker-esqr-february-26th-1789
 title: "To Thomas Walker, Esqr.  February 26th, 1789"
 ---
 

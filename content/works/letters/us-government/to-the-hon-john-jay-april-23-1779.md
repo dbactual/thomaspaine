@@ -1,6 +1,5 @@
 ---
 PubDate: 1779-04-23
-Slug: letters/us-government/to-the-hon-john-jay-april-23-1779
 title: "To the Hon. John Jay  April 23, 1779"
 ---
 

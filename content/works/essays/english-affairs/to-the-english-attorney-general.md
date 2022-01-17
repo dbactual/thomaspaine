@@ -1,6 +1,5 @@
 ---
 PubDate: 1792-05-01
-Slug: essays/english-affairs/to-the-english-attorney-general
 title: "To the English Attorney-General"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1792-10-20
-Slug: essays/french-revolution/an-essay-for-the-use-of-new-republicans
 title: "An Essay for the Use of New Republicans "
 ---
 

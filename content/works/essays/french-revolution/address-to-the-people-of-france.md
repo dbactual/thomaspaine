@@ -1,6 +1,5 @@
 ---
 PubDate: 1792-09-25
-Slug: essays/french-revolution/address-to-the-people-of-france
 title: "Address to the People of France"
 ---
 

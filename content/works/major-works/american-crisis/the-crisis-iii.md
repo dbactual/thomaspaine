@@ -1,6 +1,5 @@
 ---
 PubDate: 1777-04-17
-Slug: major-works/american-crisis/the-crisis-iii
 title: "The Crisis III"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1779-09-14
-Slug: letters/other/to-the-honorable-henry-laurens-september-14-1779
 title: "To the Honorable Henry Laurens  September 14, 1779"
 ---
 

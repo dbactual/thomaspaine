@@ -1,6 +1,5 @@
 ---
 PubDate: 1778-06-05
-Slug: letters/george-washington/to-his-excellency-george-washington-june-5th-1778
 title: "To his Excellency George Washington  June 5th, 1778"
 ---
 

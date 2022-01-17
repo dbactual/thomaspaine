@@ -1,6 +1,5 @@
 ---
 PubDate: 1777-07-09
-Slug: letters/benjamin-franklin/to-honorable-benjamin-franklin-ll-d-july-9th-1777
 title: "To Honorable Benjamin Franklin, LL.D.  July 9th, 1777"
 ---
 

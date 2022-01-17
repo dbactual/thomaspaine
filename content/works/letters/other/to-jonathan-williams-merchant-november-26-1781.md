@@ -1,6 +1,5 @@
 ---
 PubDate: 1781-11-26
-Slug: letters/other/to-jonathan-williams-merchant-november-26-1781
 title: "To Jonathan Williams, Merchant  November 26, 1781"
 ---
 

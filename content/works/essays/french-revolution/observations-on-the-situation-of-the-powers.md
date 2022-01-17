@@ -1,6 +1,5 @@
 ---
 PubDate: 1793-01-01
-Slug: essays/french-revolution/observations-on-the-situation-of-the-powers
 title: "Observations on the Situation of the Powers"
 ---
 

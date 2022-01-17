@@ -1,6 +1,5 @@
 ---
 PubDate: 1803-01-01
-Slug: letters/other/to-the-editor-of-the-national-intelligencer-january-1-1803
 title: "To the Editor of the National Intelligencer  January 1, 1803"
 ---
 

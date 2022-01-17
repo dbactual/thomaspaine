@@ -1,6 +1,5 @@
 ---
 PubDate: 1794-08-15
-Slug: letters/james-monroe/to-james-monroe-august-15-1794
 title: "To James Monroe  August 15, 1794"
 ---
 

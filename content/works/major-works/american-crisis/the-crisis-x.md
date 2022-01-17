@@ -1,6 +1,5 @@
 ---
 PubDate: 1782-03-05
-Slug: major-works/american-crisis/the-crisis-x
 title: "The Crisis X"
 ---
 

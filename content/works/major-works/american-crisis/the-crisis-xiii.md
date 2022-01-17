@@ -1,6 +1,5 @@
 ---
 PubDate: 1783-04-19
-Slug: major-works/american-crisis/the-crisis-xiii
 title: "The Crisis XIII"
 ---
 

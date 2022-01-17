@@ -1,6 +1,5 @@
 ---
 PubDate: 1807-18-01
-Slug: essays/other/to-the-people-of-new-york
 title: "To the People of New York"
 ---
 

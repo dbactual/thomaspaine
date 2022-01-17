@@ -1,6 +1,5 @@
 ---
 PubDate: 1772-11-01
-Slug: essays/other/case-of-the-excise-officers
 title: "Case of the Excise Officers"
 ---
 

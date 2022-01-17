@@ -1,6 +1,5 @@
 ---
 PubDate: 1808-07-08
-Slug: letters/thomas-jefferson/to-thomas-jefferson-july-8-1808
 title: "To Thomas Jefferson July 8, 1808"
 ---
 

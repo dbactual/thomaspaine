@@ -1,6 +1,5 @@
 ---
 PubDate: 1792-06-30
-Slug: essays/english-affairs/to-the-sheriff-of-the-county-of-sussex
 title: "To The Sheriff of the County of Sussex"
 ---
 

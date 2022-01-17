@@ -1,6 +1,5 @@
 ---
 PubDate: 1790-06-28
-Slug: letters/other/to-william-short-june-28-1790
 title: "To William Short June 28, 1790"
 ---
 

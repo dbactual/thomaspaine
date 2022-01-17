@@ -1,6 +1,5 @@
 ---
 PubDate: 1779-01-31
-Slug: letters/george-washington/to-his-excellency-george-washington-january-31-1779
 title: "To his Excellency George Washington  January 31, 1779"
 ---
 

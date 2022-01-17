@@ -1,6 +1,5 @@
 ---
 PubDate: 1806-04-23
-Slug: letters/other/to-william-duane-april-23-1806
 title: "To William Duane  April 23, 1806"
 ---
 

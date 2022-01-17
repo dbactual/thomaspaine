@@ -1,6 +1,5 @@
 ---
 PubDate: 1779-10-11
-Slug: letters/other/to-the-supreme-executive-council-of-pennsylvania-october-11-1779
 title: "To the Supreme Executive Council of Pennsylvania   October 11, 1779"
 ---
 

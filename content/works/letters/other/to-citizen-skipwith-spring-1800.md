@@ -1,6 +1,5 @@
 ---
 PubDate: 1800-04-01
-Slug: letters/other/to-citizen-skipwith-spring-1800
 title: "To Citizen Skipwith  Spring 1800"
 ---
 

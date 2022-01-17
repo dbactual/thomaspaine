@@ -1,6 +1,5 @@
 ---
 PubDate: 1775-03-04
-Slug: letters/benjamin-franklin/to-honorable-benjamin-franklin-esqr-march-4th-1775
 title: "To Honorable Benjamin Franklin Esqr.  March 4th, 1775"
 ---
 

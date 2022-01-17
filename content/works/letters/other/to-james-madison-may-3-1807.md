@@ -1,6 +1,5 @@
 ---
 PubDate: 1807-05-03
-Slug: letters/other/to-james-madison-may-3-1807
 title: "To James Madison  May 3, 1807"
 ---
 

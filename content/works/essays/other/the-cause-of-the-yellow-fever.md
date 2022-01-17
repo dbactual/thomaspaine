@@ -1,6 +1,5 @@
 ---
 PubDate: 1806-06-27
-Slug: essays/other/the-cause-of-the-yellow-fever
 title: "The Cause of the Yellow Fever"
 ---
 

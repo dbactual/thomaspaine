@@ -1,6 +1,5 @@
 ---
 PubDate: 1792-02-13
-Slug: letters/thomas-jefferson/to-thomas-jefferson-february-13-1792
 title: "To Thomas Jefferson  February 13, 1792"
 ---
 

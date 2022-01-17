@@ -1,6 +1,5 @@
 ---
 PubDate: 1797-12-29
-Slug: letters/other/to-citizen-barras-december-29-1797
 title: "To Citizen Barras  December 29, 1797"
 ---
 

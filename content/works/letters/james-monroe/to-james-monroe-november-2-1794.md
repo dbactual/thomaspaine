@@ -1,6 +1,5 @@
 ---
 PubDate: 1794-11-02
-Slug: letters/james-monroe/to-james-monroe-november-2-1794
 title: "To James Monroe  November 2, 1794"
 ---
 

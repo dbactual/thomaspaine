@@ -1,6 +1,5 @@
 ---
 PubDate: 1786-06-06
-Slug: letters/benjamin-franklin/to-his-excellency-benjamin-franklin-esquire-june-6th-1786
 title: "To His Excellency Benjamin Franklin, Esquire  June 6th, 1786"
 ---
 

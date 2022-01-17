@@ -1,6 +1,5 @@
 ---
 PubDate: 1779-09-28
-Slug: letters/other/to-the-supreme-executive-council-of-the-state-of-pennsylvania-september-28th-1779
 title: "To the Supreme Executive Council of the State of Pennsylvania  September 28th, 1779"
 ---
 

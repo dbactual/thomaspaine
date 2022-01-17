@@ -1,6 +1,5 @@
 ---
 PubDate: 1805-04-22
-Slug: letters/other/to-john-fellows-april-22-1805
 title: "To John Fellows  April 22, 1805"
 ---
 

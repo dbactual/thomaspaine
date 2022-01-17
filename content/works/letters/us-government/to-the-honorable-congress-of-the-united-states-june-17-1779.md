@@ -1,6 +1,5 @@
 ---
 PubDate: 1779-06-17
-Slug: letters/us-government/to-the-honorable-congress-of-the-united-states-june-17-1779
 title: "To the Honorable Congress of the United States  June 17, 1779"
 ---
 

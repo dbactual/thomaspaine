@@ -1,6 +1,5 @@
 ---
 PubDate: 1803-07-29
-Slug: letters/other/to-charles-w-peale-july-29th-1803
 title: "To Charles W. Peale  July 29th, 1803"
 ---
 

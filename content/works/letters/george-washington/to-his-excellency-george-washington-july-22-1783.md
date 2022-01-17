@@ -1,6 +1,5 @@
 ---
 PubDate: 1783-07-22
-Slug: letters/george-washington/to-his-excellency-george-washington-july-22-1783
 title: "To his Excellency George Washington July 22, 1783"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1792-12-04
-Slug: letters/other/citizen-le-brun-december-4-1792
 title: "To Citizen Le Brun  December 4, 1792"
 ---
 

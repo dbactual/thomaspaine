@@ -1,6 +1,5 @@
 ---
 PubDate: 1797-01-20
-Slug: letters/other/to-colonel-john-fellows-january-20-1797
 title: "To Colonel John Fellows  January 20, 1797"
 ---
 

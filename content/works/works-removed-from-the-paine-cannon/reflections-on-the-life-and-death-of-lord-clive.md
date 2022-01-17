@@ -1,6 +1,5 @@
 ---
 PubDate: 1775-03-01
-Slug: questionable-authorship/reflections-on-the-life-and-death-of-lord-clive
 title: "Reflections on the Life and Death of Lord Clive"
 ---
 

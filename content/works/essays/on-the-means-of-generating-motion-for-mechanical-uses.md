@@ -1,6 +1,5 @@
 ---
 PubDate: 1801-06-25
-Slug: essays/on-the-means-of-generating-motion-for-mechanical-uses
 title: "On the Means of generating Motion for Mechanical Uses"
 ---
 

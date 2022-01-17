@@ -1,6 +1,5 @@
 ---
 PubDate: 1804-09-01
-Slug: questionable-authorship/to-the-members-of-the-society
 title: "To the Members of the Society"
 ---
 

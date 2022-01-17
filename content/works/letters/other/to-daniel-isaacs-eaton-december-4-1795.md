@@ -1,6 +1,5 @@
 ---
 PubDate: 1795-12-04
-Slug: letters/other/to-daniel-isaacs-eaton-december-4-1795
 title: "To Daniel Isaacs Eaton  December 4, 1795"
 ---
 

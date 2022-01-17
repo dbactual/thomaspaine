@@ -1,6 +1,5 @@
 ---
 PubDate: 1782-10-02
-Slug: essays/poetry/epitaph-on-general-charles-lee
 title: "Epitaph on General Charles Lee"
 ---
 

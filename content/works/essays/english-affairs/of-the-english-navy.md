@@ -1,6 +1,5 @@
 ---
 PubDate: 1807-01-01
-Slug: essays/english-affairs/of-the-english-navy
 title: "Of the English Navy"
 ---
 

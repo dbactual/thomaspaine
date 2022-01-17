@@ -1,6 +1,5 @@
 ---
 PubDate: 1804-08-27
-Slug: letters/to-elisha-babcock-1804-08-27
 title: "To Elisha Babcock 1804-08-27"
 ---
 

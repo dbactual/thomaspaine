@@ -1,6 +1,5 @@
 ---
 PubDate: 1777-01-13
-Slug: major-works/american-crisis/the-crisis-ii
 title: "The Crisis II"
 ---
 

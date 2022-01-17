@@ -1,6 +1,5 @@
 ---
 PubDate: 1793-12-28
-Slug: major-works/the-age-of-reason-part-1
 title: "The Age of Reason - Part I"
 ---
 

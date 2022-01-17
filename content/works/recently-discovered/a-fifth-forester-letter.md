@@ -1,6 +1,5 @@
 ---
 PubDate: 1776-04-30
-Slug: recently-discovered/a-fifth-forester-letter
 title: "A Fifth Forester Letter"
 ---
 

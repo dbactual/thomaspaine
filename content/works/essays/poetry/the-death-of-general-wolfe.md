@@ -1,6 +1,5 @@
 ---
 PubDate: 1775-03-01
-Slug: essays/poetry/the-death-of-general-wolfe
 title: "The Death of General Wolfe"
 ---
 

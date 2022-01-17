@@ -1,6 +1,5 @@
 ---
 PubDate: 1792-06-06
-Slug: essays/english-affairs/letters-on-the-prosecution-of-rights-of-man
 title: "Letters on the Prosecution of Rights of Man"
 ---
 

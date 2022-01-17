@@ -1,6 +1,5 @@
 ---
 PubDate: 1782-11-20
-Slug: letters/robert-morris/to-robert-morris-november-20-1782
 title: "To Robert Morris  November 20, 1782"
 ---
 

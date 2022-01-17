@@ -1,6 +1,5 @@
 ---
 PubDate: 1802-12-25
-Slug: letters/thomas-jefferson/to-thomas-jefferson-dec-25-1802
 title: "To Thomas Jefferson Dec 25, 1802"
 ---
 

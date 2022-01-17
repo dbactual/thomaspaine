@@ -1,6 +1,5 @@
 ---
 PubDate: 1807-05-04
-Slug: letters/other/to-joel-barlow-may-4-1807
 title: "To Joel Barlow  May 4, 1807"
 ---
 

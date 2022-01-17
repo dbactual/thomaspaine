@@ -1,6 +1,5 @@
 ---
 PubDate: 1807-12-30
-Slug: letters/james-monroe/to-james-monroe-december-30-1807
 title: "To James Monroe  December 30, 1807"
 ---
 

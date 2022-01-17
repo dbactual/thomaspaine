@@ -1,6 +1,5 @@
 ---
 PubDate: 1783-08-06
-Slug: essays/american-politics-and-government/the-address-of-the-citizens-of-philadelphia
 title: "The Address of the Citizens of Philadelphia"
 ---
 

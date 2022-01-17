@@ -1,6 +1,5 @@
 ---
 PubDate: 1779-09-18
-Slug: letters/other/to-his-excellency-joseph-reed-esq-sept-18th-1779
 title: "To his Excellency Joseph Reed, Esq.  Sept. 18th, 1779"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1785-08-18
-Slug: letters/us-government/to-the-continental-congress-august-13-1785
 title: "To the Continental Congress August 13, 1785"
 ---
 

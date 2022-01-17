@@ -1,6 +1,5 @@
 ---
 PubDate: 1777-09-12
-Slug: major-works/american-crisis/the-crisis-iv
 title: "The Crisis IV"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1797-11-12
-Slug: essays/french-revolution/the-eighteenth-fructidor
 title: "The Eighteenth Fructidor"
 ---
 

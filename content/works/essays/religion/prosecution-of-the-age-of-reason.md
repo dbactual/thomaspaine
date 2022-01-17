@@ -1,6 +1,5 @@
 ---
 PubDate: 1797-09-01
-Slug: essays/religion/prosecution-of-the-age-of-reason
 title: "Prosecution of the Age of Reason"
 ---
 

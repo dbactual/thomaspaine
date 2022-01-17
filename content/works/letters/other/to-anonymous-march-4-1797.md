@@ -1,6 +1,5 @@
 ---
 PubDate: 1797-03-04
-Slug: letters/other/to-anonymous-march-4-1797
 title: "To Anonymous  March 4, 1797"
 ---
 

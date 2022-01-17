@@ -1,6 +1,5 @@
 ---
 PubDate: 1783-09-21
-Slug: letters/george-washington/to-his-excellency-george-washington-september-21-1783
 title: "To his Excellency George Washington  September 21, 1783"
 ---
 

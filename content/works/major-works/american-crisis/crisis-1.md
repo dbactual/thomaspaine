@@ -1,6 +1,5 @@
 ---
 PubDate: 1776-12-23
-Slug: major-works/american-crisis/crisis-1
 title: "The Crisis I"
 ---
 

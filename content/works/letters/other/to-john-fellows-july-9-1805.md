@@ -1,6 +1,5 @@
 ---
 PubDate: 1805-07-09
-Slug: letters/other/to-john-fellows-july-9-1805
 title: "To John Fellows  July 9, 1805"
 ---
 

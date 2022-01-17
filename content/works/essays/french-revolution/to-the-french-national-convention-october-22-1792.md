@@ -1,6 +1,5 @@
 ---
 PubDate: 1792-10-22
-Slug: essays/french-revolution/to-the-french-national-convention-october-22-1792
 title: "To the French National Convention  October 22, 1792"
 ---
 

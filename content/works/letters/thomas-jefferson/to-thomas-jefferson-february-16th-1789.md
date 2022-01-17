@@ -1,6 +1,5 @@
 ---
 PubDate: 1789-02-16
-Slug: letters/thomas-jefferson/to-thomas-jefferson-february-16th-1789
 title: "To Thomas Jefferson  February, 16th, 1789"
 ---
 

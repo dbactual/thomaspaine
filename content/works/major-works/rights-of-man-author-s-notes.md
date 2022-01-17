@@ -1,6 +1,5 @@
 ---
 PubDate: 1792-02-01
-Slug: major-works/rights-of-man-author-s-notes
 title: "Rights of Man Author's Notes"
 ---
 

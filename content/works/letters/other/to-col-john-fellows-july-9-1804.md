@@ -1,6 +1,5 @@
 ---
 PubDate: 1804-07-09
-Slug: letters/other/to-col-john-fellows-july-9-1804
 title: "To Col. John Fellows  July 9, 1804"
 ---
 

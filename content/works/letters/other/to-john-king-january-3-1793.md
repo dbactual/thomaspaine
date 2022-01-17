@@ -1,6 +1,5 @@
 ---
 PubDate: 1793-01-03
-Slug: letters/other/to-john-king-january-3-1793
 title: "To John King  January 3, 1793"
 ---
 

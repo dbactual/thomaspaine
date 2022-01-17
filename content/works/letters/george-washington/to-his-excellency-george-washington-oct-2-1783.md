@@ -1,6 +1,5 @@
 ---
 PubDate: 1783-10-02
-Slug: letters/george-washington/to-his-excellency-george-washington-oct-2-1783
 title: "To his Excellency George Washington   October 2, 1783"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1807-09-25
-Slug: essays/american-politics-and-government/cheethem-and-his-tory-paper
 title: "Cheethem and his Tory Paper"
 ---
 

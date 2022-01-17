@@ -1,6 +1,5 @@
 ---
 PubDate: 1787-03-31
-Slug: letters/benjamin-franklin/to-his-excellency-benjamin-franklin-march-31-1787
 title: "To His Excellency Benjamin Franklin  March 31, 1787"
 ---
 

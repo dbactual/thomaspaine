@@ -1,6 +1,5 @@
 ---
 PubDate: 1775-03-08
-Slug: questionable-authorship/african-slavery-in-america
 title: "African Slavery in America"
 ---
 

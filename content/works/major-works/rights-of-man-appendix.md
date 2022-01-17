@@ -1,6 +1,5 @@
 ---
 PubDate: 1791-02-01
-Slug: major-works/rights-of-man-appendix
 title: "Rights of Man Appendix"
 ---
 

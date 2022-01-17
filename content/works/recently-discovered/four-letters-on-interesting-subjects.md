@@ -1,6 +1,5 @@
 ---
 PubDate: 1776-06-01
-Slug: recently-discovered/four-letters-on-interesting-subjects
 title: "Four Letters on Interesting Subjects"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1783-06-13
-Slug: letters/other/to-doctor-benjamin-rush-june-13th-1783
 title: "To Doctor Benjamin Rush  June 13th, 1783"
 ---
 

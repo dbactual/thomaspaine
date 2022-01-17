@@ -1,6 +1,5 @@
 ---
 PubDate: 1775-03-01
-Slug: essays/poetry/an-account-of-the-burning-of-bachelors-hall
 title: "An Account of the Burning of Bachelors' Hall"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1807-08-14
-Slug: essays/english-affairs/on-the-question-will-there-be-war
 title: "On the Question Will There be War?"
 ---
 

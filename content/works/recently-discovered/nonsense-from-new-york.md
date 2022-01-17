@@ -1,6 +1,5 @@
 ---
 PubDate: 1804-08-23
-Slug: recently-discovered/nonsense-from-new-york
 title: "Nonsense from New York"
 ---
 

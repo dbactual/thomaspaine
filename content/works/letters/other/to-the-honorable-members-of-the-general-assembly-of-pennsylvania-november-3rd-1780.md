@@ -1,6 +1,5 @@
 ---
 PubDate: 1780-11-03
-Slug: letters/other/to-the-honorable-members-of-the-general-assembly-of-pennsylvania-november-3rd-1780
 title: "To the Honorable Members of the General Assembly of Pennsylvania  November 3rd, 1780."
 ---
 

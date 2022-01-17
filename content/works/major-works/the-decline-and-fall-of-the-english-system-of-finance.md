@@ -1,6 +1,5 @@
 ---
 PubDate: 1796-04-08
-Slug: major-works/the-decline-and-fall-of-the-english-system-of-finance
 title: "The Decline and Fall of the English System of Finance"
 ---
 

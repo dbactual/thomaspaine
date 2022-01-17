@@ -1,6 +1,5 @@
 ---
 PubDate: 1793-09-15
-Slug: essays/french-revolution/reasons-for-preserving-the-life-of-louis-capet
 title: "Reasons for Preserving the Life of Louis Capet"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1778-04-01
-Slug: letters/other/to-henry-laurens-spring-1778
 title: "To Henry Laurens  Spring 1778"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1791-11-25
-Slug: letters/other/to-john-hall-november-25-1791
 title: "To John Hall  November 25, 1791"
 ---
 

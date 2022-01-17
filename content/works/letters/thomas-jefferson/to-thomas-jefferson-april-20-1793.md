@@ -1,6 +1,5 @@
 ---
 PubDate: 1793-04-20
-Slug: letters/thomas-jefferson/to-thomas-jefferson-april-20-1793
 title: "To Thomas Jefferson  April 20, 1793"
 ---
 

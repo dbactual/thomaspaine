@@ -1,6 +1,5 @@
 ---
 PubDate: 1778-12-15
-Slug: essays/american-revolution/the-affair-of-silas-deane
 title: "The Affair of Silas Deane"
 ---
 

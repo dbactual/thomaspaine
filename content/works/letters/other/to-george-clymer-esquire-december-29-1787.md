@@ -1,6 +1,5 @@
 ---
 PubDate: 1787-12-29
-Slug: letters/other/to-george-clymer-esquire-december-29-1787
 title: "To George Clymer, Esquire   December 29, 1787"
 ---
 

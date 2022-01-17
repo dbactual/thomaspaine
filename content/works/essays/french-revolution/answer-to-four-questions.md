@@ -1,6 +1,5 @@
 ---
 PubDate: 1792-06-01
-Slug: essays/french-revolution/answer-to-four-questions
 title: "Answer to Four Questions"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1796-08-13
-Slug: letters/other/to-a-french-minister-august-13-1796
 title: "To a French Minister  August 13, 1796"
 ---
 

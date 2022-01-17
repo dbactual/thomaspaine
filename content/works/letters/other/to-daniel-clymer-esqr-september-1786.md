@@ -1,6 +1,5 @@
 ---
 PubDate: 1786-09-01
-Slug: letters/other/to-daniel-clymer-esqr-september-1786
 title: "To Daniel Clymer, Esqr.  September 1786"
 ---
 

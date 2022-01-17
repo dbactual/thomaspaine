@@ -1,6 +1,5 @@
 ---
 PubDate: 1794-06-01
-Slug: essays/other/forgetfulness
 title: "Forgetfulness"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1779-10-16
-Slug: recently-discovered/to-the-printer-of-the-pennsylvania-packet
 title: "To the Printer of the Pennsylvania Packet"
 ---
 

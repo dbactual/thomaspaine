@@ -1,6 +1,5 @@
 ---
 PubDate: 1777-06-20
-Slug: letters/benjamin-franklin/to-honorable-benjamin-franklin-ll-d-june-20th-1777
 title: "To Honorable Benjamin Franklin LL.D.  June 20th, 1777"
 ---
 

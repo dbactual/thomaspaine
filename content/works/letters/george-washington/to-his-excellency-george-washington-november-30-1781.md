@@ -1,6 +1,5 @@
 ---
 PubDate: 1781-11-30
-Slug: letters/george-washington/to-his-excellency-george-washington-november-30-1781
 title: "To his Excellency George Washington  November 30, 1781"
 ---
 

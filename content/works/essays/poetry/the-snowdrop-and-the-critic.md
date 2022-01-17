@@ -1,6 +1,5 @@
 ---
 PubDate: 1775-01-01
-Slug: essays/poetry/the-snowdrop-and-the-critic
 title: "The Snowdrop and the Critic"
 ---
 

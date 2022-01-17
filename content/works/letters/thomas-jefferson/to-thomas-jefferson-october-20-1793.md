@@ -1,6 +1,5 @@
 ---
 PubDate: 1793-10-20
-Slug: letters/thomas-jefferson/to-thomas-jefferson-october-20-1793
 title: "To Thomas Jefferson  October 20, 1793"
 ---
 

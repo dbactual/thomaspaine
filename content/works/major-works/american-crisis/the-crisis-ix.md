@@ -1,6 +1,5 @@
 ---
 PubDate: 1780-06-09
-Slug: major-works/american-crisis/the-crisis-ix
 title: "The Crisis IX"
 ---
 

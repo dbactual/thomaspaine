@@ -1,6 +1,5 @@
 ---
 PubDate: 1777-07-16
-Slug: letters/other/to-william-bingham-july-16-1777
 title: "To William Bingham  July 16, 1777"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1804-11-26
-Slug: questionable-authorship/connecticut-has-no-constitution
 title: "Connecticut has no Constitution"
 ---
 

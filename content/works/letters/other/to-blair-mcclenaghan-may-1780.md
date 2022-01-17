@@ -1,6 +1,5 @@
 ---
 PubDate: 1780-05-01
-Slug: letters/other/to-blair-mcclenaghan-may-1780
 title: "To Blair McClenaghan  May, 1780"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1793-07-01
-Slug: questionable-authorship/citizen-of-america-to-citizens-of-europe
 title: "Citizen of America to Citizens of Europe"
 ---
 

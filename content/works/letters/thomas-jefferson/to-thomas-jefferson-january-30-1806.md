@@ -1,6 +1,5 @@
 ---
 PubDate: 1806-01-30
-Slug: letters/thomas-jefferson/to-thomas-jefferson-january-30-1806
 title: "To Thomas Jefferson January 30, 1806"
 ---
 

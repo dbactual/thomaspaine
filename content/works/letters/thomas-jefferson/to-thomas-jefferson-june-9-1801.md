@@ -1,6 +1,5 @@
 ---
 PubDate: 1801-06-09
-Slug: letters/thomas-jefferson/to-thomas-jefferson-june-9-1801
 title: "To Thomas Jefferson June 9, 1801"
 ---
 

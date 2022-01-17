@@ -1,6 +1,5 @@
 ---
 PubDate: 1801-01-03
-Slug: essays/religion/the-existence-of-god
 title: "The Existence of God"
 ---
 

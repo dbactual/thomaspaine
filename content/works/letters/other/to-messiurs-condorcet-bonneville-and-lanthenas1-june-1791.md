@@ -1,6 +1,5 @@
 ---
 PubDate: 1791-06-01
-Slug: letters/other/to-messiurs-condorcet-bonneville-and-lanthenas1-june-1791
 title: "To Messiurs Condorcet, Bonneville, and Lanthenas1  June, 1791."
 ---
 

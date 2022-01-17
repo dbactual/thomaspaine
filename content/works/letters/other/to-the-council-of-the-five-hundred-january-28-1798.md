@@ -1,6 +1,5 @@
 ---
 PubDate: 1779-01-28
-Slug: letters/other/to-the-council-of-the-five-hundred-january-28-1798
 title: "To the Council of the Five Hundred  January 28, 1798"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1797-05-12
-Slug: essays/religion/age-of-reason-letters
 title: "Age of Reason Letters"
 ---
 

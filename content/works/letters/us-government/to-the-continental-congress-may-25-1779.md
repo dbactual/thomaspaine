@@ -1,6 +1,5 @@
 ---
 PubDate: 1779-05-25
-Slug: letters/us-government/to-the-continental-congress-may-25-1779
 title: "To the Continental Congress  May 25, 1779"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1775-04-01
-Slug: questionable-authorship/cupid-and-hymen
 title: "Cupid and Hymen"
 ---
 

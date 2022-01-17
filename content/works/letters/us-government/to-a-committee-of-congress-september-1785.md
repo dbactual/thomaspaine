@@ -1,6 +1,5 @@
 ---
 PubDate: 1785-09-01
-Slug: letters/us-government/to-a-committee-of-congress-september-1785
 title: "To a Committee of Congress  September 1785"
 ---
 

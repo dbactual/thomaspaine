@@ -1,6 +1,5 @@
 ---
 PubDate: 1792-05-12
-Slug: letters/other/to-the-chairman-of-the-society-for-promoting-constitutional-knowledge-2
 title: "To the Chairman of the Society for Promoting Constitutional Knowledge (2)"
 ---
 

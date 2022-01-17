@@ -1,6 +1,5 @@
 ---
 PubDate: 1791-07-21
-Slug: letters/george-washington/to-his-excellency-george-washington-july-21-1791
 title: "To His Excellency George Washington  July 21, 1791"
 ---
 

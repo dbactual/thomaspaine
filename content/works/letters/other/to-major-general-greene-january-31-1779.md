@@ -1,6 +1,5 @@
 ---
 PubDate: 1779-01-31
-Slug: letters/other/to-major-general-greene-january-31-1779
 title: "To Major-General Greene  January 31, 1779"
 ---
 

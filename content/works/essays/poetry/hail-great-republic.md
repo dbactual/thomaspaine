@@ -1,6 +1,5 @@
 ---
 PubDate: 1783-10-01
-Slug: essays/poetry/hail-great-republic
 title: "Hail Great Republic!"
 ---
 

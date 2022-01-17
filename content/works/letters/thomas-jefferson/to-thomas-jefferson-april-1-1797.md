@@ -1,6 +1,5 @@
 ---
 PubDate: 1797-04-01
-Slug: letters/thomas-jefferson/to-thomas-jefferson-april-1-1797
 title: "To Thomas Jefferson  April 1, 1797"
 ---
 

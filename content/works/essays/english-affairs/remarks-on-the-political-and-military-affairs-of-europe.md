@@ -1,6 +1,5 @@
 ---
 PubDate: 1806-12-14
-Slug: essays/english-affairs/remarks-on-the-political-and-military-affairs-of-europe
 title: "Remarks on the Political and Military Affairs of Europe"
 ---
 

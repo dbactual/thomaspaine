@@ -1,6 +1,5 @@
 ---
 PubDate: 1795-01-01
-Slug: essays/poetry/the-new-covenant
 title: "The New Covenant"
 ---
 

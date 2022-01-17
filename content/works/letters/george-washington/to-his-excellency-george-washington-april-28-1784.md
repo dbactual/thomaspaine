@@ -1,6 +1,5 @@
 ---
 PubDate: 1784-04-28
-Slug: letters/george-washington/to-his-excellency-george-washington-april-28-1784
 title: "To His Excellency George Washington  April 28, 1784"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1802-02-21
-Slug: letters/other/to-elihu-palmer-february-21-1802-since-the-fable-of-christ
 title: "To Elihu Palmer  February 21, 1802, since the Fable of Christ"
 ---
 

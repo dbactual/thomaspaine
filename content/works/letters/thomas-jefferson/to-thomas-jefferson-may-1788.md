@@ -1,6 +1,5 @@
 ---
 PubDate: 1788-05-01
-Slug: letters/thomas-jefferson/to-thomas-jefferson-may-1788
 title: "To Thomas Jefferson May, 1788"
 ---
 

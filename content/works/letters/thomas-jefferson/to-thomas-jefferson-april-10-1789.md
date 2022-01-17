@@ -1,6 +1,5 @@
 ---
 PubDate: 1789-04-10
-Slug: letters/thomas-jefferson/to-thomas-jefferson-april-10-1789
 title: "To Thomas Jefferson April 10, 1789"
 ---
 

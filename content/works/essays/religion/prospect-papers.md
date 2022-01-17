@@ -1,6 +1,5 @@
 ---
 PubDate: 1804-01-01
-Slug: essays/religion/prospect-papers
 title: "Prospect Papers"
 ---
 

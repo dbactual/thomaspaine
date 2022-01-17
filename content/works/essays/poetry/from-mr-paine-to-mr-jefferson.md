@@ -1,6 +1,5 @@
 ---
 PubDate: 1803-02-23
-Slug: essays/poetry/from-mr-paine-to-mr-jefferson
 title: "From Mr. Paine to Mr. Jefferson"
 ---
 

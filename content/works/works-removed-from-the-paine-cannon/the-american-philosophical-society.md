@@ -1,6 +1,5 @@
 ---
 PubDate: 1780-02-14
-Slug: questionable-authorship/the-american-philosophical-society
 title: "The American Philosophical Society"
 ---
 

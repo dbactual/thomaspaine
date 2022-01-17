@@ -1,6 +1,5 @@
 ---
 PubDate: 1782-09-07
-Slug: letters/george-washington/to-his-excellency-george-washington-sept-7-1782
 title: "To his Excellency George Washington  September 7, 1782"
 ---
 

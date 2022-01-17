@@ -1,6 +1,5 @@
 ---
 PubDate: 1783-12-03
-Slug: letters/other/to-james-duane-december-3-1783
 title: "To James Duane  December 3, 1783"
 ---
 

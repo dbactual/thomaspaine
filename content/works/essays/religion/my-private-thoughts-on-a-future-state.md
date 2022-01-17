@@ -1,6 +1,5 @@
 ---
 PubDate: 1803-01-01
-Slug: essays/religion/my-private-thoughts-on-a-future-state
 title: "My Private Thoughts on a Future State"
 ---
 

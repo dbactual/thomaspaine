@@ -1,6 +1,5 @@
 ---
 PubDate: 1796-07-30
-Slug: major-works/letter-to-george-washington
 title: "Letter to George Washington"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1781-01-10
-Slug: letters/other/to-major-general-nathanael-greene-january-10-1781
 title: "To Major-General Nathanael Greene  January 10, 1781"
 ---
 

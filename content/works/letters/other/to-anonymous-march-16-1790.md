@@ -1,6 +1,5 @@
 ---
 PubDate: 1790-03-20
-Slug: letters/other/to-anonymous-march-16-1790
 title: "To Benjamin Rush  March 16, 1790"
 ---
 

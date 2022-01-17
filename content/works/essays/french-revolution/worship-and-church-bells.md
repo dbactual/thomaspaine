@@ -1,6 +1,5 @@
 ---
 PubDate: 1797-06-01
-Slug: essays/french-revolution/worship-and-church-bells
 title: "Worship and Church Bells"
 ---
 

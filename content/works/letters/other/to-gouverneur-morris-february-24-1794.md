@@ -1,6 +1,5 @@
 ---
 PubDate: 1794-02-24
-Slug: letters/other/to-gouverneur-morris-february-24-1794
 title: "To Gouverneur Morris February 24, 1794"
 ---
 

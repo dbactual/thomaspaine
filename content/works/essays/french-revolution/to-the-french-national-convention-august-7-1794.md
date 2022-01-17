@@ -1,6 +1,5 @@
 ---
 PubDate: 1794-08-07
-Slug: essays/french-revolution/to-the-french-national-convention-august-7-1794
 title: "To the French National Convention August 7, 1794"
 ---
 

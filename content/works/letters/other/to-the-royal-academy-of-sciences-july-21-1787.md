@@ -1,6 +1,5 @@
 ---
 PubDate: 1787-07-21
-Slug: letters/other/to-the-royal-academy-of-sciences-july-21-1787
 title: "To The Royal Academy of Sciences  July 21, 1787"
 ---
 

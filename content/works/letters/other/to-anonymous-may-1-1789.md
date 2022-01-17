@@ -1,6 +1,5 @@
 ---
 PubDate: 1789-05-01
-Slug: letters/other/to-anonymous-may-1-1789
 title: "To Anonymous  May 1, 1789"
 ---
 

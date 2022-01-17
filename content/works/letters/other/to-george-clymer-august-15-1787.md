@@ -1,6 +1,5 @@
 ---
 PubDate: 1787-08-15
-Slug: letters/other/to-george-clymer-august-15-1787
 title: "To George Clymer  August 15, 1787"
 ---
 

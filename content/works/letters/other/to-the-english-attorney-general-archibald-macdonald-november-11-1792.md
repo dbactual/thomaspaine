@@ -1,6 +1,5 @@
 ---
 PubDate: 1792-11-11
-Slug: letters/other/to-the-english-attorney-general-archibald-macdonald-november-11-1792
 title: "To the English Attorney General (Archibald MacDonald)  November 11, 1792"
 ---
 

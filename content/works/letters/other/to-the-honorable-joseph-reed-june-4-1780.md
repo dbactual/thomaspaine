@@ -1,6 +1,5 @@
 ---
 PubDate: 1780-06-04
-Slug: letters/other/to-the-honorable-joseph-reed-june-4-1780
 title: "To the Honorable Joseph Reed  June 4, 1780"
 ---
 

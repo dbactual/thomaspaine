@@ -1,6 +1,5 @@
 ---
 PubDate: 1806-10-17
-Slug: essays/a-challenge-to-the-federalists
 title: "A Challenge to the Federalists"
 ---
 

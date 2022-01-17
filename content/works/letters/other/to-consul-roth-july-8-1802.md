@@ -1,6 +1,5 @@
 ---
 PubDate: 1802-07-08
-Slug: letters/other/to-consul-roth-july-8-1802
 title: "To Consul Roth  July 8, 1802"
 ---
 

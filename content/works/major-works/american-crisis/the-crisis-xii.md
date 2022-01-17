@@ -1,6 +1,5 @@
 ---
 PubDate: 1782-10-29
-Slug: major-works/american-crisis/the-crisis-xii
 title: "The Crisis XII"
 ---
 

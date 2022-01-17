@@ -1,6 +1,5 @@
 ---
 PubDate: 1782-12-21
-Slug: essays/american-politics-and-government/six-letters-to-rhode-island
 title: "Six Letters to Rhode Island"
 ---
 

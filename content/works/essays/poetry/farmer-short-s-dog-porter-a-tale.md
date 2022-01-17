@@ -1,6 +1,5 @@
 ---
 PubDate: 1775-07-01
-Slug: essays/poetry/farmer-short-s-dog-porter-a-tale
 title: "Farmer Short's Dog Porter: A Tale"
 ---
 

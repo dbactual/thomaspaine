@@ -1,6 +1,5 @@
 ---
 PubDate: 1792-02-13
-Slug: letters/george-washington/to-george-washington-february-13-1792
 title: "To George Washington  February 13, 1792"
 ---
 

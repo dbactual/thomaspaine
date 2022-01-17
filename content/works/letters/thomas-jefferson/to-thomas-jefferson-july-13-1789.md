@@ -1,6 +1,5 @@
 ---
 PubDate: 1789-07-13
-Slug: letters/thomas-jefferson/to-thomas-jefferson-july-13-1789
 title: "To Thomas Jefferson  July 13, [1789]"
 ---
 

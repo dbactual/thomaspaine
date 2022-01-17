@@ -1,6 +1,5 @@
 ---
 PubDate: 1790-06-24
-Slug: letters/other/to-william-short-june-23-25-1790
 title: "To William Short  June 23 & 25, 1790"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1806-02-10
-Slug: letters/other/to-john-inskeep-february-10-1806
 title: "To John Inskeep  February 10, 1806"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1779-03-20
-Slug: recently-discovered/response-to-observations-on-the-american-revolution
 title: "Response to *Observations on the American Revolution*"
 ---
 

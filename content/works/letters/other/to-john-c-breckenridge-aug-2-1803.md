@@ -1,6 +1,5 @@
 ---
 PubDate: 1803-08-02
-Slug: letters/other/to-john-c-breckenridge-aug-2-1803
 title: "To John C. Breckenridge  Aug. 2, 1803"
 ---
 

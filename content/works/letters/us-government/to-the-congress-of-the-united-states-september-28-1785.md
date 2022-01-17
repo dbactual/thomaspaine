@@ -1,6 +1,5 @@
 ---
 PubDate: 1785-09-28
-Slug: letters/us-government/to-the-congress-of-the-united-states-september-28-1785
 title: "To the Congress of the United States  September 28, 1785"
 ---
 

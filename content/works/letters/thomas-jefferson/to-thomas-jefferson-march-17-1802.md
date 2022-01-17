@@ -1,6 +1,5 @@
 ---
 PubDate: 1802-03-17
-Slug: letters/thomas-jefferson/to-thomas-jefferson-march-17-1802
 title: "To Thomas Jefferson  March 17, 1802"
 ---
 

@@ -1,6 +1,5 @@
 ---
 PubDate: 1775-02-01
-Slug: questionable-authorship/useful-and-entertaining-hints
 title: "Useful and Entertaining Hints"
 ---
 

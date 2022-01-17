@@ -1,6 +1,5 @@
 ---
 PubDate: 1786-02-18
-Slug: essays/american-politics-and-government/dissertations-on-government
 title: "Dissertations on Government"
 ---
 

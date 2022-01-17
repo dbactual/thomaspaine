@@ -1,6 +1,5 @@
 ---
 PubDate: 1807-05-04
-Slug: letters/other/to-george-clinton-may-4-1807
 title: "To George Clinton  May 4, 1807"
 ---
 

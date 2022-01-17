@@ -1,6 +1,5 @@
 ---
 PubDate: 1792-08-01
-Slug: essays/french-revolution/letter-addressed-to-the-addressers
 title: "Letter Addressed to the Addressers"
 ---
 

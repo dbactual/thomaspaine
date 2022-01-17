@@ -1,6 +1,5 @@
 ---
 PubDate: 1786-09-22
-Slug: letters/other/to-john-hall-september-22-1786
 title: "To John Hall  September 22, 1786"
 ---
 
