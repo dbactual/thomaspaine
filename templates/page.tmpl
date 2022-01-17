@@ -1,0 +1,25 @@
+${header.html()}
+
+$if(CONTENT_TXT_URL)$
+<section>
+  <aside>
+    <a href="${CONTENT_TXT_URL}">View a plain text version of this page</a>.
+  </aside>
+</section>
+$endif$
+
+$if(title)$
+<h1>${title}</h1>
+$endif$
+
+${body}
+
+$if(CONTENT_TXT_URL)$
+<section>
+  <aside>
+    <a href="${CONTENT_TXT_URL}">View a plain text version of this page</a>.
+  </aside>
+</section>
+$endif$
+
+${footer.html()}

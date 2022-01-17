@@ -4,9 +4,6 @@ Slug: letters/other/to-the-english-attorney-general-archibald-macdonald-november
 title: "To the English Attorney General (Archibald MacDonald)  November 11, 1792"
 ---
 
-   1792 Slug:
-   to-the-english-attorney-general-archibald-macdonald-november-11-1792
-
    To the English Attorney General (Archibald MacDonald)  November 11, 1792
 
    ON THE PROSECUTION AGAINST THE SECOND
@@ -97,5 +94,3 @@ title: "To the English Attorney General (Archibald MacDonald)  November 11, 1792
    information, with my remarks upon it, before the trial came on; but as I
    am otherwise engaged, I reserve myself till the trial is over when I shall
    reply fully to everything you shall advance.
-
-

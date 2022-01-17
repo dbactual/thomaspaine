@@ -1,41 +1,58 @@
 <!doctype html>
-<html lang="">
+<html lang="en">
   <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
     <title>Thomas Paine National Historical Association</title>
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
-    <link rel="stylesheet" href="${SITEURL}/theme/css/mini-default.min.css" type="text/css" />
+    <meta name="theme-color" content="#0b0c0c">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <link rel="shortcut icon" sizes="16x16 32x32 48x48 128x128 256x256 512x512" href="favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="favicon.icns">
+
+    <meta name="og:title" content="TPNHA">
+    <meta name="description" content="Thomas Paine National Historical Association">
+    <meta name="og:description" content="To educate the world about the life, works, and legacy of Thomas Paine.">
+
+    <title>Thomas Paine National Historical Association</title>
+    <link rel="stylesheet" href="/css/gd.css">
+    <link rel="stylesheet" href="/css/css.css">
 </head>
 
 <body>
-
-    <div>
-      <a href="${SITEURL}">
-        <img style="vertical-align: middle" src="${SITEURL}/theme/images/logo-new-big.png"/>
+  <a name="top"></a>
+  <header>
+    <nav>
+      <a href="/">
+        <img alt="Thomas Paine National Historical Association" src="/images/tplogo-text.svg"/>
       </a>
-      <span class="subtle" style="display:inline;font-size: small;font-style: italic;">
-        To educate the world about the life, works, and legacy of Thomas Paine.
-      </span>
-    </div>
-
-  <header class="sticky">
-    <a href="${SITEURL}" class="logo">
-      <img style="vertical-align: middle" src="${SITEURL}/theme/images/logo-new-small.png"/></a>
-    <a href="${SITEURL}/pages/about-us.html" class="button">About</a>
-    <a href="${SITEURL}/pages/resources.html" class="button">Resources</a>
-    <a href="${SITEURL}/pages/links.html" class="button">Links</a>
-    <a href="${SITEURL}/pages/the-official-collected-works-of-thomas-paine-project.html" class="button">Collected Works Project</a>
-    <a href="${SITEURL}/pages/writings.html" class="button">Writings</a>
-    <a href="${SITEURL}/pages/timeline.html" class="button">Timeline</a>
-    <a href="${SITEURL}/pages/videos.html" class="button">Videos</a>
+    </nav>
+    <nav role="navigation">
+      <ul style="margin-top: 10px; margin-bottom: 0px;">
+        <li><a style="$if(ENABLE_BREADCRUMB_HOME)$color: var(--color-hilight)$endif$" href="/">Home</a></li>
+        <li><a style="$if(ENABLE_BREADCRUMB_COLLECTED_WORKS)$color: var(--color-hilight)$endif$" href="/pages/collected-works-project.html">Collected Works Project</a>
+          <img style="display: inline;height: 30px" alt="new" src="/images/new.svg"/>
+        </li>
+        <li><a style="$if(ENABLE_BREADCRUMB_WRITINGS_AND_TIMELINE)$color: var(--color-hilight)$endif$" href="/pages/writings_and_timeline.html">Writings&nbsp;&&nbsp;Timeline</a></li>
+        <li><a style="$if(ENABLE_BREADCRUMB_RESOURCES)$color: var(--color-hilight)$endif$" href="/pages/resources.html">Resources</a></li>
+        <li><a style="$if(ENABLE_BREADCRUMB_ABOUT)$color: var(--color-hilight)$endif$" href="/pages/about-us.html">About</a></li>
+        <li style="margin: 0">
+          <form  style="margin-top: 10px" method="get" action="/cgi-bin/search">
+            <input style="vertical-align: top; max-width: 200px; height: 25px; padding: 3px; border: 0px; margin: 1px;" role="link" type="button" value="Become a member" onclick="javascript:window.location='/pages/membership.html'"/>
+            <span style="display: inline-block; margin-bottom: 0; padding: 0px; min-width: 25px; min-height: 25px; border: 0px; background-color: inherit;"></span>
+            <input style="vertical-align: top; max-width: 200px; height: 25px; padding: 0px; border: 0px;" type="text" name="term" size=31 maxlength=255 value="">
+            <button style="margin-bottom: 0; padding: 0px; height: 25px; border: 0px; background-color: inherit;" type="submit" name="sa" value="Search">
+              <svg style="display: inline" class="gem-c-search__icon" width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+                <circle cx="12.0161" cy="11.0161" r="8.51613" stroke="currentColor" stroke-width="3"></circle>
+                <line x1="17.8668" y1="17.3587" x2="26.4475" y2="25.9393" stroke="currentColor" stroke-width="3"></line>
+              </svg>
+            </button>
+          </form>
+        </li>
+      </ul>
+    </nav>
   </header>
-
-  <br/>
-
-  <div class="container">
-
-  <div class="row">
-    <div class="col-sm-12 col-md-7 col-lg-6">
-
+  <nav></nav>
+  <main id="main-content">

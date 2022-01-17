@@ -4,8 +4,7 @@ Slug: letters/other/to-the-honorable-members-of-the-general-assembly-of-pennsylv
 title: "To the Honorable Members of the General Assembly of Pennsylvania  November 3rd, 1780."
 ---
 
-   November 3rd, 1780. Slug:
-   to-the-honorable-members-of-the-general-assembly-of-pennsylvania-november-3rd-1780
+   November 3rd, 1780.
 
    To the Honorable Members of the General Assembly of Pennsylvania  November
    3rd, 1780.
@@ -21,5 +20,3 @@ title: "To the Honorable Members of the General Assembly of Pennsylvania  Novemb
    I am Honorable Gentlemen, Your obedient humble servant,
 
    THOMAS PAINE.
-
-

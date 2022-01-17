@@ -1,0 +1,69 @@
+:root {
+  --unit: 1rem;
+  --unit-2: 2rem;
+  --unit-3: 3rem;
+  --leading: 1.4;
+  --measure: 960px;
+  --measure-min: 288px;
+  --font: -apple-system, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  --font-header: var(--font);
+  --color-body: #2d3436;
+  --color-body-light: #b2bec3;
+  --color-body-inverted: #fff;
+  --color-select: #0984e3;
+  --color-access: #BDC3C7;
+  --color-hilight: #fd0;
+  --color-error: firebrick;
+  --color-line: #636e72;
+  --color-light: #dfe6e9;
+  --color-very-light: #f3f2f1;
+  --color-primary: #0063B1;
+  --color-primary-hover: cornflowerblue;
+  --color-primary-active: #2b8cc4;
+  --color-primary-visited: #6c5ce7;
+  --color-secondary: seagreen;
+  --color-secondary-hover: forestgreen;
+  --color-secondary-active: #003E21;
+  --color-secondary-visited: #00703c;
+  --color-tertiary: red;
+  --color-tertiary-hover: #6F0000;
+  --color-tertiary-active: #6F0000;
+  --color-tertiary-visited: #6F0000;
+}
+
+time {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-weight: 400;
+    font-size: 12px;
+    font-size: .75rem;
+    line-height: 1.25;
+    margin: 0 0 7.5px;
+    color: #505a5f;
+}
+
+#collected-works-link > a:active {
+  background: white
+}
+
+h1 {
+    margin: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+}
+
+a[href*="://"]:after {
+    content: '';
+    background: url(data:image/svg+xml;utf8;base64,IDxzdmcgaGVpZ2h0PSIxMDI0IiB3aWR0aD0iNzY4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik02NDAgNzY4SDEyOFYyNTcuOTA1OTk5OTk5OTk5OTVMMjU2IDI1NlYxMjhIMHY3NjhoNzY4VjU3Nkg2NDBWNzY4ek0zODQgMTI4bDEyOCAxMjhMMzIwIDQ0OGwxMjggMTI4IDE5Mi0xOTIgMTI4IDEyOFYxMjhIMzg0eiIvPjwvc3ZnPg==);
+    background-size: cover;
+    display: inline-block;
+    width: .6em;
+    height: .75em;
+    top: .05em;
+    position: relative;
+    left: .2em;
+    margin-right: .2em;
+}
+
+img {
+    margin: 10px;
+}

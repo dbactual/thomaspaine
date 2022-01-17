@@ -4,8 +4,7 @@ Slug: letters/other/to-the-chairman-of-the-society-for-promoting-constitutional-
 title: "To the Chairman of the Society for Promoting Constitutional Knowledge (2)"
 ---
 
-   Knowledge (2) Slug:
-   to-the-chairman-of-the-society-for-promoting-constitutional-knowledge-2
+   Knowledge (2)
 
    To the Chairman of the Society for Promoting Constitutional Knowledge
 
@@ -35,5 +34,3 @@ title: "To the Chairman of the Society for Promoting Constitutional Knowledge (2
    THOMAS PAINE.
 
    Author of Common Sense and of the Rights of Man, parts first and second.
-
-

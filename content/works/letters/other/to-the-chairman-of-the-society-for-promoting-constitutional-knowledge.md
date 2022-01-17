@@ -4,8 +4,7 @@ Slug: letters/other/to-the-chairman-of-the-society-for-promoting-constitutional-
 title: "To the Chairman of the Society for Promoting Constitutional Knowledge"
 ---
 
-   Knowledge Slug:
-   to-the-chairman-of-the-society-for-promoting-constitutional-knowledge
+   Knowledge
 
    To the Chairman of the Society for Promoting Constitutional Knowledge
 
@@ -35,5 +34,3 @@ title: "To the Chairman of the Society for Promoting Constitutional Knowledge"
    pursue, and ever will, the same path.
 
    THOMAS PAINE
-
-
