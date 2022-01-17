@@ -1,6 +1,6 @@
+---
 Title: The Fate of Thomas Paine by Bertrand Russell
-Slug: aboutpaine/the-fate-of-thomas-paine-by-bertrand-russell
-Date: Mon Aug  4 09:08:53 EDT 2014
+---
 
    By Bertrand Russell
 
@@ -385,7 +385,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    owned "the skull and the right hand of Thomas Paine," but evaded
    subsequent inquiries. No trace now remains, even of the skull and right
    hand.
-   
+
    Paine's influence in the world was twofold. During the American Revolution
    he inspired enthusiasm and confidence, and thereby did much to facilitate
    victory. In France his popularity was transient and superficial, but in

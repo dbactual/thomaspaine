@@ -1,6 +1,6 @@
+---
 Title: Congressional Testimony of Fred Friendly
-Slug: aboutpaine/congressional-testimony-of-fred-friendly
-Date: Mon Aug  4 09:08:51 EDT 2014
+---
 
 Testimony of Professor Fred Friendly
 

@@ -1,6 +1,6 @@
+---
 Title: Was Thomas Paine an anarchist?
-Slug: aboutpaine/was-thomas-paine-an-anarchist
-Date: Mon Aug  4 09:08:57 EDT 2014
+---
 
    No. Although many have tried to make that case (including an
    ex-President of this Association, William van der Weyde), Paine

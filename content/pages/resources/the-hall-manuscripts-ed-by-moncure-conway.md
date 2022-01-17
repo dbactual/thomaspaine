@@ -1,6 +1,6 @@
+---
 Title: The Hall Manuscripts, ed. by Moncure Conway
-Slug: aboutpaine/the-hall-manuscripts-ed-by-moncure-conway
-Date: Mon Aug  4 09:08:53 EDT 2014
+---
 
                               THE HALL MANUSCRIPTS
 
@@ -16,7 +16,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    me to omit much that would impress the reader with the excellent work of
    John Hall himself, who largely advanced ironwork in New Jersey, and whose
    grave at Flemmington, surrounded by those of the relatives that followed
-   him, and near the library and workshop he left, merits a noble monument. 
+   him, and near the library and workshop he left, merits a noble monument.
 
    Philadelphia, August 30, 785.
 
@@ -54,7 +54,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    [The December journal is mainly occupied with mention of Paine's visitors
    Franklin, Gouverneur Morris, Dr. Rush, Tench Francis, Robert Morris,
-   Rittenhouse, Redman. A rubber of whist in which Paine won is mentioned.]: 
+   Rittenhouse, Redman. A rubber of whist in which Paine won is mentioned.]:
 
    "Sunday, Jan. 1st 1786. Mr. Paine went to dine with Dr. Franklin today;
    staid till after tea in the evening. They tried the burning of our candles
@@ -87,7 +87,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    family I am. My patron [Paine] is likewise a boarder and makes his home
    here I am diligently employed in Saint making, now in Iron that I had
    before finished in wood, with some improvements, but you may come and see
-   what it is 
+   what it is
 
    "Letter, June 4. Skepticism and Credulity are as general here as
    elsewhere, for what I see. In this town is a Quaker meeting and one of
@@ -107,7 +107,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    reader.]
 
    Letter of Paine to John Hall, at Capt. Coltman's, in Letitia Court, Market
-   St, between Front and Second St. Philadelphia: 
+   St, between Front and Second St. Philadelphia:
 
    "Bordentown, Sept. 22, 1786. Old Friend: In the first place I have settled
    with Mr. Gordon for the time he has been in the house -- in the second I
@@ -134,7 +134,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    "Your friend and Hbl. servt."
 
-   Undated letter of Paine to John Hall, in Philadelphia: 
+   Undated letter of Paine to John Hall, in Philadelphia:
 
    "Fryday Noon. Old Friend: Inclosed (as the man said by the horse) I send
    you the battau, as I wish to present it as neat and clean as can be done;
@@ -314,7 +314,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    wished him a good voyage and parted."
 
    Letter from Flemmington, N. J., May 16, 1788, to John Coltman, Leicester,
-   England: 
+   England:
 
    "FRIEND JOHN:
 
@@ -355,12 +355,12 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    above crime and will signify the same by letter, he will find I strictly
    adhere to the precepts of Christianity and shall forgive. -- If not --
 
-   "My best wishes to you all. 
+   "My best wishes to you all.
 
           "JOHN HALL"
 
    Letter of Paine, London, Nov. 25, 1791, to "Mr. John Hall, at Mr. John
-   Coltman's, Shambles Lane, Leicester, England." 
+   Coltman's, Shambles Lane, Leicester, England."
 
    "MY OLD FRIEND:
 
@@ -395,13 +395,13 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    cover) to Gordon, Booksellers N: 166 Fleet Street, before you leave
    Leicester. How far is it from thence to Rotherham?
 
-   "Yours Sincerely. 
+   "Yours Sincerely.
 
    "P. S. I have done you the compliment of answering your favor the inst. I
    rec'd. it which is more than I have done by any other -- were I to ans.
    all the letters I receive -- I should require half a dozen clerks."
 
-   Extracts from John Hall's letters from London, England: 
+   Extracts from John Hall's letters from London, England:
 
    "LONDON,  January 1792
 
@@ -414,7 +414,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    not publickly disposed of until it was known by the printers that it would
    not be noticed by Government."
 
-   John Hall to a friend in England: 
+   John Hall to a friend in England:
 
    "LONDON,  Nov. 6, 1792.
 
@@ -435,7 +435,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    heard."
 
    From J. Redman, London, Tuesday Dec. 18, 5 p.m. to John Hall, Leicester,
-   England: 
+   England:
 
    "Mr. Paine's trial is this instant over. Erskine shone like the
    morning-star. Johnson was there. The instant Erskine closed his speech the
@@ -452,7 +452,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    "Yours truly."
 
    [John Hall's London journal (1792) records frequent meetings there with
-   Paine. 
+   Paine.
 
    "March 5. Met Mr. Paine going to dress on an invitation to dine with the
    Athenians. He leaves town for a few days to see his aunt.
@@ -476,7 +476,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    Footnotes
 
-    
+
 
    1.     Hall calls inventions "saints." This saint-maker is John Fitch, the
    H."being Henry of Lancaster." This entry is of much interest. (See
@@ -485,7 +485,3 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    2.     Mrs. Read was thus transferred to Paine's own house. Her husband
    died next year and Paine declined to receive any rent.
-
-    
-
-    

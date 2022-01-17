@@ -1,7 +1,6 @@
+---
 Title: The Adventures of Thomas Paine's Bones by Moncure Conway
-Slug: aboutpaine/the-adventures-of-thomas-paine-s-bones-by-moncure-conway
-Date: Mon Aug  4 09:08:53 EDT 2014
-
+---
    First President of the Thomas Paine National Historical Association
 
    The complete essay from the TPNHA Collection:
@@ -22,13 +21,13 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    at New Rochelle on the farm presented to him by the State of New York at
    the close of the Revolution because of his services in that struggle.
 
-    
+
    And even then Paine entered on his posthumous career. There was no
    Quaker formula against deism, and the refusal of a grave to Paine,
    resented by some members of that Society, began a controversy which as I
    believe resulted twenty years later in a split, and the establishment of
    the rationalistic Society now known as "Hicksite Quakers".
-    
+
    A plain headstone was placed at Paine's grave, but bits of it were
    chipped away by visitors. A
    Fragment is sometimes shown at Paine's celebrations in New York, and the
@@ -46,7 +45,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    the widow Bayeaux, when Paine was a boarder. Her son, Mr. Albert Badeau,
    whom I visited in New Rochelle in 1891, preserved various relics of Paine.
    He saw Cobbett's workmen digging up Paine's bones about dawn.
-    
+
    In September 1819 Cobbett wrote from America a public letter to Lord
    Folkstone in which he advised him to read Paine's "Decline and Fall of the
    British System of Finance": "and then blush at the use of the words 'Lower
@@ -62,7 +61,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    caused him, while alive, to be burnt in effigy. Never will England be what
    it ought to be until the marble of Pitt's monument is converted into a
    monument to the memory of Paine."
-    
+
    In the same month the remains were dug up. "Our expedition", wrote
    Cobbett, "set out from New York in the middle of the night; got to the
    place (twenty-two miles off) at peak of day; took up the coffin entire;
@@ -72,7 +71,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    xxxv. P.382.) According to The Beacon (Dec. 27,1845) a little finger of
    Paine was left in America, and was "in the possession of a friend
    <?Quaker> on Long Island."
-    
+
    In Manordes's "Biographical Treasury" it is said, "Many however assert
    that Cobbett did not take that trouble, but brought over from America the
    remains of a criminal who had been executed." There is not however the
@@ -85,13 +84,13 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    grave is sunk in about the depth of a coffin. Some of the neighbors aided
    the three men who came with a wagon a little before day. They say had the
    proper authorities had known in time they would prevented the outrage."
-    
+
    An aged Quaker informed me that a number of "Friends" who were on the
    "Elizabeth" when Cobbett came aboard with the big box, at New York, left
    the ship on learning its contents; but those who looked for a striking
    judgment on the vessel were disappointed. Cobbett with his strange freight
    landed at Liverpool on November 21,1819.
-    
+
    Before relating the adventures of Paine's bones it may be of interest
    to record that the project of a monument to Paine at New Rochelle
    originated in 1837 with Gilbert Vale, who compiled a biography of Paine,
@@ -111,7 +110,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    total cost, including the land, was $1,634. The monument was erected in
    November 1839, in the presence of about fifty persons, but without any
    formalities or speeches.
-    
+
    The reaction caused by the French Revolution was beginning to subside
    when Cobbett brought to England the bones of its famous outlaw, who, the
    Attorney General had declared in 1792, should never enter the country
@@ -121,7 +120,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    Carlile in gaol: the prisoner said "Ah, had I been in America, they would
    not have thrown me in prison." "No", replied Cobbett, "they would have
    tarred and feathered you."
-    
+
 
    Cobbett's enterprise was met with mingled wrath and ridicule. Probably
    most people now have no association with the incident except the four
@@ -132,7 +131,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    Will Cobbett has done well:
    You visit him on earth again,
    He'll visit you in hell."
-    
+
    "Pray", adds Byron, "let not these versiculi go forth with my name
    except among the initiated, because my friend H. has foamed into a
    reformer, and I greatly fear will subside into Newgate." Even while the
@@ -146,7 +145,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    to be more genuine than it was. The merriment was not that of the Tories,
    but rather an effort of the old Whigs to hooh-pooh an incident fallen at
    the most serious crisis since the French Revolution.
-    
+
    In August had occurred the terrible suppression of the mass meeting
    at Manchester ("Peterloo"). The trials of the Carliles and other heretical
    publishers and writers were filling the radicals with consternation. The
@@ -160,7 +159,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    were not slow in availing themselves of the Paine-Cobbett incident. On
    December2 Mr. Wilmot made a strong
    point of it in the House of Commons:
-    
+
    "Does anybody advocate the principle of these meetings? If such a man
    exists it can only be in the person of the individual just returned from
    America, who has dug up the unhallowed bones of the blasphemer, and has
@@ -169,11 +168,11 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    that his skin be made into a drum to rouse his countrymen, wished to stir
    up impiety and disaffection by the exhibition of this mummery to the
    initated people of this country."
-    
+
    After that, the Whig ridicule began, as if by mot d'ordre, and on
    December 17 a leading opponent of the government Bills, Earl Grosvenor,
    utilized the ridicule to prove them unnecessary:
-    
+
    "To prove still further the feelings by which people are actuated, I
    beg leave to mention the way in which a posthumous production, the bones
    of Thomas Paine, has been treated in this country. The person by whom that
@@ -182,7 +181,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    treated with more laughter, contempt, and derision than the introduction
    of these miserable bones, - whether the bones of Thomas Paine or not I
    will not undertake to decide."
-    
+
    Mr. Edward Smith of Walthamstow, Cobbett's able biographer, does not
    share my suspicion that this ridicule was artificial. He says that Paine's
    religious heresies had obliterated his political ideas." In England he was
@@ -202,44 +201,44 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    "The Political House that Jack Built". In a picture Cobbett is seen
    in a boat marked "Rights of Man", seated on a coffin, and rowed by two
    Negroes.
-    
+
    "B is a boat that used to ply
    Across the Brooklyn Ferry;
    To Market Slip that's called the Fly,
    A pretty kind of wherry.
-    
+
    "And 'tis constructed on a plan
    That's best to cut the waves:
    The name of it is rights of man,
    And rowed by Negro slaves.
-    
+
    "This boat Bill Cobb hired for a week,
    And entered on a trip,
    A passage over sea to seek
    In Merchant Brig or Ship
-    
+
    "A coffin with him too he took
    When Paine's Bones lay in state,
    And tried each bark from Sandy Hook,
    In vain - quite to Hell's Gate.
-    
+
    "And thither was his utmost scope,
    Nor farther has he been;
    The massive door refused to ope
    Just yet - to let him in."
-    
+
    Another piece is headed "sketches of the Life of Billy Cobb and the death
-   of Tommy Pain". The woodcut here shows Cobbett under an apple tree, his 
+   of Tommy Pain". The woodcut here shows Cobbett under an apple tree, his
    hat on the ground full of apples, with Paine's skeleton on one side seizing
-   him by the throat, and on the other the Devil touching him on the shoulder. 
-   The muses tell that when Paine was dying the Devil appeared and said his 
+   him by the throat, and on the other the Devil touching him on the shoulder.
+   The muses tell that when Paine was dying the Devil appeared and said his
    skull was now to be buried "for ever and ever."
-    
+
    "One boon and only one I crave",
    Said Thomas with a sigh,
    "Let it be till there pass my grave
    A caitiff worse than I."
-    
+
    The Devil thinks it quite safe to agree to this, but when Cobbett
    touches the grave Paine springs up, and attacks him on old scores, for
    Cobbett had reproduced "Oldys"' libels in America, and was connected to
@@ -248,12 +247,12 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    them, but finally he reconciles them in view of the mischief they can do
    in England. Another woodcut shows Cobbett, coffin on shoulder; and next we
    see the ship.
-    
+
    "E for Elizabeth doth stand
    And that's a vessel's name,
    That lately sailed from Yankey-Iand
    And to the Mersey came."
-    
+
    Another hand identified in Notes and Queries, Feb. 29, 1868 as Thomas
    Rodd, Sr., ("John English" is the pseudonym) wrote an "Ode on the Bones of
    the Immortal Thomas Paine, newly transported from America to England by
@@ -262,27 +261,27 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    rare) tries at points to be satirical, without much success; it is severe
    on Paine's theological negations, but discloses a certain admiration for
    the arch-heretic. I quote a specimen:
-    
+
    "No Judge or Jury does he fear,
    Nor e'en the Attorney General's frown
    Nor dread lthuriel with his spear
    Can knock this doughty Champion down.
-    
+
    'Tis cowardice to strike the slain,
    'Tis cowardice to strike Tom Paine
    High high in dust the hero lies,
    And from his narrow box his face defies.
-    
+
    Who shall the great Arch-Flamen be
    Of this new god? Upon whose shrine
    Let brass and farthing candles shine;
    His pen once gain'd the victory,
-    
+
    And still victorious reigns, in spite
    Of all the Bishop could indite:
    None but the mighty hand of Law
    Against this daring Chief the quill could prosperous draw."
-    
+
    Whether under more auspicious circumstances Cobbett could have
    received any enthusiasm for Paine can now be only a matter of conjecture.
    In 1820 George the Third, born in the same year with Paine, gave a fatal
@@ -302,7 +301,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    effects were sold by Thomas Piggott at auction in the autumn of the same
    year, on the premises. This information was communicated to the "Surrey
    Times", Jan. 19, 1889,b y D.M. Stevens, who adds:
-    
+
    "My informants, who were present at the sale, told me that a box was
    pointed out as containing the remains of Paine, and they believed that the
    box and its contents were described in the catalogue, and that some
@@ -313,25 +312,25 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    doubt that Cobbett, of whom we Surrey men have abundant reason to be
    proud, often regretted that he had not left the noted Freethinker's bones
    to remain in their original American resting-place."
-    
+
    Gilbert Vale, who was in correspondence with English freethinkers,
    stated in "The Beacon", Dec.27, 1845, "The bones fell into the hands of an
    elderly female, a nurse in Cobbett's family, and by her given or sold to
    Lta King's gardener.'" Lord King, who died two years before Cobbett, was a
    nobleman who held many opinions in common with Paine. His residence,
    Ockham, was not far from that of Cobbett.
-    
+
    I have a letter (autograph) written by Gilbert Vale, Aug. 20, 1860,
    in which he says: "Cobbett did take the bones of Paine to London: they are
    in the hands of the friends of Paine, who will one day put a monument up
    to him. I saw some of the parties in charge of them in 1848, and I have a
    pamphlet on the subject which I suppose I brought from England in that
    year."
-    
+
    The pamphlet was: "A Brief History of the Remains of the late Thomas
    Paine, from the time of their disinterment in 1819 by the late William
    Cobbett M.P., down to the year 1846. London: J. Watson, 1847" pg.8.
-    
+
    I was acquainted with James Watson, and gave the address at his
    burial, in 1874. He was an able and exact man, and as he no doubt wrote
    the pamphlet himself, the following statements in it were undoubtedly
@@ -361,7 +360,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    concerning them, and he therefore, saysW atson, conveyed them in March,
    1844, to Mr. Tilly (13 Bedford Square, East, London) "by whom they will in
    all probability be kept, until a public funeral of them can be arranged."
-    
+
    In "Notes & Queries", January 25, 1868, a writer signing "A Native of
    Guilford" states that in the summer of 1849 he saw Paine's bones in a box
    in the house of John Chennell, corn merchant in Guilford, who told him
@@ -381,7 +380,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    West, but if any were there in 1849 it could only have been a few of the
    bones which, as will presently appear got separated from the rest. In that
    year they were seen in possession of Benjamin Tilly.
-    
+
    About 1860 Tillv died in the house of a Mr. Ginn, wood-merchant,
    Bethnal Green, and left with him a number of Cobbett's MMS. and Paine
    relics, but apparently without careful information. According to a
@@ -394,10 +393,10 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    Tilly had owned Paine's skeleton, and he at once inquired about it. Mrs.
    Ginn said that in cleaning the room after Tilly's death she found a lot of
    bones in a large bag and sold them to a rag-and-bone collector. Mr. Reynolds
-   says she did not appear to know they were human bones. Mr. Ginn, however, 
-   knew they were human, and said it was "a skeleton with the exception of 
+   says she did not appear to know they were human bones. Mr. Ginn, however,
+   knew they were human, and said it was "a skeleton with the exception of
    the skull and leg or arm."
-    
+
    On hearing this story of Mrs. Ginn it struck me that there was an
    accent of sophistication about it. The rag-and-bone collector must have
    known they were-human bones, if she did not. She may have expected to gain
@@ -406,7 +405,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    is not true, and also, what Mr. Reynolds did not know, that the skull and
    right hand of Paine had indeed, before Tilly's death, been removed and
    gone on a career of their own.
-    
+
    It is probable that Tilly never. knew that any of the bones had been
    removed from the box. Mr. Joseph Cowen (of the "Newcastle Chronicle")
    tells me that about 1853-54 he was consulted by James Watson concerning
@@ -421,7 +420,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    matter again, but he remembers asking James Paul Cobbett about the bones,
    and finding that he knew not what had become of them, and evidently did
    not wish to talk on the subject.
-    
+
    In December 1874 I inserted in the "National Reformer" an inquiry
    concerning Paine's remains. I received the same week a note from Mr. James
    Dickens of Denham Vila, Guilford, who said that he had made inquiries
@@ -434,7 +433,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    and that a monument be erected over his grave." Mr. Darbyshire was "sure
    that sufficient cash would be obtained for so good an object." Therein he
    was no doubt right, but Paine's remains were not discovered.
-    
+
    Meanwhile, however, a lecture I gave in London in 1876 on Thomas
    Paine attracted the attention of Edward Truelove, the veteran publisher
    rationalist literature, who wrote me (Dec. 2,1876) that in 1853 or 1854
@@ -443,7 +442,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    Rev. Robert Ainslie - of all men! - had in his possession the skull and
    right hand of Thomas Paine, but did not say how he came by them, evading
    my question."
-    
+
    Mr. Ainslie was not aware that Mr. Truelove knew his name, but the
    bookseller recognized him as the Secretary of the London City Mission,
    under whose auspices many years before a course of lectures had been given
@@ -453,31 +452,31 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    mention to Mr. Ainslie that he recognized him. But on a later occasion,
    when the minister again entered his shop (removed to Holborn) he asked him
    what had become of Paine's bones, and his question was not answered.
-    
+
    Mr. Ainslie probably became the owner of Paine's skull and right hand
    before George West brought the box to Benjamin Tilly. His daughter
    Margaretta (first wife of the late Sir Russell Reynolds) having received
    an inquiry of mine addressed to her father (1877) who died before it
    arrived, answered:
-    
+
    "Mr. Thomas Paine's bones were in our possession. I remember them as
    a child, but I believe they were lost in the various movings which my
    father had some years ago. I can find no trace of them, but if I do by
    more inquiries."
-    
+
    I heard nothing more from Mrs. Russell Reynolds, and she died in 1880.
-   The late Sir Russell Reynolds had, as he lately wrote me, "an obscure 
+   The late Sir Russell Reynolds had, as he lately wrote me, "an obscure
    recollection of having seen the bones of a hand a great many years ago."
-   As Margaretta Ainslie was married in 1852, her childhood recollections 
-   probably extended into the years preceding 1844, when Watson says the 
-   bones were brought to London. This marriage took place at Fromer House, 
+   As Margaretta Ainslie was married in 1852, her childhood recollections
+   probably extended into the years preceding 1844, when Watson says the
+   bones were brought to London. This marriage took place at Fromer House,
    Bromley, Kent, where Mr. Ainslie resided at the time, and it is not
    Improbable that his near neighbor, Charles Darwin, inspected the skull of
    his predecessor in heresy. But it is a more picturesque reflection that
    eventualities should have brought Paine's skull back to the vicinity of
    his favourite haunt, -the so-called "Tom Paine Tree", an ancient oak in
    the grounds of the old Bishop's Palace.
-    
+
    As this tree has not, I believe, been mentioned in any book, it may
    interest the reader to know that there is such a tree, and that it is said
    by long tradition to be the favourite resort of Paine while writing the
@@ -491,10 +490,10 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    that Paine wrote any part of the "Age of Reason" at Bromley, but it is not
    improbable. In my historical introduction to the "Age of Reason", just
    published, I have shown that parts were written long before its
-   publication; the subject was always near his heart, and he was fond of 
-   discussing it with his neighbors. In the early months of 1792 Paine was 
-   residing with his publisher, Clio Rickman, at 7 Upper Marylebone Street 
-   (still a bookbinding with the old bookshelves remaining), where the swarming 
+   publication; the subject was always near his heart, and he was fond of
+   discussing it with his neighbors. In the early months of 1792 Paine was
+   residing with his publisher, Clio Rickman, at 7 Upper Marylebone Street
+   (still a bookbinding with the old bookshelves remaining), where the swarming
    of radicals left too little leisure for writing. "Mr. Paine goes out of town
    tomorrow to compose what I call Burke's funeral sermon", says John Hall in
    his diary, April 20,1792. This was at Bromley, where, on May l4, he heard
@@ -506,34 +505,34 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    on the book that was to shake temples. From the "Tom Paine Tree" one may
    almost see Down homestead, where Darwin still more shook the temples,
    though the most venerable of them became his monument.
-    
+
    The Rev. Robert Ainslie had a brother who was an eminent veterinary
-   surgeon, and in his professional or some other capacity was, I am told, 
-   connected with the estate of Lord King at Ockham, not far from Cobbett's 
-   place. It was through him that the Rev. Robert Ainslie heard of Paine's 
-   bones. His son. Mr. Oliver Ainslie, tells me that the remains were then 
-   in the rooms of the auctioneer Richards( 43 Rathbone Place) "for sale", 
-   and that the skull and right hand were there purchased by his father. 
-   It is thus clear that all of the facts were not known to Tilly and Watson. 
-   In Watson's pamphlet it is stated that the bones were brought up to London 
-   by George West and given to Tilly, at 13 Bedford Square East. But Benjamin 
-   Tilly's name does not appear at that place in the directories of the time; 
-   indeed it does not appear at all until 1852. It seems possible that the 
-   tailor had no such fixed residence as would carry as his name into the 
-   directory, and that he confided the box of bones to the auctioneer Richards 
+   surgeon, and in his professional or some other capacity was, I am told,
+   connected with the estate of Lord King at Ockham, not far from Cobbett's
+   place. It was through him that the Rev. Robert Ainslie heard of Paine's
+   bones. His son. Mr. Oliver Ainslie, tells me that the remains were then
+   in the rooms of the auctioneer Richards( 43 Rathbone Place) "for sale",
+   and that the skull and right hand were there purchased by his father.
+   It is thus clear that all of the facts were not known to Tilly and Watson.
+   In Watson's pamphlet it is stated that the bones were brought up to London
+   by George West and given to Tilly, at 13 Bedford Square East. But Benjamin
+   Tilly's name does not appear at that place in the directories of the time;
+   indeed it does not appear at all until 1852. It seems possible that the
+   tailor had no such fixed residence as would carry as his name into the
+   directory, and that he confided the box of bones to the auctioneer Richards
    until he had a house of his own. If so Richards, or some subordinate, may have
    abstracted th e skull and hand and sold them to Mr. Ainslie, Tilly
    remaining ignorant of the trespass. It is possible, however, that the
    skull and hand had been sold by West the receiver to Chennell of Guilford
-   before the remains were brought to Tilly, who did not examine them. Mr. 
-   Edward Smith tells me that he "interviewed" the son of Chennell in 1877, 
-   and heard that Paine's bones had been sold, and brought 7s 6d. Mr. Truelove 
-   says that when he told Watson that Ainslie had the skull he smiled in 
-   credulously, yet amid all the tangle of conjectures the certainties are that 
-   Tilly had the skeleton without the skull and right hand, a portion of the 
+   before the remains were brought to Tilly, who did not examine them. Mr.
+   Edward Smith tells me that he "interviewed" the son of Chennell in 1877,
+   and heard that Paine's bones had been sold, and brought 7s 6d. Mr. Truelove
+   says that when he told Watson that Ainslie had the skull he smiled in
+   credulously, yet amid all the tangle of conjectures the certainties are that
+   Tilly had the skeleton without the skull and right hand, a portion of the
    brain and several pieces of hair, and that Ainslie possessed the cranium and
    right hand.
-    
+
    Mr. Oliver Ainslie remarked that the smallness and delicacy of
    Paine's hand were such that the late Professor John Marshall, of the Royal
    College of Surgeons, at first thought it the hand of a female. "The head
@@ -554,7 +553,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    forgiven, Mr. Penny would hardly be so pound foolish as to dispose of a
    skull so inscribed as mere rubbish, and it is probable that
    Paine's skull is now in some doctor's office or craniological collection.
-    
+
    The Rev. Robert Ainslie, whom I met at Brighton in 1863, was a man of
    ability, and my conjecture would be that his purchase of Paine's skull may
    have been due to an interest in phrenology, were it not that he bought the
@@ -562,7 +561,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    about these bones, but that the minister did not wish his name publicly
    connected with them at the time. There were sufficient reasons for this,
    but they have long since passed away.
-    
+
    Mr. Ainslie had been, it will be remembered, an official member of
    the City Mission, which consists of men belonging to different
    denominations, but has a reputation of being very strict about their
@@ -576,7 +575,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    the hue and cry might have been disagreeably renewed had it reached the
    public that while Secretary of the City Mission he had the bones of the
    terrible "Tom Paine" in his house.
-    
+
    It appears certain that when he purchased the skull and hand, Mr.
    Ainslie was quite unconscious of any heretical symptoms. If it were
    admissible for Painites to believe in the potency of saintly relics they
@@ -587,9 +586,9 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    improbable that these relics may have contributed something to the result,
    by exciting in the two divines some curiosity to know what thoughts had
    played through the lamp whose  fragments had come into their possession.
-   And it is difficult for one who reads the "Age of Reason" to remain 
+   And it is difficult for one who reads the "Age of Reason" to remain
    precisely the simple believer he was before.
-    
+
    That Paine's skull is still somewhere in London is highly probable,
    and were any found with the name "Cobbett" on it its genuineness could be
    easily proved by another word or two on it which for the present I
@@ -602,7 +601,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    author's religion) to secure for the remains quiet burial, - perhaps near
    his parents at Thetford. I find especial satisfaction in this belief since
    reading in the "New York World" (January 26,1896) the following statement:
-    
+
    "Out in the country, somewhere back of New Rochelle, in a lonesome spot,
    there is a mound with a monument raised over it, and an inscription to the
    effect that the remains of Thomas Paine lie beneath that stone. If this is
@@ -610,12 +609,12 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    majority of those who pass the monument and know to whom it is erected,
    throw stones at it. Thus do Christians show their contempt for those whose
    opinions do not agree with theirs."
-    
+
    This stone-throwing ceased, I believe, some years ago; the pious
    anti-Painites may have found that they were really adding to the author's
    cairn by attributing such importance to his writings long after those of
    his opponents were forgotten.
-    
+
    Of the remains of Thomas Paine exhumed by Cobbett there are now
    traceable a portion of his brain and two locks of his hair. One of the
    latter was presented to me by Mr. Edward Smith, biographer of Cobbett.
@@ -624,20 +623,20 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    and dark, with a reddish tinge. The portion of Paine's brain owned by Mr.
    George Reynolds is about the size of one's fist, and quite hard. It is
    under glass and beside it is a note in Tilly's writing:
-    
+
    "On Tuesday January 7th 1833 I went to 11 Bolt Court, Fleet Street,
    and there with Mr. Entrell and Mr. Dean, I saw, at the house of Mr.
    Cobbett, the remains of Mr. Thomas Paine, when I procured some of his
    hair, and from his skull I took a portion of his brain, which had become
    hard, and which is almost perfectly black. - B. Tilly"
-    
+
    There are other personal relics of Paine. During the American
-   revolution Paine wrote the fifth number of his "Crisis" at the house of 
-   the Hon. William Henry at Lancaster, Pennsylvania, and his spectacles 
-   and shoe-buckles were left there. These were presented by a grand-daughter 
-   of Mr. Henry to the National Museum at Washington, where I examined them. 
-   The spectacles (silver) have small glasses of extraordinary power. Paine's 
-   arm-chair and his brass and irons are in the possession of Albert Badeau at 
+   revolution Paine wrote the fifth number of his "Crisis" at the house of
+   the Hon. William Henry at Lancaster, Pennsylvania, and his spectacles
+   and shoe-buckles were left there. These were presented by a grand-daughter
+   of Mr. Henry to the National Museum at Washington, where I examined them.
+   The spectacles (silver) have small glasses of extraordinary power. Paine's
+   arm-chair and his brass and irons are in the possession of Albert Badeau at
    New Rochelle. It is said that a walking cane of his exists but I cannot
    discover it. Mr. G.J. Holyoake has a copy of Paine's portrait (Sharp's
    engraving of Romney's picture) with the author's presentation to Rickman
@@ -649,7 +648,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    piece of wood from the birthhouse of Paine, at Thetford, now destroyed. Of
    course there are many autograph letters of Paine, but no manuscript of
    anything he ever wrote for publication has been preserved.
-    
+
    A considerable number of these relics were among the five hundred
    articles shown at the Paine Exhibition in South Place Chapel, openedD
    ecember 2 , 1895.There were also first editions of his works, and many
@@ -659,7 +658,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    vision, with its rainbow flag; but most impressive of all was the darkened
    bit of brain whence radiated the inner light of that miraculous Thetford
    Quaker.
-    
+
    If we pass from personal relics to relics of personality, those of
    Paine are innumerable; and among these the most important are the legends
    and fictions told concerning him by enemies, unconscious that their
@@ -670,24 +669,24 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    London journal, "Answers", gravely published as a genuine autograph letter
    of Paine's, in the possession of one of its Dublin readers, the following,
    said to be addressed to a linendraper at Chelmsford:
-    
+
    "Chapter Coffee House
-   
+
    London, May 8th, 1793
-   
+
    "Sir, - in perusing the Chelmsford paper I see you are a vendor
    of Fleecy Hosiery, and as you are a man after my own heart,
    a Leveller and a Talker of Treason, please to send six pair of
    the above Fleecy Hosierie to me at Chapter, and I will send you
    the money.
    Yours, Tom Paine."
-   
+
 
    I wrote to the editor asking to be put into communication with the
    owner of this letter signed "Tom(!) Paine", and written more than seven
    months after Paine had left England forever, but he could not do so -of
    course.
-    
+
    I must venture to repeat here, though it is mentioned in my edition
    of the "Age of Reason", a legend told me by Mr. Van der Weyde, the eminent
    London photographer, who remembers when a boy a sermon in which the
@@ -701,7 +700,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    remembered, closes with burning the formidable man's touchstone, and
    strewing the ashes on the breeze, little guessing that each grain of these
    `conveyed the perfect charm.' The manuscript addition is:
-    
+
    "North, South, in the rings and amulets,
    Throughout the crowded world 'tis borne,
    Which, as a fashion long outworn,

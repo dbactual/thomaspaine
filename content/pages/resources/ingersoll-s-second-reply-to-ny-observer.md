@@ -1,7 +1,6 @@
+---
 Title: Ingersoll's Second Reply to NY Observer
-Slug: aboutpaine/ingersoll-s-second-reply-to-ny-observer
-Date: Mon Aug  4 09:08:51 EDT 2014
-
+---
    PEORIA, Nov. 2d, 1877.
 
    To the Editor of the New York Observer:
@@ -84,7 +83,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    him, and wishing his pamphlets and books to be burned, saying he could not
    die in peace until it was done."
 
-   (REV.) A.W. CORNELL.   
+   (REV.) A.W. CORNELL.
 
    Harpersville, New York.
 
@@ -117,7 +116,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
                                 Fervently yours,
 
-                                               JAMES PARTON.  
+                                               JAMES PARTON.
 
    After this, you are welcome to what remains of Grant Thorburn.
 
@@ -162,7 +161,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    For the purpose of verifying your own admission concerning the death of
    Mr. Paine, permit me to call your attention to the following affidavit:
 
-                          WABASH, INDIANA, October 27, 1877.  
+                          WABASH, INDIANA, October 27, 1877.
 
    Col. R.G. Ingersoll:
 
@@ -188,7 +187,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    Mr. Hicks answered: "He did not. He died as easy as any one I ever saw
    die, and I have seen many die in my time."
 
-                                          WILLIAM B. BARNES. 
+                                          WILLIAM B. BARNES.
 
             Subscribed and sworn to before me Oct. 27, 1877.
 
@@ -202,14 +201,14 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
                                   Yours truly.
 
-                                                       ROBERT G. INGERSOLL.  
+                                                       ROBERT G. INGERSOLL.
 
-                                        
+
 
    Full text of the editorial:
 
                           The Observer's Second Attack
-                          
+
                      From the N.Y. Observer of Nov. 1, 1877
 
                                 TOM PAINE AGAIN
@@ -411,7 +410,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    to develop the fallacious mask of hypocrisy and deception under which you
    have acted in your political as well as moral capacity of life."
 
-   (Signed)      "WILLIAM CARVER."           
+   (Signed)      "WILLIAM CARVER."
 
    Carver had the same opinion of Paine to his dying day. When an old man,
    and an Infidel of the Paine type and habits, he was visited by the Rev.

@@ -1,7 +1,6 @@
+---
 Title: The Age of Paine by Jon Katz
-Slug: aboutpaine/the-age-of-paine-by-jon-katz
-Date: Mon Aug  4 09:08:53 EDT 2014
-
+---
    This article first appeared in Wired Magazine in 1995.
 
    Thomas Paine was one of the first journalists to use media as a weapon

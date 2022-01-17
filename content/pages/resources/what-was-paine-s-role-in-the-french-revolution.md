@@ -1,6 +1,6 @@
+---
 Title: What was Paine's role in the French Revolution?
-Slug: aboutpaine/what-was-paine-s-role-in-the-french-revolution
-Date: Mon Aug  4 09:08:57 EDT 2014
+---
 
    Paine played a similar role in the French Revolution to that in the
    American Revolution. His *Common Sense* was translated into French and was

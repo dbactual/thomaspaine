@@ -1,6 +1,6 @@
+---
 Title: Linton's Comments on Paine's Habits
-Slug: aboutpaine/linton-s-commenst-on-paine-s-habits
-Date: Mon Aug  4 09:08:52 EDT 2014
+---
 
    To the Editor of SCRIBNER'S MONTHLY:
 
@@ -71,14 +71,12 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    considered Mr. Paine a gentleman, a pleasant companion, and a good-natured
    and intelligent man; decidedly temperate, with a proper regard to his
    personal appearance, whenever I saw him."
-   
+
    Yes; this man, still pointed out to abhorrence as a coarse, brawling,
    brandy-tippling reviler of religion, was indeed a gentleman, a high-souled
    man of genius and philanthropic purpose, a man of remarkable probity and
    disinterestedness, a notably good man; and known now in the mud flung at
    him by calumniators, and heaped again by those who care not to learn the
    truth concerning him.
-                                                                                                                                      
-   W.J. Linton
 
-    
+   W.J. Linton

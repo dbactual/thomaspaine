@@ -1,6 +1,7 @@
+---
+---
 Title: The Roger Sherman Copy of the Declaration of Independence
-Slug: aboutpaine/sherman-copy-di
-Date: Sun Jan  31 09:08:51 EDT 2021
+---
 
 by Jonathan Scheick
 
@@ -56,7 +57,7 @@ Congress collection, which demonstrates the numerous edits made by the Committee
 
 This newly discovered, partial manuscript draft appears to have been made for Benjamin Franklin, then passed
 onto Roger Sherman, fellow member of the Committee of Five. This leaves only Robert R.
-Livingston's copy, if a separate copy was made for his review, to follow the trail of communication of the Committee of Five. 
+Livingston's copy, if a separate copy was made for his review, to follow the trail of communication of the Committee of Five.
 
 As the Declaration Resources Project at Harvard rightfully acknowledged through its monumental Declaration
 Database, it was essential to distinguish these three drafts, and the partial Jefferson draft at the LOC, as
@@ -212,7 +213,7 @@ June 12, 1776; Sherman's involvement on the Committee of War could have preclude
 involvement in the Declaration's initial committee deliberations, thus necessitating the creation of this
 manuscript. <a href="#footnotes">(14)</a> The inscription (verso), "A beginning perhaps - Original with Jefferson..." appeared to support
 the timeframe in which this would have happened, as well as the early draft state of the text.
-  
+
 Sherman's initials on the upper right corner (verso) indicated that he received, reviewed, approved this draft,
 and signed off on it, procedurally. The date of June 24, 1776 (recto) potentially indicated the date on which
 Sherman received the draft. Sherman's initials and approval of the
@@ -242,7 +243,7 @@ which he noted orders of imported "woven" wire to make wove paper moulds in 1773
 few skilled wire mould makers to make wove paper moulds in Pennsylvania at that
 time, and became the primary mould maker for many of the colonial paper mills throughout the Revolution. Interestingly, Benjamin Franklin possessed and
 used wove paper during the Revolution, and introduced wove paper to France around 1777.<a href="#footnotes">(17)</a>
-  
+
 Imported paper became increasingly scarce at this time, which necessitated Colonial paper mills to
 maximize production. Benjamin Franklin was largely responsible for the massive efforts in rag collection used
 in paper making in Philadelphia, and Nathan Sellers was even recalled from serving in the Army to return to
@@ -288,7 +289,7 @@ to writing, as the paper sizing was damaged during folding, which allowed the in
 at the bottom of each panel lined up neatly with each fold, which acted as the edge of paper until another
 panel was filled, and the next panel was folded down. After writing was completed, the manuscript
 was folded again at the panels with concave folds when Adams wrote the inscription (verso). The well-preserved condition of the transcription (recto), in contrast to the naturally aged inscription (verso) validated this process.
-  
+
 In the following image, distinct creases in the manuscript run vertically down the center of the
 document. These imprinted crease lines matched the crease and fold lines of the auction booklet,
 and confirmed this manuscript was stored within the auction booklet for an extensive
@@ -333,7 +334,7 @@ In this excerpt, the word "Right" contains a lowercase "r" that resides under an
 <center><img src="/images/sherman-copy-di-10.png"></center>
 
 In this excerpt, the word "Object" contained a lowercase "o" that was over-scripted with a capital
-"O". 
+"O".
 
 <center><img src="/images/sherman-copy-di-11.png"></center>
 
@@ -341,7 +342,7 @@ Over time, readers of the Declaration have discussed probable reasons for why Co
 decided to capitalize seemingly random words throughout the text. Early Germanic roots of the English
 language demonstrated how capitalization of letters mid-sentence was utilized to place emphasis on significant
 words. Throughout the Declaration, especially in this manuscript, nouns were selected to
-emphasize words of significance; a characteristic that is evident in the Preamble. 
+emphasize words of significance; a characteristic that is evident in the Preamble.
 Capitalization survived the written drafts, into John Dunlap's official print on the eve of July 4. As the approximately two hundred Dunlap broadsides traveled from Dulap's print shop to their respective locations and representatives,
 including the copy Washington read to his troops on July 9 in New York City, the intention of this capitalization
 was realized as the reader's voice brought life to the Declaration. This manuscript draft has provided the
@@ -374,7 +375,7 @@ granted by "*T.P.*".
 
 The significance of Paine's writings as a catalyst for the American Revolution has been well-established. It is also
 *common* knowledge that Thomas Paine was deliberately excluded from mainstream American history due to his progressive
-views and his anti-religious perspective that distanced him from his contemporaries.  This manuscript 
+views and his anti-religious perspective that distanced him from his contemporaries.  This manuscript
 allows us greater insight into Thomas Paine's involvement in the Revolution beyond *Common Sense*, as it seemingly
 alleviates the ambiguity of Paine's participation in the creation of the Declaration of Independence and has provided
 us a basis for discussing Paine's monumental contributions to the origins of our United States of America.
@@ -443,6 +444,3 @@ Engineering. doi:10.1016/b978-0-12-409547-2.14375-6
 (CTH-RF--62). Sweden
 23. Yusuf, M., Shabbir, M., & Mohammad, F. (2017). Natural Colorants: Historical, Processing and Sustainable
 Prospects. Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5315675/
-
-
-

@@ -1,7 +1,6 @@
+---
 Title: Brief History of the Remains of Thomas Paine
-Slug: aboutpaine/brief-history-of-the-remains-of-thomas-paine
-Date: Mon Aug  4 09:08:51 EDT 2014
-
+---
    From the Time of Their Disinternment in 1819.
 
    by William Cobbett, M.P.

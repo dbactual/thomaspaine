@@ -1,6 +1,6 @@
+---
 Title: Thomas Paine (1870) by Robert Ingersoll
-Slug: aboutpaine/thomas-paine-1870-by-robert-ingersoll
-Date: Mon Aug  4 09:08:53 EDT 2014
+---
 
                                   Thomas Paine
                          by ROBERT G. INGERSOLL  (1870)
@@ -887,5 +887,3 @@ Date: Mon Aug  4 09:08:53 EDT 2014
              "THE WORLD IS MY COUNTRY, AND TO DO GOOD MY RELIGION."
 
    ----------------------------------------------------------------------
-
-    

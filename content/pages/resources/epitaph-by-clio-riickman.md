@@ -1,6 +1,6 @@
+---
 Title: Epitaph by Clio Riickman
-Slug: aboutpaine/epitaph-by-clio-riickman
-Date: Mon Aug  4 09:08:51 EDT 2014
+---
 
                                     Epitaph,
 
@@ -8,7 +8,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
                                 by Clio Rickman.
 
-                                        
+
 
                      To future times this monumental stone
 

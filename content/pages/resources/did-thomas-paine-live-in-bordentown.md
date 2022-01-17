@@ -1,6 +1,6 @@
+---
 Title: Did Thomas Paine live in Bordentown?
-Slug: aboutpaine/did-thomas-paine-live-in-bordentown
-Date: Mon Aug  4 09:08:51 EDT 2014
+---
 
    Bordentown is the only place in the world where Paine bought property. He
    was given a farm in New Rochelle, NY by the State Assembly, but never
@@ -9,7 +9,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    It was moved sometime in the late 19th century from the corner of
    Farnsworth down the block of Church St W. a couple of lots, and is still
    there.  The plaque on Farnsworth is incorrect as it names the present
-   structure at the NW corner of Farnsworth and Church W as the house. 
+   structure at the NW corner of Farnsworth and Church W as the house.
    However, Paine never lived in the house he bought!  He "gave" it to a
    widow of the war to live rent free, and then rented it to a ship Captain
    and his wife.  He eventually sold it in 1803 along with the land across

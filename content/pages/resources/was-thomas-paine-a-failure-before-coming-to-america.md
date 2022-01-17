@@ -1,6 +1,6 @@
+---
 Title: Was Thomas Paine a "failure" before coming to America?
-Slug: aboutpaine/was-thomas-paine-a-failure-before-coming-to-america
-Date: Mon Aug  4 09:08:56 EDT 2014
+---
 
    Far from it. Paine had several occupations, most notably as an excise officer.
    However his abilities were used far beyond that position. For example, he

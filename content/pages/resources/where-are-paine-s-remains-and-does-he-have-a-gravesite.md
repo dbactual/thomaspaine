@@ -1,6 +1,6 @@
+---
 Title: Where are Paine's remains, and does he have a gravesite?
-Slug: aboutpaine/where-are-paine-s-remains-and-does-he-have-a-gravesite
-Date: Mon Aug  4 09:08:57 EDT 2014
+---
 
    Thomas Paine is the only Founder without a gravesite. The story of his
    remains reflect the collossal life and works of Paine himself and his

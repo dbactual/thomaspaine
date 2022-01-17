@@ -1,6 +1,6 @@
+---
 Title: Portraits of Paine by Moncure Conway
-Slug: aboutpaine/portraits-of-paine-by-moncure-conway
-Date: Mon Aug  4 09:08:52 EDT 2014
+---
 
 
 
@@ -137,7 +137,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
      Above the cheap wood-cut is: "A Tribute to Paine." On the right, at the
    top, is a globe, showing the outlines of the Americas, France, England,
    and Africa. It is supported by the wing of a dove with large olive-branch.
-   On the left upper corner is an open book inscribed: "RIGHTS OF MAN,  
+   On the left upper corner is an open book inscribed: "RIGHTS OF MAN,
    COMMON SENSE,   CRISIS": supported by a scroll with
    "DOING JUSTICE, LOVING MERCY. AGE OF REASON ."   From this book rays break
    out and illumine the globe opposite. A lower corner shows the balances,
@@ -194,11 +194,11 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    features of Thomas Paine. As I have sat at my long task, now drawn to a
    close, the face there on the wall has seemed to be alive, now flushed with
    hope, now shadowed with care, the eyes greeting me daily, the firm mouth
-   assigning some password -- Truth, Justice. 
+   assigning some password -- Truth, Justice.
 
    Footnotes
 
-    
+
 
    1.     This is puzzling. The only engraving I have found with "Tom" was
    published in London in 1800. Can there be a portrait lost under some other

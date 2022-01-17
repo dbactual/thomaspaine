@@ -1,6 +1,6 @@
+---
 Title: Did Thomas Paine support the U.S. Constitution?
-Slug: aboutpaine/did-thomas-paine-support-the-u-s-constitution
-Date: Mon Aug  4 09:08:51 EDT 2014
+---
 
    He favored the idea of the Constitution to establish the government (it
    was his idea in 1783), but he strongly argued against the conservative and

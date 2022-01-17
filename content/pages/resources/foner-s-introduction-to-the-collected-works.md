@@ -1,6 +1,6 @@
+---
 Title: Foner's Introduction to the Collected Works
-Slug: aboutpaine/foner-s-introduction-to-the-collected-works
-Date: Mon Aug  4 09:08:51 EDT 2014
+---
 
    THOMAS PAINE-WORLD CITIZEN AND DEMOCRAT
 
@@ -40,7 +40,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    did not acquire some knowledge." No one who traces his lifelong pursuit of
    education and notes the authors he cites in his writings, will lightly
    accept the conventional sneer that Paine displayed an "immense ignorance"
-   throughout his career.    
+   throughout his career.
 
    Both his Quaker background and his study of Newtonian science influenced
    his thinking along progressive lines, though neither probably had the
@@ -73,7 +73,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    and privileges, the role that family influence played in English politics,
    the  inequalities of the rotten-borough system (in Thetford alone
    thirty-one persons elected two members of the House of Commons), and the
-   corruption that characterized government administration. 
+   corruption that characterized government administration.
 
    These experiences left their mark upon Paine. Himself a working man, he
    was to use his pen, time and again, in an effort to improve the status of
@@ -120,7 +120,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    "discontinue and renounce it, with grief and abhorrence." When the article
    was printed on March 8, 1775, Paine gained a wide reputation for his
    liberal views, and won for himself the friendship of Dr. Benjamin Rush and
-   other important figures in literary and philosophical circles. 
+   other important figures in literary and philosophical circles.
 
    The time was ripe for the activity of a lover of liberty when Paine
    arrived in America. The struggle between England and her colonies had been
@@ -149,7 +149,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
                  From the East to the West blow the trumpet to arms,
                    Thro' the land let the sound of it flee:
                  Let the far and the near all unite with a cheer,
-                   In defense of our Liberty Tree. 
+                   In defense of our Liberty Tree.
 
    But Paine was already forming the outlines of a much more important call
    to arms, for he discovered that poetry was not enough to convince men in
@@ -177,7 +177,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    went on to say: "When I reflect on these, I hesitate not for a moment to
    believe that the Almighty will finally separate America from Britain. Call
    it Independence or what you will, if it is the cause of God and humanity
-   it will go on." 
+   it will go on."
 
    In December, 1775, Paine showed the manuscript of a pamphlet he had
    finished to David Rittenhouse and Dr. Benjamin Rush, and the latter,
@@ -272,7 +272,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    who heard the words of Paine's great document-Washington ordered it read
    to his men-were inspired to face the floes, a blizzard and the swift
    current of the Delaware River on Christmas Eve and achieve the victory at
-   Trenton which gave the Americans new courage. 
+   Trenton which gave the Americans new courage.
 
    Between 1776 and 1783 Paine published thirteen numbered essays and three
    extra numbers of The Crisis papers, each one signed "Common Sense." All
@@ -351,7 +351,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    Affairs should be held by "a mere adventurer from England, without
    fortune, without family or connexions, ignorant even of grammar."
 
-    
+
 
    Paine's resignation did not end the controversy over Silas Deane. For many
    months articles on the subject appeared daily in the Philadelphia press.
@@ -386,7 +386,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    press he defended the document and attacked those who sought to deprive
    the people of their democratic rights.6
 
-    
+
 
    Paine also spoke for the people, especially the artisans, in his articles
    denouncing monopolizing practices which caused the cost of living to soar
@@ -405,7 +405,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    implies, for he was the close friend and advisor of Assembly leaders and
    influenced important legislation.
 
-    
+
 
    In his new position Paine soon had an opportunity to see one of his dreams
    realized. Late in 1775, in his short article entitled "A Serious Thought,"
@@ -447,7 +447,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    with Robert Morris at their head, started the Bank of Pennsylvania to
    supply the army with provisions.
 
-    
+
 
    Undoubtedly Paine's action in this crisis marked a change in his attitude
    toward men like Morris whom he had publicly denounced only a few months
@@ -480,7 +480,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    of government until Virginia ceded her claims to western land to the
    national government.
 
-    
+
 
    Paine's pamphlet, Public Good, published in Philadelphia on December 30,
    1780, demolished Virginia's claims to land in the west, contended that the
@@ -509,7 +509,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    about our union." Independence without a strong union would be
    meaningless, for "the union of America is the foundation-stone of her
    independence; the rock on which it is built." It was "the great Palladium
-   of our liberty and safety." 9   
+   of our liberty and safety." 9
 
    To bring this message to the people of Rhode Island, Paine even went to
    the trouble to visit the state at his own expense. He made the trip in the
@@ -530,7 +530,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    stand first on the list of Federalist!' For had he not as early as 1780
    and 1782 recognized that "the continental belt was too loosely buckled"?
 
-    
+
 
    At the end of the Revolution Paine found himself poverty-stricken. In a
    moving memorial to Congress, endorsed by Washington, he set forth his
@@ -538,7 +538,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    writings had circulated widely, but he had not profited from their sale.
    Indeed, he had contributed from his own pocket to; make them available to
    as wide a reading public as possible. Referring to the phenomenal
-   distribution of Common Sense, Paine wrote in his memorial : 
+   distribution of Common Sense, Paine wrote in his memorial :
 
    "As my wish was to serve an oppressed people, and assist in a
    just and good cause, I conceived that the honor of it would be  promoted
@@ -551,7 +551,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    perhaps, be said, that as I had made a dangerous step, it was my interest
    to make it as little so as possible by promoting by every means, the
    success of the principle on which my own safety  rested, but this would be
-   an uncandid way of accounting for public spirit and conduct." 10 
+   an uncandid way of accounting for public spirit and conduct." 10
 
    Yet for all his public spirit and conduct he faced a desperate future. "I
    cannot help viewing my situation as singularly inconvenient," he frankly
@@ -597,7 +597,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    bank's charter was introduced in the Pennsylvania legislature and by April
    4, 1786, passed its second reading.
 
-    
+
 
    The pro-bank forces now rallied to defeat the repeal bill. James Wilson
    wrote a pamphlet supporting the bank, but the material was so heavy and
@@ -613,7 +613,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    whose difficulties I had done my share, and in the raising of which, to an
    independent Empire, I had added my mite . . ." 11
 
-    
+
 
    Paine did not join in the popular agitation conducted by the backcountry
    farmers in favor of paper money legislation and in opposition to the bank,
@@ -644,7 +644,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    alloted him, . . . to vilify measures which it is his duty to respect, and
    . . . [devotes] his pen to the ruin of his country."
 
-    
+
 
    These attacks did not halt Paine in his determination to fight the battle
    to the bitter end, and his will was strengthened by the realization that
@@ -672,7 +672,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    . . ." The report was presented on August 29th. The next day Paine left
    for England.
 
-    
+
 
    In the land of his birth Paine visited his aged mother at Thetford, met
    and was enthusiastically received by Charles Fox, Lord Landsdowne, Lord
@@ -688,7 +688,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    published in 1782, Paine had predicted that the American Revolution would
    influence England and France until "every corner of the mind is swept of
    its cobwebs, poison and dust, and made fit for the reception of generous
-   happiness."    
+   happiness."
 
    Paine spent four months in France at the invitation of Lafayette and
    Condorcet. He gave advice on the formation of a constitution, aided in
@@ -705,7 +705,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    to developments in France. "Here is a courtly and an aristocratical hatred
    against the principles of the French Revolution . . . ," he wrote to
    William Short, American representative in France, from London early in
-   June, 1790.14  
+   June, 1790.14
 
    In the fall of 1790 Paine returned to Paris where he mingled again with
    Brissot, Condorcet, Lafayette and other leaders of the Revolution. A
@@ -722,7 +722,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    Revolution in his parliamentary speech on February 9, 1790. Soon after
    this Paine saw an advertisement of the forthcoming publication of Burke's
    pamphlet, and promised his friends in France that whenever it appeared he
-   would answer it.15   
+   would answer it.15
 
    Paine finished the pamphlet in February, 1791, and turned it over to a
    friend, Johnson, to have it published. After a few copies were issued,
@@ -748,7 +748,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    Burke's contention of the right of the Parliament of 1688 to bind
    posterity forever to their settlement, to defend the French Revolution,
    and many even quoted him to urge Englishmen to follow the example set by
-   their brothers across the channel.    
+   their brothers across the channel.
 
    While popular societies in England sang Paine's praises, toasted his name
    and adopted resolutions thanking him for his "most masterly book," the
@@ -770,7 +770,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    we repeat it, that the French Revolution opens to the world an opportunity
    in which all good citizens must rejoice-that of promoting the general
    happiness of man."
-  
+
 
    After the appearance of Burke's reply to the first part of Rights of Man,
    entitled An Appeal from the New to the Old Whigs, Paine started work on
@@ -793,7 +793,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    interests. "No better reason can be given," he declares, "why the house of
    legislature should be composed entirely of men whose occupations is in
    letting landed property than why it should be composed of those who hire,
-   or brewers, or bakers, or of any other separate class of men."  
+   or brewers, or bakers, or of any other separate class of men."
 
    Paine did not confine himself to advocating a reform in the composition of
    the government. He outlined a plan for popular education, for the relief
@@ -806,7 +806,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    levying of a progressive income tax. Not only would this secure the funds
    necessary for the proper functioning of the government, but it would bring
    about the abolition of primogeniture which was both "unnatural and unjust"
-   and a great waste of the national wealth.    
+   and a great waste of the national wealth.
 
    In Part II of the Rights of Man Paine also outlined his suggestions for
    peaceful and harmonious relations among nations to render wars
@@ -832,7 +832,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    the printing of a cheap edition because the original cost too much,
    thereby preventing it from reaching the common people, but he even gave up
    the copyright to the public. At least one hundred thousand copies of the
-   cheap edition were sold in England, Ireland and Scotland.  
+   cheap edition were sold in England, Ireland and Scotland.
 
    The influence of Rights of Man was by no means confined to England. In
    America, for example, it became the book of the hour, greatly influenced
@@ -860,7 +860,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    it was published in an expensive edition they were not too worried. But
    when it began to be distributed in cheap editions at cost, the attitude
    changed. From "that moment," wrote Paine, "and not before, I expected a
-   prosecution, and the event has proved that I was not mistaken."    
+   prosecution, and the event has proved that I was not mistaken."
 
    There is more to the story. At first Premier Pitt tried to prevent the
    publication of Part II by bribing the publisher. When this failed, the
@@ -882,7 +882,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    Dome in the National Assembly. "Come, friend of the people," they wrote
    him, "to swell the number of patriots in an assembly which will decide the
    destiny of the human race. The happy period you have predicted for the
-   nation has arrived. Come! do not deceive their hopes."   
+   nation has arrived. Come! do not deceive their hopes."
 
    On September 12 Paine made a revolutionary speech to the society of the
    "Friends of Liberty." The next day, warned by the poet William Blake to
@@ -902,7 +902,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    civilization, and commerce-and to break the chains of political
    superstition, and raise degraded man to his proper rank;-if these things
    be libellous, let me live the life of a libeller, and let the name of
-   libeler be engraven on my tomb!"    
+   libeler be engraven on my tomb!"
 
    On December 18 Paine's Rights of Man was prosecuted in England. The author
    was found guilty of seditious libel before a pensioned judge and a packed
@@ -913,7 +913,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    France. Soon after his arrival at Calais, Paine took his seat in the
    Convention. He speedily discovered that much had happened in France since
    his last visit to the country, and much of what had happened he could not
-   understand.   
+   understand.
 
    In England Paine was associated with the extreme Left, but in France his
    associates were already becoming the Right. The Girondists, with whom
@@ -958,7 +958,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    the committee for drawing up a Constitution for France. He worked with
    Danton, Brissot, Condorcet, Sieyes and four others in writing the
    document, but it was not adopted. Soon afterwards he invited the enmity of
-   the Jacobins by his opposition to the execution of Louis XVI.    
+   the Jacobins by his opposition to the execution of Louis XVI.
 
    After it was revealed during his trial that the king had been conspiring
    with the French emigres and the courts of Europe to wage war upon the
@@ -987,7 +987,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    the king had once aided America to gain her independence. He pleaded with
    the delegates that they should not give "the tyrant of England the triumph
    of seeing the man perish on the scaffold who had aided my much-beloved
-   America to break his chains."    
+   America to break his chains."
 
    On January 19,1793, the Convention heard an address in opposition to the
    execution delivered for Paine by a delegate who had translated it from the
@@ -1001,7 +1001,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    which he had been allied had brought misery and hardship upon the people
    of France, he could not be expected to grasp the necessity for the new
    radical measures introduced by the Jacobins to cope with enemies of the
-   revolution at home and abroad.    
+   revolution at home and abroad.
 
    Although Robespierre and his associates took action against most of
    Paine's former friends directly after the Girondists were overthrown, they
@@ -1035,7 +1035,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    prospect now is that he will not be able to hold out more than a month or
    two at the farthest. I shall certainly pay the utmost attention to this
    gentleman, as he is one of those whose merits in our Revolution were most
-   distinguished."  
+   distinguished."
 
    Paine eventually recovered, was readmitted to the convention in 1795,
    offered a pension which he refused, and remained in France until September
@@ -1045,7 +1045,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    his friend Joel Barlow a manuscript which when published in English in
    1794 brought upon him a barrage of vituperation that has lasted until the
    present day. The work was the first part of The Age of Reason. Part II was
-   written during his stay in Monroe's home after his release from prison. 
+   written during his stay in Monroe's home after his release from prison.
 
    Written when Paine was in his fifty-seventh year, The Age of Reason
    represented the results of years of study and reflection by its author on
@@ -1074,7 +1074,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    hatred of the counter-revolutionary role played by the clergy the people
    of France "were running headlong into Atheism . . ." At one stroke he
    might save the true religion, Deism, from atheism and republicanism from
-   despotism. With this in mind he wrote his famous theological treatise.   
+   despotism. With this in mind he wrote his famous theological treatise.
 
    Thomas Paine was no Atheist, Theodore Roosevelt to the contrary. Together
    with the foremost liberals and intellectuals in America and Europe, he
@@ -1103,7 +1103,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    common people, the outlook was entirely different. Men, who had said many
    times before the same things Paine set down in his work, had been ignored.
    Paine was forced to endure a barrage of calumny and vituperation such as
-   has been visited upon few men in our history.   
+   has been visited upon few men in our history.
 
    In one other respect Paine was different from others who had written on
    the subject. He did not bother to use diplomatic language in expressing
@@ -1131,7 +1131,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    of government or religion, truth will finally and powerfully prevail." He
    could not foresee that there were those who were not interested in
    allowing opinions to be free and, because he transformed Deism from an
-   aristocratic into a popular movement, would make life miserable for him. 
+   aristocratic into a popular movement, would make life miserable for him.
 
    In the winter of 1795-96, shortly after he completed the second part of
    The Age of Reason, and while he was still at the home of Monroe in Paris,
@@ -1178,7 +1178,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    compensation in part, for the loss of his or her natural inheritance, by
    the system of landed property," and "the sum of ten pounds per annum,
    during life, to every person now living, of the age of fifty years, and to
-   all others as they shall arrive at that age.    
+   all others as they shall arrive at that age.
 
    The system he proposed, Paine maintained, would so organize civilization
    "that the whole weight of misery can be removed." It would aid the blind,
@@ -1209,7 +1209,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    international peace. "There will be no lasting peace for France, nor for
    the world," wrote Paine, "until the tyranny and corruption of the English
    government be abolished, and England, like Italy, become a sister
-   republic."   
+   republic."
 
    Paine submitted a plan to the French Directory for a military expedition
    against England, whose purpose would be to overthrow the monarchy and
@@ -1223,7 +1223,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    not molested under the Consulate, but his democratic views such as his
    support of the Haitian revolution led by Touissant L'Ouverture and his
    agitation against the slave trade, were looked upon unfavorably. He waited
-   to return to the country which had made him an author.    
+   to return to the country which had made him an author.
 
    The fifteen years Paine had spent in Europe since his departure from
    America had been crowded with world-shaking events, and in most of them he
@@ -1251,7 +1251,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    steadily to have laboured, and with as much effect as any man living. That
    you may long live to continue your useful labours, and to reap their
    reward in the thankfulness of nations, is my sincere prayer. Accept
-   assurances of my high esteem and affectionate attachment."   
+   assurances of my high esteem and affectionate attachment."
 
    Paine sailed from France on September 1 and landed at Baltimore on October
    30, 1802. He was hailed by the Jeffersonians and especially by the
@@ -1279,7 +1279,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    Philadelphia Portfolio urged "every honest and insulted man of dignity . .
    . to shake off the very dust of his feet and to abandon America" the
    moment "the loathsome Thomas Paine" started to express his views in this
-   country.23  
+   country.23
 
    Even Paine's former friends in America began to avoid him. Samuel Adams
    broke off his friendship and Benjamin Rush refused to have anything to do
@@ -1300,7 +1300,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    contrary have openly maintained in conversation the duty of showing our
    respect to you and of defying federal calumny in this as in other cases by
    doing what is Right. As to fearing it, if I ever could have been weak
-   enough for that, they have taken care to cure me of it thoroughly." 24   
+   enough for that, they have taken care to cure me of it thoroughly." 24
 
    Paine visited Jefferson and discussed political and scientific issues. He
    refused to accept any public office, but continued to advise the President
@@ -1326,7 +1326,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    drunkenness by cartoonists and writers. In 1806 came the greatest
    effrontery of all when he was denied the right to vote by Federalist
    officials in New Rochelle on the charge that he was not an American
-   citizen.   
+   citizen.
 
    Although he led an increasingly harried life, Paine enjoyed the company of
    "the laboring class of emigrants," and spent many enjoyable days with
@@ -1341,7 +1341,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    Street in New York City. Just before he died on June 8, 1809, two
    clergymen gained access to his room hoping to hear him recant his
    heresies. To their question concerning his religious opinions, Paine
-   simply said: "Let me alone; good morning."  
+   simply said: "Let me alone; good morning."
 
    Paine was buried on his farm in New Rochelle. But even in the grave it was
    not considered fitting that the great, militant democrat, Thomas Paine,
@@ -1355,7 +1355,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    held in his heart." 26
 
    Three years before his death, in a letter to the mayor of Philadelphia,
-   Paine summarized these principles: 
+   Paine summarized these principles:
 
    "My motive and object in all my political works, beginning with Common
    Sense, the first work I ever published, have been to rescue man from
@@ -1386,7 +1386,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    from generation to generation. They loved this hard-hitting pamphleteer
    who had fought the people's fight against tyranny, and they understood
    what he had meant when he had said, "My country is the world: to do good,
-   my religion."  
+   my religion."
 
    Today Thomas Paine is just beginning to receive the homage due him. The
    studies of the late Professor Parrington, whose essay on Paine in his The
@@ -1412,15 +1412,15 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    Thomas Paine who wrote so much and so well to build the heritage of
    freedom we are battling to preserve and extend.
 
-    
+
 
    Philip S. Foner
 
-    
+
 
    FOOTNOTES
 
-    
+
 
    1
 
@@ -1682,7 +1682,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    Not so with THOMAS PAINE."
 
-    
+
 
    27
 

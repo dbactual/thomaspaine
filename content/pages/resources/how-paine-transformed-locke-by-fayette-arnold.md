@@ -1,7 +1,6 @@
+---
 Title: How Paine Transformed Locke by Fayette Arnold
-Slug: aboutpaine/how-paine-transformed-locke-by-fayette-arnold
-Date: Mon Aug  4 09:08:51 EDT 2014
-
+---
    HOW THOMAS PAINE INVALIDATED THE PRE-ENLIGHTENMENT WORLD VIEW BY
    TRANSFORMING THE PRINCIPLES OF JOHN LOCKE
 
@@ -14,7 +13,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    Paine Is An Impressive Figure As He Took A Tax Rebellion And Transformed
    It Into A Revolution And Independence. This is What Neither Side Expected
-   Or Wanted. 
+   Or Wanted.
 
    Fayette Arnold
 
@@ -24,7 +23,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    budarnold34@gmail.com
 
-    
+
 
    CHANGING THE 18TH CENTURIES VIEW OF LIFE
 
@@ -144,7 +143,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    social strife that existed in his era. His goal was not to create a
    government based upon democratic values, but to establish a refined,
    rational, well mannered, and harmonious social order founded upon a
-   traditional belief in limited monarchy.  
+   traditional belief in limited monarchy.
 
    Interpreters of Locke's philosophy have extracted his belief in republican
    principles from his use of certain words, especially terms like "freedom",
@@ -210,7 +209,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    nation's intellectual and spiritual character came directly from the mind
    of Thomas Paine.
 
-    
+
 
    THOMAS PAINE AND JOHN LOCKE RE-EXAMINED
 
@@ -398,7 +397,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    Peers.
 
    Thirdly: The new republican materials, in the persons of the Commons, on
-   whose virtue depends the freedom of England.  
+   whose virtue depends the freedom of England.
 
    The first two being hereditary, are independent of the people; wherefore
    in a constitutional sense they contribute nothing towards the freedom of
@@ -807,7 +806,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    contributions of both Thomas Paine and John Locke to mankind as well as
    ascertaining their proper place in the United States and World History.
 
-    
+
 
    SUMMARY
 
@@ -910,7 +909,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    needs to be reexamined in the light of honesty in order that he may
    receive the long overdue recognition and respect that he justly deserves.
 
-    
+
 
    POSTSCRIPT
 
@@ -934,7 +933,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    prophet of freedom by declaring that Paine isalso the father of the modern
    radical tradition in politics.
 
-    
+
 
    QUOTATIONS
 

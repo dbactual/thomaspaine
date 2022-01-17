@@ -1,6 +1,6 @@
+---
 Title: Why isn't Paine recognized as a leading figure of the American Revolution?
-Slug: aboutpaine/why-isn-t-paine-recognized-as-a-leading-figure-of-the-american-revolution
-Date: Mon Aug  4 09:08:57 EDT 2014
+---
 
    Like most topics in American history, there are two camps of historians.
    One group, which has emerged since the 1960's, recognizes Paine as the

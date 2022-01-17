@@ -1,8 +1,8 @@
+---
 Title: Which is correct "Tom Paine" or "Thomas Paine"?
-Slug: aboutpaine/which-is-correct-tom-paine-or-thomas-paine
-Date: Mon Aug  4 09:08:57 EDT 2014
+---
 
-   Paine never signed his name "Tom" Paine. He always used Thomas. "Tom" 
+   Paine never signed his name "Tom" Paine. He always used Thomas. "Tom"
    was  invented by  his detractors, and they were the only ones who used it
    in the beginning.  "Tom" came from the attacks and slanders by his enemies
    (the churches and the monarchists and some of the Federalists) as a way to

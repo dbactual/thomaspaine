@@ -1,6 +1,6 @@
+---
 Title: Thomas Paine and the Declaration of Independence
-Slug: aboutpaine/thomas-paine-and-the-declaration-of-independence
-Date: Mon Aug  4 09:08:53 EDT 2014
+---
 
    being also a critique of Maier's American Scripture.
 
@@ -8,7 +8,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    former President of TPNHA
 
-    
+
 
    Van Buren Denslow, in his book on the great thinkers of western
    civilization, said of Thomas Paine: "If a set of opinions could be
@@ -64,7 +64,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    "Tom Paine urges freedom from Britain to secure American democracy, to
    achieve freedom and equality for every citizen. Freedom from Britain
    (independence), freedom of trade or property (free enterprise), the
-   freedom of English subjects ("ordered liberty"), and the freedom of 
+   freedom of English subjects ("ordered liberty"), and the freedom of
    democracy (equality) are different "freedoms," and Common Sense urges
    democratic freedom as the basis for an American Revolution."6
 
@@ -220,7 +220,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    Paine stood for a democratic republic, and the two sides have still not
    reconciled, nor should they.
 
-    
+
 
    Now let us examine the analytical criteria for determining the role Common
    Sense played in the creation of the Declaration of Independence. To do
@@ -353,13 +353,13 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    Gettysburg Address, to the Civil Rights laws of the 1960's have their
    roots.
 
-    
 
-    
+
+
 
    Footnotes
 
-    
+
 
    1.  Van Buren Denslow, Modern Thinkers, Chicago: Belford, Clarke & Co.,
    1880, pg. 167.
@@ -399,7 +399,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    12.  Maier, op. cit., pg. 33. In a petty fit to once again try and bury
    Paine, Adams in his Autobiography says independence "had been urged in
    Congress a hundred times" prior to Common Sense. No corroborating evidence
-   has ever been developed to support this claim, and frankly all evidence 
+   has ever been developed to support this claim, and frankly all evidence
    suggests just the opposite, but Ms. Maier continues using it as "scripture".
 
    13. Maier, pg 33.

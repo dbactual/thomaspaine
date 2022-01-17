@@ -1,6 +1,7 @@
+---
 Title: Thomas Paine by Elbert Hubbard
-Slug: aboutpaine/thomas-paine-by-elbert-hubbard
-Date: Mon Aug  4 09:08:53 EDT 2014
+---
+
    Thomas Paine was an English mechanic, of Quaker origin, born in the year
    Seventeen Hundred Thirty-seven. He was the author of four books that have
    influenced mankind profoundly. These books are, "Common Sense," "The Age
@@ -169,7 +170,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    Franklin one whole evening, and the said, "What he is I can at least in
    part become." Paine thought Franklin quite the greatest man of his time,
    an opinion which, among others held by him, the world now fully accepts.
- 
+
    Paine at twenty-four, from a simple weaver, had been called into the
    office of his employer to help straighten out the accounts. He tried
    storekeeping, but with indifferent success. Then it seems he was employed
@@ -522,7 +523,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    But finally Benoit, himself, was led away, and there was none to kiss his
    cheek, nor to give him a ring and cry cheerily, "Good luck, Citizen
    Comrade! Until we meet again!"
-  
+
    A great deal has been said by the admirers of Thomas Paine about the abuse
    and injustice heaped upon his name, and the prevarications concerning his
    life, by press and pulpit and those who profess a life of love, meekness
@@ -612,7 +613,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    Paine was the legitimate ancestor of Hosea Ballou, who founded the
    Universalist Church, and also of Theodore Parker, who made Unitarianism in
    America an intellectual torch.
-   
+
    Channing, Ripley, Bartol, Martineau, Frothingham, Hale, Curtis, Collyer,
    Swing, Thomas, Conway, Leonard, Savage--yes, even Emerson and
    Thoreau--were spiritual children, all, of Thomas Paine. He blazed the way

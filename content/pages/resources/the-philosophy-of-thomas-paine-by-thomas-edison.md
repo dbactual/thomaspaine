@@ -1,6 +1,6 @@
+---
 Title: The Philosophy of Thomas Paine by Thomas Edison
-Slug: aboutpaine/the-philosophy-of-thomas-paine-by-thomas-edison
-Date: Mon Aug  4 09:08:53 EDT 2014
+---
 
    by Thomas Alva Edison
 
@@ -188,6 +188,5 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    difficult a cause -- can be permanently obscured by such attacks. Tom
    Paine should be read by his countrymen. I commend his fame to their hands.
 
-   This essay may be found in the book "The Diary and Sundry Observations" 
+   This essay may be found in the book "The Diary and Sundry Observations"
    edited by Dagobert D. Runes (1948).
-    

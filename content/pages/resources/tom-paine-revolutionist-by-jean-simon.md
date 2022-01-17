@@ -1,10 +1,10 @@
+---
 Title: Tom Paine - Revolutionist by Jean Simon
-Slug: aboutpaine/tom-paine-revolutionist-by-jean-simon
-Date: Mon Aug  4 09:08:56 EDT 2014
+---
 
    by Jean Simon (1952)
 
-    
+
 
    Thomas Paine was born on Jan. 29, 1737. On Jan. 10, 1776, his historic
    call for the American revolution, Common Sense was published. Both of
@@ -18,9 +18,9 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    preparation of the public mind for the open revolt against England. Few
    attempt to explain what went into the making of the man and why he was
    able to leave his indelible mark on American history.
-    
 
-    
+
+
 
    Early Background
 
@@ -40,9 +40,9 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    During the rest of his early life in England he supported himself by
    working from time to time as an exciseman, as a staymaker and as a
    teacher.
-    
 
-    
+
+
 
    Philosophical Influence
 
@@ -231,7 +231,7 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    assistance he could. A few hours after this the alarm happened. I went
    directly to General Mifflin but he had set off, and nothing was done. I
    cannot help being of the opinion that the city might have been saved ..."
-    
+
 
    His Selflessness
 
@@ -254,9 +254,9 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    a new type of crane, an improved carriage wheel, and smokeless candles. He
    corresponded with Franklin, who encouraged him to continue.
 
-   A Permanent Radical 
+   A Permanent Radical
 
-    
+
 
    Paine left for France with his model bridge on April 26, 1787. When he
    returned to America fifteen years later, revolutionary sentiment had so
@@ -281,7 +281,7 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    that the only attendants at his funeral in New Rochelle were a Quaker
    watchmaker, friends from France - Mrs. Bonnevine and her two sons - and
    two Negro pall-bearers.
-    
+
 
    Revolutionary Concept of World Scope
 
@@ -311,7 +311,7 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    considerable controversy not only in England, but in America as well.
    Jefferson, Madison and Randolph commended it, and Jefferson sent it to an
    American printer.
-    
+
 
    Activity in French Revolution
 
@@ -528,5 +528,3 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    us, we must return to the first principles of things for information, and
    think as if we were the first men that thought." That was Tom Paine,
    revolutionist.
-
-    

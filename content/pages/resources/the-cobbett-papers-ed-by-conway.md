@@ -1,6 +1,6 @@
+---
 Title: The Cobbett Papers, ed. by Conway
-Slug: aboutpaine/the-cobbett-papers-ed-by-conway
-Date: Mon Aug  4 09:08:53 EDT 2014
+---
 
                                THE COBBETT PAPERS
 
@@ -29,7 +29,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    predicted the suspension of gold payments by the Bank of England that
    followed the next year. The pamphlet became Cobbett's text-book, and
    his Register was eloquent in Paine's praise, the more earnestly, he
-   confessed, because he had "been one of his most violent assailants." 
+   confessed, because he had "been one of his most violent assailants."
 
    "Old age having laid his hand upon this truly great man, this truly
    philosophical politician, at his expiring flambeau I lighted my taper."
@@ -110,7 +110,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    Bonneville received a pension, which was continued to his widow. So much
    even a monarchy with an established church could do for a republican
    author, and a freethinker; for Bonneville had published heresies like
-   those of Paine. 
+   those of Paine.
 
    Moncure Conway
 
@@ -199,9 +199,9 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    Clerk to the General Assembly of Pennsylvania, which office he retained
    until 1780. In 1780 be departed for France with Col. John Laurens,
    commissioned especially by the Congress to the Court at Versailles to
-   obtain the aid that was wanted. (See Gordon's Hist., v. iii., p.154.)  
+   obtain the aid that was wanted. (See Gordon's Hist., v. iii., p.154.)
    After his return from France he received the following letter from Col.
-   Laurens: 
+   Laurens:
 
    "CAROLINA, April 18, 1782.
 
@@ -220,7 +220,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    between us."
 
    On the 10th of April, 1783, the definitive treaty of peace was received
-   and published. Here insert the letter from Gen. Nathaniel Greene: 
+   and published. Here insert the letter from Gen. Nathaniel Greene:
 
    "ASHLEY-RIVES (Carolina), Nov. 18, 1782. --
 
@@ -235,7 +235,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    shall take a pride and pleasure in contributing all in my power to render
    your situation happy."4
 
-   The letter from his father. 
+   The letter from his father.
 
    "Dear Son, &c." [Lost.]
 
@@ -277,7 +277,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    Department, where the Deputies to the National Assembly were chosen. Two
    Departments appointed Thomas Paine their Deputy, those of Oise and of Pas
    de Calais, of which he accepted the latter. He received the following
-   letter from the President of the National Assembly, Herault de Sechelles: 
+   letter from the President of the National Assembly, Herault de Sechelles:
 
    "To THOMAS  PAINE:
 
@@ -314,7 +314,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    and when many of my fellow citizens desired me to inform you of your
    election, I remembered, with infinite pleasure, having seen you at Mr.
    Jefferson's, and I congratulated myself on having had the pleasure of
-   knowing you. 
+   knowing you.
 
             "HERAULT,
 
@@ -327,7 +327,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    previous to his being that, he was a citizen of the United States of
    America, which owed their liberty to Louis, and that gratitude would not
    allow him to vote for the death of the benefactor of America. On the 21st
-   of January, 1793, Louis XVI was beheaded in the Square of Louis XV 
+   of January, 1793, Louis XVI was beheaded in the Square of Louis XV
    (Letter to Marat.)6.
 
    Thomas Paine was named by the Assembly as one of the Committee of
@@ -372,7 +372,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    Aristocracy." "Essay on the Character of Robespierre." [Both missing.]
 
    Thomas Paine received the following letter from Madame Lafayette, whose
-   husband was then a prisoner of war in Austria: 
+   husband was then a prisoner of war in Austria:
 
    "19 BRUMAIRE, PARIS.
 
@@ -391,7 +391,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    of that second country, though I have assuredly never failed, nor shall
    ever fail, to the former. Salut and friendship.
 
-   "With all sincerity of my heart, 
+   "With all sincerity of my heart,
 
             "N. LAFAYETTE."
 
@@ -573,7 +573,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    not, in the company of ladies, gallant to say he was not in love. Upon
    this occasion he wrote the New Covenant, from the Castle in the Air to
    the Little Corner of the World, in three stanzas, and sent it with the
-   following words: 
+   following words:
 
    "As the ladies are better judges of gallantry than the men are, I will
    thank you to tell me, whether the enclosed be gallantry. If it be, it is
@@ -582,7 +582,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    gallantry was as clever as your new covenant, many a fair ladies heart
    would be in danger, but the Little Corner of the World receives it from
    the Castle in the Air; it is agreeable to her as being the elegant fancy
-   of a friend. 
+   of a friend.
 
             "C. SMITH." [Stanzas missing.]
 
@@ -663,7 +663,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    made him resolve to go and live at New York.
 
    On the 4th of April, 1807, he wrote the following letter to Mr. Bonneville
-   [in Paris]: 
+   [in Paris]:
 
    "MY  DEAR  BONNEVILLE:
 
@@ -679,7 +679,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    "Your affectionate friend."
 
-   And some time after the following letter. 
+   And some time after the following letter.
 
    "MY  DEAR  BONNEVILLE:
 
@@ -710,7 +710,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    8DEG, about 400 pages each.
 
    "Yours in friendship.
-    
+
 
             "T. P."14
 
@@ -1026,7 +1026,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    Footnotes
 
-    
+
 
    1.     The bracketed words, Madame Bonneville's, are on a separate slip.
    An opening paragraph by Cobbett is crossed out by her pen: "The early
@@ -1161,7 +1161,3 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    24.  At this point are the words Barlow's letter [i. e. to Cheetham] we
    agreed to suppress."
-
-    
-
-    

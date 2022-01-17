@@ -1,6 +1,6 @@
+---
 Title: Testimonials to the Merits of Thomas Paine
-Slug: aboutpaine/testimonials-to-the-merits-of-thomas-paine
-Date: Mon Aug  4 09:08:53 EDT 2014
+---
 
    Compiled by Joseph N. Moreau
 
@@ -28,7 +28,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    Philadelphia, PA, 1861
 
-    
+
 
    ******************************
 
@@ -697,11 +697,11 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    And may success the standard age.
 
-    
+
 
    II.
 
-    
+
 
    "I fain would banish far from hence
 
@@ -715,7 +715,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    Of France, her liberties and laws."
 
-    
+
 
    (Read the first line of the second verse immediately after the first line
    of the first verse - the second line of the second verse, after the second
@@ -724,7 +724,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    usual manner. The two modes of reading will be found ingeniously to convey
    distinct opposite meanings.)
 
-    
+
 
    R. SHELTON MACKENZIE, D. C. L.,
 
@@ -983,11 +983,11 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    `Twas done - Columbia's liberty was thine."
 
-    
+
 
    JAMES CHEETHAM,
 
-    
+
 
    The notorious apostate, speaking of whose "Life of Paine", a Christian
    contemporary of his remarked, "We have every reason to believe IT IS A
@@ -1072,23 +1072,23 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    We ne'er shall look upon his like again.'
 
-    
+
 
    "The friends of the deceased are invited to attend his funeral by 9
    o'clock in the morning, from his late residence at Greenwich, from whence
    his corpse would be conveyed to New Rochelle for interment.
 
-    
+
 
    "'His ashes there,
 
    His fame everywhere.'"
 
-    
+
 
    WATSON,
 
-    
+
 
    In his "Annals of Philadelphia," says: -
 
@@ -1100,7 +1100,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    WALTER MORTON,
 
-    
+
 
    In a short narrative of Paine, says: -
 
@@ -1433,5 +1433,3 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    "There needs but to have the light of truth shines fully upon the real
    character of Thomas Paine, to prove him to have been a far greater man
    than his most ardent admirers have hitherto given him credit for being."
-
-    

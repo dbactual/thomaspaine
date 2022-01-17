@@ -1,6 +1,6 @@
+---
 Title: Was Paine in favor of a redistribution of wealth?
-Slug: aboutpaine/was-paine-in-favor-of-a-redistribution-of-wealth
-Date: Mon Aug  4 09:08:56 EDT 2014
+---
 
    Not only was he in favor of it, but the concept in modern times originates
    with him. Even in his early writings he makes reference to it, but in

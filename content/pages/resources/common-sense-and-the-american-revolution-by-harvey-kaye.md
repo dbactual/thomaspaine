@@ -1,6 +1,6 @@
+---
 Title: 'Common Sense' and the American Revolution by Harvey Kaye
-Slug: aboutpaine/common-sense-and-the-american-revolution-by-harvey-kaye
-Date: Mon Aug  4 09:08:51 EDT 2014
+---
 
    by Harvey Kaye
 
@@ -329,7 +329,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    had been befriended by one of Congress's more radical members, the young
    Philadelphia doctor, Benjamin Rush. When Paine told him of his writing
    plans, Rush counseled moderation, fearing the time was not yet right.
-   However, Paine would not be deterred.  He was absolutely convinced that 
+   However, Paine would not be deterred.  He was absolutely convinced that
    although Americans did not speak openly of it they yearned for
    independence. Whatever his reservations, Rush welcomed Paine's commitment
    and, in turn, Paine regularly sought his new friend's editorial advise.
@@ -507,7 +507,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    would encourage not only eighteenth-century workingmen to refashion the
    nation, but also later generations of American men and women who have
    found themselves oppressed and marginalized.
-   
+
    Contrary to the ambitions of our own powers that be: The stuggle for
    liberty, equality and democracy has not ended. I just hope we will
    continue to honor Paine, not only in our histories, but also in our

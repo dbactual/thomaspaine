@@ -1,79 +1,79 @@
+---
 Title: Life of Thomas Paine, Vol. II by Moncure Conway
-Slug: aboutpaine/life-of-thomas-paine-vol-ii-by-moncure-conway
-Date: Mon Aug  4 09:08:52 EDT 2014
+---
 
                                       THE
 
                               LIFE OF THOMAS PAINE
 
-                   WITH A HISTORY OF HIS LITERARY, POLITICAL 
-                        AND RELIGIOUS CAREER IN AMERICA 
+                   WITH A HISTORY OF HIS LITERARY, POLITICAL
+                        AND RELIGIOUS CAREER IN AMERICA
                               FRANCE, AND ENGLAND
 
                                        BY
 
                              MONCURE DANIEL CONWAY
 
-               AUTHOR OF "OMITTED CHAPTERS OF HISTORY DISCLOSED 
-                  IN THE LIFE AND PAPERS OF EDMUND RANDOLPH," 
-                     "GEORGE WASHINGTON AND MOUNT VERNON," 
+               AUTHOR OF "OMITTED CHAPTERS OF HISTORY DISCLOSED
+                  IN THE LIFE AND PAPERS OF EDMUND RANDOLPH,"
+                     "GEORGE WASHINGTON AND MOUNT VERNON,"
                      "WASHINGTON'S RULES OF CIVILITY," ECT.
 
-                                                                            
+
     TO WHICH IS ADDED AS NOTES
 
-   THE "LAST GLEANINGS, 
-   HISTORICAL AND BIOGRAPHICAL" 
-   FROM THE AUTHOR'S INTRODUCTIONS 
-   OF VOLUME III (1895) & IV (1896) 
+   THE "LAST GLEANINGS,
+   HISTORICAL AND BIOGRAPHICAL"
+   FROM THE AUTHOR'S INTRODUCTIONS
+   OF VOLUME III (1895) & IV (1896)
    OF
 
-   "THE WRITINGS OF THOMAS PAINE" 
+   "THE WRITINGS OF THOMAS PAINE"
 
-                                        
 
-                                  VOLUME  II. 
-                                        
+
+                                  VOLUME  II.
+
 
                               G. P. PUTNAM'S SONS
 
-           NEW YORK                                          LONDON 
+           NEW YORK                                          LONDON
            27 WEST TWENTY-THIRD STREET      24 BEDFORD STREET, STRAND
 
-                           The Knicherbocker  Press 
-                                     1893 
-                                          
-                                        
+                           The Knicherbocker  Press
+                                     1893
 
-                                COPYRIGHT, 1892 
-                                      BY 
-                             MONCURE DANIEL CONWAY 
-                                        
 
-                      Entered at Stationers' Hall, London 
-                            BY G. P. PUTNAM'S SONS 
-                                        
 
-                      Electrotyped, Printed and Bound by 
-                       The Knickerbocker Press, New York 
+                                COPYRIGHT, 1892
+                                      BY
+                             MONCURE DANIEL CONWAY
+
+
+                      Entered at Stationers' Hall, London
+                            BY G. P. PUTNAM'S SONS
+
+
+                      Electrotyped, Printed and Bound by
+                       The Knickerbocker Press, New York
                               G. P. PUTNAM'S SONS
 
-    
+
 
                            THE LIFE OF THOMAS PAINE.
 
                        Footnotes at the end of the Volume
-                                        
+
 
                                   CHAPTER  I.
 
-                       "KILL THE KING, BUT NOT THE MAN." 
+                       "KILL THE KING, BUT NOT THE MAN."
                                      [1793]
 
    DUMAS' hero, Dr. Gilbert (in "Ange Pitou"), an idealization of Paine,
    interprets his hopes and horrors on the opening of the fateful year 1793.
    Dr. Gilbert's pamphlets had helped to found liberty in the New World, but
-   sees that it may prove the germ of total ruin to the Old World. 
+   sees that it may prove the germ of total ruin to the Old World.
 
    "A new world," repeated Gilbert; "that is to say, a vast open space, a
    clear table to work upon, -- no laws, but no abuses; no ideas, but no
@@ -141,7 +141,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    could be read, and it was printed. He argued that the Assembly, in
    bringing back Louis when he had abdicated and fled, was the more guilty;
    and against his transgressions it should be remembered that by his aid the
-   shackles of America were broken. 
+   shackles of America were broken.
 
    "Let then those United States be the guard and the asylum of Louis Capet2.
    There, in the future, remote from the miseries and crimes of royalty, he
@@ -169,7 +169,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    might make them presently plausible pretenders to the throne, around whom
    their foreign enemies would rally: while the man recognized by foreign
    powers as the rightful monarch of France was living there could be no such
-   pretender. 
+   pretender.
 
    "It has already been proposed to abolish the penalty of death, and it is
    with infinite satisfaction that I recollect the humane and excellent
@@ -245,7 +245,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    for a time. The anger of the Jacobins was extreme, says, Guizot, and "they
    refused to listen to the speech of Paine, the American, till respect for
    his courage gained him a hearing:"5 Demands for freedom of speech
-   gradually subdued the interruptions, and the secretary proceeded: 
+   gradually subdued the interruptions, and the secretary proceeded:
 
    "Very sincerely do I regret the Convention's vote of yesterday for death.
    I have the advantage of some experience; it is near twenty years that I
@@ -304,7 +304,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    These words, audacious as mendacious, caused a tremendous uproar. Garran
    came to the rescue of the frightened clerk, declaring that he had read the
    original, and the translation was correct. Paine stood silent and calm
-   during the storm. The clerk proceeded: 
+   during the storm. The clerk proceeded:
 
    "Your Executive Committee will nominate an ambassador to Philadelphia; my
    sincere wish is that he may announce to America that the National
@@ -452,13 +452,13 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    only on the grounds stated by Paine, -- impolicy of slaying their hostage,
    creating pretenders, alienating America; and the honor of exhibiting to
    the world, by a salient example, the Republic's magnanimity in contrast
-   with the cruelty of Kings. 
+   with the cruelty of Kings.
 
-    
+
 
                                   CHAPTER  II
 
-                        AN OUTLAWED ENGLISH AMBASSADOR 
+                        AN OUTLAWED ENGLISH AMBASSADOR
                                      [1793]
 
    SOON after Paine had taken his seat in the Convention, Lord Fortescue
@@ -528,7 +528,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    note: "This anecdote was communicated to me at Florence by Mr. Evans, a
    painter of merit, who studied under Lawrence, and who knew personally
    (Zachariah) Wilkes and Watt. In religion and politics he differed widely
-   from Paine." 
+   from Paine."
 
    "Sir;" said he, "let me tell you what he did for me. My name is Zachariah
    Wilkes. I was arrested in Paris and condemned to die. I had no friend
@@ -593,7 +593,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    another, and drank to our next meeting14."
 
    Another instance may be related in Paine's own words, written (March 20,
-   1806) to a gentleman in New York. 
+   1806) to a gentleman in New York.
 
    "SIR,
 
@@ -716,7 +716,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    As Thomas Poole well represents the serious and cultured thought of young
    England in that time, it is interesting to read his judgment on the king's
-   execution and the imminent war. 
+   execution and the imminent war.
 
    "Many thousands of human beings will be sacrificed in the ensuing contest,
    and for what? To support three or four individuals, called arbitrary
@@ -763,11 +763,11 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    roots, and the obedience of the people to such "despotism" no longer "a
    question of moral obligation and duty, but of prudence."16
 
-   From his safe retreat in Paris bookseller Rickman wrote his impromptu: 
+   From his safe retreat in Paris bookseller Rickman wrote his impromptu:
 
-   "Hail Briton's land! Hail freedom's shore! 
-        Far happier than of old; 
-    For in thy blessed realms no more 
+   "Hail Briton's land! Hail freedom's shore!
+        Far happier than of old;
+    For in thy blessed realms no more
         The Rights of Man are sold!
 
    The famous town-crier of Bolton, who reported to his masters that he had
@@ -810,11 +810,11 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    humanitarian beside George and his Ministers the Reign of error, and all
    the massacres of the French Revolution put together, were child's-play
    compared with the anguish and horrors spread through Europe by a war whose
-   pretext was an execution England might have prevented. 
+   pretext was an execution England might have prevented.
 
                                   CHAPTER  III
 
-                          REVOLUTION VS. CONSTITUTION 
+                          REVOLUTION VS. CONSTITUTION
                                      [1793]
 
    THE French revolutionists have long borne responsibility for the first
@@ -885,7 +885,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    French writers, as treacherous. But no sufficient reason is given for
    doubting Pitt's good faith in that matter. Writing to the President
    (Washington), December 28, 1792, the American Minister, Gouverneur Morris,
-   states the British proposal to be: 
+   states the British proposal to be:
 
    "France shall deliver the royal family to such branch of the Bourbons as
    the King may choose, and shall recall her troops from the countries they
@@ -1153,7 +1153,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    apparently, a party to this move, though he had enjoined no secrecy in
    telling his friend Brissot of the incident, which occurred before Marat
    was accused. On April 16th there appeared in Brissot's journal Le Patriote
-   Franc,ais, the following paragraph: 
+   Franc,ais, the following paragraph:
 
    "A sad incident has occurred to apprise the anarchists of the mournful
    fruits of their frightful teaching. An Englishman, whose name I reserve,
@@ -1173,7 +1173,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    from the original, in the hands of Thomas Paine. Paine deposed that he had
    been unacquainted with Marat before the Convention assembled; that he had
    not supposed Johnson's note to have any connection with the accusations
-   against Marat. 
+   against Marat.
 
    President. -- Did you give a copy of the note to Brissot?
 
@@ -1211,7 +1211,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Mountaineers found themselves masters of the field, voted to entertain the
    petition of the Parisian sections against the Girondins. Paine saw the
    star of the Republic sinking. On "April 20th, 2d year of the Republic," he
-   wrote as follows to Jefferson: 
+   wrote as follows to Jefferson:
 
    "My dear Friend,
 
@@ -1269,7 +1269,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    letter. Please to present to him my affection and compliments, and
    remember me among the circle of my friends.
 
-   Your sincere and affectionate friend, 
+   Your sincere and affectionate friend,
 
            "THOMAS  PAINE.
 
@@ -1423,8 +1423,8 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    "I have written a letter to Marat of the same date as this but not on the
    same subject. He may show it to you if he chuse.
 
-   "Votre Ami, 
-    
+   "Votre Ami,
+
 
            "THOMAS  PAINS.
 
@@ -1522,17 +1522,17 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    will then dissolve, and the happy Republic remember it only as a
    nightmare. So Paine takes heart again, abandons the bowl of forgetfulness,
    and becomes a republican Socrates instructing disciples in an old French
-   garden. 
-     
+   garden.
+
 
                                   CHAPTER  IV
 
-                      A GARDEN IN THE FAUBOURG ST. DENIS 
+                      A GARDEN IN THE FAUBOURG ST. DENIS
                                      [1793]
 
    SIR  GEORGE  TREVELYAN has written a pregnant passage, reminding the world
    of the moral burden which radicals in England had to bear a hundred years
-   ago. 
+   ago.
 
    "When to speak or write one's mind on politics is to obtain the
    reputation, and render one's self liable to the punishment of a criminal,
@@ -1651,7 +1651,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    continually exposed to be examined, and tortured into any meaning that the
    rage of party might fix upon it. And as to softer subjects, my heart was
    in distress at the fate of my friends, and my harp hung upon the weeping
-   willows. 
+   willows.
 
    "As it was summer, we spent most of our time in the garden, and passed it
    away in those childish amusements that serve to keep reflection from the
@@ -1681,7 +1681,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    course, always welcomed by Paine, and poor Rickman was his guest during
    this summer of 179335. The following reminiscence of Paine, at a time when
    Gouverneur Morris was (for reasons that presently appear) reporting him to
-   his American friends as generally drunk, was written by Rickman: 
+   his American friends as generally drunk, was written by Rickman:
 
    "He usually rose about seven. After breakfast he usually strayed an hour
    or two in the garden, where he one morning pointed out the kind of spider
@@ -1766,7 +1766,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Payne. Copie," in the French State Archives36. Its reference to the defeat
    of the Duke of York at Dunkirk assigns its date to the late summer. It is
    headed, "Observations on the situation of the Powers joined against
-   France." 
+   France."
 
    "It is always useful to know the position and the designs of one's
    enemies. It is much easier to do so by combining and comparing the events,
@@ -1860,13 +1860,13 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    overthrow the Ministry. And all the three because they hate the Duke of
    York. Such is the state of the different parties in England.
 
-   "Signed: 
+   "Signed:
 
            THOMAS  PAINE."
 
    In the same volume of the State Archives (Paris) is the following note by
-   Paine, with its translation: 
-    
+   Paine, with its translation:
+
 
    "You mentioned to me that saltpetre was becoming scarce. I communicate to
    you a project of the late Captain Paul Jones, which, if successfully put
@@ -1894,7 +1894,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    the government, on receiving that paper (Document 39 also), desired Paine
    to write it out as an address to the "Citizens of Europe." It does not
    appear to have been published. The first four paragraphs of this paper,
-   combined with the "Observations," will suffice to show its character. 
+   combined with the "Observations," will suffice to show its character.
 
    "Understanding that a proposal is intended to be made at the ensuing
    meeting of the Congress of the United States of America, to send
@@ -1946,7 +1946,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    for Paine himself, he was not only consulted on public questions, but
    trusted in practical affairs. He was still able to help Americans and
    Englishmen who invoked his aid. Writing to Lady Smith concerning two
-   applications of that kind, he says: 
+   applications of that kind, he says:
 
    "I went into my chamber to write and sign a certificate for them, which I
    intended to take to the guard house to obtain their release. Just as I had
@@ -1969,12 +1969,12 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    into Paine's little garden in the Faubourg St. Denis. He and his guests
    knew it not, however, until all their hopes fell with the leaves and
    blossoms amid which they had passed a summer to which Paine, from his
-   prison, looked back with fond recollection. 
-    
+   prison, looked back with fond recollection.
+
 
                                    CHAPTER  V
 
-                                 A CONSPIRACY 
+                                 A CONSPIRACY
                                      [1793]
 
    "HE suffered under Pontius Pilate." Pilate's gallant struggle to save
@@ -2051,7 +2051,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    even after imprisonment, kept him unharmed for months? There is a notable
    sentence in Paine's letter (from prison) to Monroe, elsewhere considered,
    showing that while there he had connected his trouble rather with the
-   Committee of Public Safety than with Robespierre. 
+   Committee of Public Safety than with Robespierre.
 
    "However discordant the late American Minister Gouvernoeur Morris, and the
    late French Committee of Public Safety, were, it suited the purposes of
@@ -2131,7 +2131,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    asked him "if he did not feel ashamed to take the money of the country and
    do nothing for it." It was, of course, a part of Morris' scheme for ending
    the treaty to point out its violation and the hardships wrote to the
-   French Minister a statement of the complaint. 
+   French Minister a statement of the complaint.
 
    "I do not [he adds] pretend to interfere in the internal concerns of the
    French Republic, and I am persuaded that the Convention has had weighty
@@ -2166,7 +2166,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    The "contemptible ambition" thus veiled from Paine's friend, Jefferson,
    was revealed by Morris to others. Some time before (June 25th), he had
-   written to Robert Morris: 
+   written to Robert Morris:
 
    "I suspected that Paine was intriguing against me, although he put on a
    face of attachment. Since that period I am confirmed in the idea, for he
@@ -2200,7 +2200,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    intercourse with the Minister. The following letter of Paine to Barrere,
    chief Committeeman of Public Safety, dated September 5th, shows him
    protecting Morris while he is trying to do something for the American
-   captains. 
+   captains.
 
    "I send you the papers you asked me for.
 
@@ -2253,8 +2253,8 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    subject, and not to Morris, against whom they have grave reasons of
    complaint.
 
-   Your friend, etc. 
-    
+   Your friend, etc.
+
 
           "THOMAS  PAINE."40
 
@@ -2340,7 +2340,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    The interview with Deforgues was not reported by Morris to the Secretary
    of State (Paine's friend, Jefferson), but in a confidential letter to
-   Washington, -- so far as was prudent. 
+   Washington, -- so far as was prudent.
 
    "I have insinuated [he writes] the advantages which might result from an
    early declaration on the part of the new minister that, as France has
@@ -2392,7 +2392,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    gratitude for the tyrant of France."
 
    On October 19th the Minister of Foreign Affairs, Deforgues, writes to
-   Morris: 
+   Morris:
 
    "I shall give the Council an account of the punishable conduct of their
    agent in the United States [Genet], and I can assure you beforehand that
@@ -2425,7 +2425,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Deputies.
 
    Such was the course pursued. Christmas day was celebrated by the terrorist
-   Bourdon de l'Oise with a denunciation of Paine: 
+   Bourdon de l'Oise with a denunciation of Paine:
 
    "They have boasted the patriotism of Thomas Paine. Eh bien! Since the
    Brissotins disappeared from the bosom of this Convention he has not set
@@ -2448,13 +2448,13 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    General Surety assumed the right to regard Paine as an Englishman; and as
    such out of the Convention, and consequently under the law of June against
    aliens of hostile nations. He was arrested next day, and on December 28th
-   committed to the Luxembourg prison. 
-     
-    
+   committed to the Luxembourg prison.
+
+
 
                                   CHAPTER  VI
 
-                       A TESTIMONY UNDER THE GUILLOTINE 
+                       A TESTIMONY UNDER THE GUILLOTINE
                                   [1793-1794]
 
    WHILE Paine was in prison the English gentry were gladdened by a rumor
@@ -2469,7 +2469,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    red with their blood.
 
    The last letter I find written from the old Pompadour mansion is to
-   Jefferson, under date of October 20th: 
+   Jefferson, under date of October 20th:
 
    "DEAR  SIR,
 
@@ -2499,7 +2499,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Peace, without the difficulties attending the adjustment of all the forms
    of Peace.
 
-   "Yours affectionately 
+   "Yours affectionately
 
           "THOMAS  PAINE."46
    Thus has finally faded the dream of Paine's life -- an international
@@ -2514,7 +2514,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    Johnson will be remembered as the young man who attempted suicide on
    hearing of Marat's menaces against Paine. Writing to Lady Smith of these
-   two friends, he says: 
+   two friends, he says:
 
    "He [Johnson recovered, and being anxious to get out of France, a passport
    was obtained for him and Mr. Choppin; they received it late in the
@@ -2545,7 +2545,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    where in the past summer gathered the Round Table of great-hearted
    gentlemen and ladies,
 
-   Thomas Paine sits through the watches of the night at his devout task47. 
+   Thomas Paine sits through the watches of the night at his devout task47.
 
    " `My friends were falling as fast as the guillotine could cut their heads
    off, and as I expected, every day, the same fate, I resolved to begin my
@@ -2563,7 +2563,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    long, to find it hovering over the new birth of humanity? It may have been
    on that day that, amid the shades of his slain friends, he wrote, as with
    blood about to be shed, the tribute to one that was pierced in trying to
-   benefit mankind. 
+   benefit mankind.
 
    "Nothing that is here said can apply, even with the most distant
    disrespect, to the real character of Jesus Christ. He was a virtuous and
@@ -2622,7 +2622,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    mansion, Paine reaches the last page of the "Age of Reason." They who have
    supposed him an atheist, may search as far as Job, who said "Though He
    slay me I will trust in Him," before finding an author who, caught in the
-   cruel machinery of destructive nature, could write that last page. 
+   cruel machinery of destructive nature, could write that last page.
 
    "The creation we behold is the real and ever existing word of God, in
    which we cannot be deceived. It proclaimeth his power, it demonstrates his
@@ -2647,7 +2647,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    that the good God has prolonged his freedom long enough to finish a
    defence of true religion from its degradation by superstition or
    destruction by atheism, -- these, as he declares, being the two purposes
-   of his work. It was providently if not providentially timed. 
+   of his work. It was providently if not providentially timed.
 
    "I had not finished it more than six hours, in the state it has since
    appeared, before a guard came, about three in the morning, with an order,
@@ -2656,14 +2656,14 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    of the Luxembourg."
 
    The following documents are translated for this work from the originals in
-   the National Archives of France. 
+   the National Archives of France.
 
    "NATIONAL  CONVENTION.
 
    "Committee of General Surety and Surveillance of the National Convention.
 
    "On the 7th Nivose (December 27th) of the 2d year of the French Republic,
-   one and indivisible. 
+   one and indivisible.
 
    "TO THE DEPUTIES:
 
@@ -2680,17 +2680,17 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    "The representatives of the nation, members of the Committee of General
    Surety.
 
-   "Signed: 
+   "Signed:
 
-          "M. Bayle, 
-          "Voulland, 
-          "Jagot, 
-          "Amar, 
-          "Vadier, 
-          "Elie Lacoste, 
-          "Guffroy, 
-          "Louis (du bas Rhin) La Vicomterie, 
-          "Panis." 
+          "M. Bayle,
+          "Voulland,
+          "Jagot,
+          "Amar,
+          "Vadier,
+          "Elie Lacoste,
+          "Guffroy,
+          "Louis (du bas Rhin) La Vicomterie,
+          "Panis."
 
    "This day, the 8th Nivose of the 2d year of the French Republic, one and
    indivisible, to execute and fulfil the order given us, we have gone to the
@@ -2716,15 +2716,15 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Britain Hotel, Rue Jacob, Unity Section; the present minutes closed, after
    being read before the undersigned.
 
-   "(Signed) 
+   "(Signed)
 
-          "THOMAS  PAINE. 
-          "J. B. MARTIN. 
-          "DORLE, Commissary. 
-          "GILLET, Commissary. 
-          "F. DELLANAY. 
-          "ACHILLE  AUDIBERT, Witness49. 
-          "LAMY." 
+          "THOMAS  PAINE.
+          "J. B. MARTIN.
+          "DORLE, Commissary.
+          "GILLET, Commissary.
+          "F. DELLANAY.
+          "ACHILLE  AUDIBERT, Witness49.
+          "LAMY."
 
    "And as it was about seven or eight o'clock in the morning of this day 8th
    Nivose, being worn out with fatigue, and forced to take some food, we
@@ -2768,26 +2768,26 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    closed at 4 p.m. in the day and year abovenamed; and we have all signed
    after having read the minutes.
 
-   "(Signed) 
+   "(Signed)
 
-          "THOMAS  PAINE. 
-          "JOEL  BARLOW. 
-          "DORLE, Commissary. 
-          "GILLET, Commissary. 
-          "DESSOUS. 
-          "J. B. MARTIN. 
-          "LAMY. 
+          "THOMAS  PAINE.
+          "JOEL  BARLOW.
+          "DORLE, Commissary.
+          "GILLET, Commissary.
+          "DESSOUS.
+          "J. B. MARTIN.
+          "LAMY.
 
    "And after having signed we have requested, according to the order of the
    Committee of General Surety of the National Convention, Citizen Thomas
    Paine to follow us, to be led to jail; to which he complied without any
-   difficulty, and he has signed with us 
+   difficulty, and he has signed with us
 
-          "THOMAS  PAINE. 
-          "J. B. MARTIN. 
-          "DROLE, Commissary. 
-          "LAMY. 
-          "GILLETT, Commissary." 
+          "THOMAS  PAINE.
+          "J. B. MARTIN.
+          "DROLE, Commissary.
+          "LAMY.
+          "GILLETT, Commissary."
 
    "I have received from the Citizens Martin and Lamy, Deputy-Secretaries to
    the Committee of General Surety of the National Convention, the Citizens
@@ -2797,9 +2797,9 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    "At the Luxembourg, this day 8th Nivose, and year of the French Republic,
    One and Indivisible.
 
-   "Signed: 
+   "Signed:
 
-          "BENOIT, Concierge." 
+          "BENOIT, Concierge."
 
    "FOREIGN OFFICE:
 
@@ -2807,11 +2807,11 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Surety and Public Safety the 8th Pluviose [January 27th] this 2d year of
    the French Republic, One and indivisible.
 
-   "Signed: 
+   "Signed:
 
-          BASSOL, Secretary." 
+          BASSOL, Secretary."
 
-   "CITIZENS LEGISLATORS: 
+   "CITIZENS LEGISLATORS:
 
    "The French nation has, by a universal decree, invited to France one of
    our countrymen, most worthy of honor, namely, Thomas Paine, one of the
@@ -2858,30 +2858,30 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    warrant and security for his conduct in France during the short stay he
    may make in this land.
 
-   "Signed 
+   "Signed
 
-          "JACKSON, of Philadelphia. 
-          "RUSSELL, of Boston. 
-          "PETER  WHITESIDE, of Philadelphia. 
-          "HENRY  JOHNSON, of Boston. 
-          "THOMAS  CARTER, of Newbury Port. 
+          "JACKSON, of Philadelphia.
+          "RUSSELL, of Boston.
+          "PETER  WHITESIDE, of Philadelphia.
+          "HENRY  JOHNSON, of Boston.
+          "THOMAS  CARTER, of Newbury Port.
           "JAMES  COOPER of Philadelphia.
 
-          "JOHN  WILLERT  BILLOPP, of New York. 
-          "THOMAS  WATERS  GRIFFITH, of Baltimore. 
-          "TH. RAMSDEN, of Boston. 
-          "SAMUEL  P. BROOMS, of New York. 
-          "A. MEADENWORTH, of Connecticut. 
-          "JOEL  BARLOW, of Connecticut. 
-          "MICHAEL  ALCORN, of Philadelphia. 
-          "M. ONEALY, of Baltimore. 
-          "JOHN  MCPHERSON, of Alexandria [Va.]. 
-          "WILLIAM  HASKINS, of Boston. 
-          "J. GREGORY, of Petersburg, Virginia. 
+          "JOHN  WILLERT  BILLOPP, of New York.
+          "THOMAS  WATERS  GRIFFITH, of Baltimore.
+          "TH. RAMSDEN, of Boston.
+          "SAMUEL  P. BROOMS, of New York.
+          "A. MEADENWORTH, of Connecticut.
+          "JOEL  BARLOW, of Connecticut.
+          "MICHAEL  ALCORN, of Philadelphia.
+          "M. ONEALY, of Baltimore.
+          "JOHN  MCPHERSON, of Alexandria [Va.].
+          "WILLIAM  HASKINS, of Boston.
+          "J. GREGORY, of Petersburg, Virginia.
           "JAMES  INGRAHAM, of Boston."50
 
    The following answer to the petitioning Americans was given by Vadier,
-   then president of the Convention. 
+   then president of the Convention.
 
    "CITIZENS:
 
@@ -2925,12 +2925,12 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    On leaving his house for prison, Paine entrusted to Joel Barlow the
    manuscript of the "Age of Reason," to be conveyed to the printer. This was
-   with the knowledge of the guard, whose kindness is mentioned by Paine. 
-     
+   with the knowledge of the guard, whose kindness is mentioned by Paine.
+
 
                                   CHAPTER  VII
 
-                          A MINISTER AND HIS PRISONER 
+                          A MINISTER AND HIS PRISONER
                                      [1794]
 
    BEFORE resuming the history of the conspiracy against Paine it is
@@ -2952,7 +2952,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Was it "that crowned automaton called Louis XVI." who helped to rescue
    them from the oppressor's yoke, or our arm and armies? Was it his money
    sent over or the taxes of French labor? He declares that the Republic has
-   been treacherously compromised in America. 
+   been treacherously compromised in America.
 
    "By a strange fatality the Republic finds itself still represented among
    their allies by agents of the traitors she has punished: Brissot's
@@ -3041,7 +3041,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Gouverneur Morris in this affair. His first ministerial mention of the
    matter to Secretary Jefferson is dated on the tragical anniversary,
    January 21st. "Lest I should forget it," he says of this small incident,
-   the imprisonment of one whom Congress and the President had honored: 
+   the imprisonment of one whom Congress and the President had honored:
 
    "Lest I should forget it, I must mention that Thomas Paine is in prison,
    where he amuses himself with publishing a pamphlet against Jesus Christ. I
@@ -3081,7 +3081,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    government -- that is, to Morris.
 
    The American Minister's version of what had occurred is given in a letter
-   to Secretary Jefferson, dated March 6th: 
+   to Secretary Jefferson, dated March 6th:
 
    "I have mentioned Mr. Paine's confinement. Major Jackson -- who, by the
    by, has not given me a letter from you which he says was merely
@@ -3112,7 +3112,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    common sense, and lately the intemperate use of ardent spirits has, I am
    told, considerably impaired the small stock he originally possessed."
 
-   In this letter the following incidental points suggest comment: 
+   In this letter the following incidental points suggest comment:
 
    1. "Several other Americans." The petitioners for Paine's release were
    eighteen in number, and seem to have comprised all the Americans then left
@@ -3182,7 +3182,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    which are unknown to me, be so good as to inform me of them, so that I may
    communicate them to the Government of the United States.
 
-   I have the honour to be, Sir, Your very humble servant, 
+   I have the honour to be, Sir, Your very humble servant,
 
           "Gouv. MORRIS."52
 
@@ -3203,7 +3203,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    "I am ignorant of the motives of his detention, but I must presume they
    are well founded. I shall nevertheless submit the demand you have
    addressed me to the Committee of Public Safety, and I shall lose no time
-   in letting you know its decision. 
+   in letting you know its decision.
 
           "DEFORGUES."
 
@@ -3296,7 +3296,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    President had declared his services to it pre-eminent!
 
    Never dreaming that his situation was the work of Morris, Paine (February
-   24th) appealed to him for help. 
+   24th) appealed to him for help.
 
    "I received your letter enclosing a copy of a letter from the Minister of
    foreign affairs. You must not leave me in the situation in which this
@@ -3365,11 +3365,11 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    escape, among whom Robespierre may or may not have been included. The
    probabilities, to my mind, are against that theory. Robespierre having
    ceased to attend the Committee of Public Safety when the order issued for
-   Paine's death. 
+   Paine's death.
 
                                  CHAPTER  VIII
 
-                              SICK AND IN PRISON 
+                              SICK AND IN PRISON
                                      [1794]
 
    IT was a strange world into which misfortune had introduced Paine. There
@@ -3409,7 +3409,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    The first part of "The Age of Reason" was sent out with final revision at
    the close of January.
 
-   In the second edition appeared the following inscription: 
+   In the second edition appeared the following inscription:
 
    "TO MY FELLOW CITIZENS OF THE UNITED STATES OF AMERICA.
 
@@ -3422,15 +3422,15 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    against errors of every kind is Reason. I have never used any other, and I
    trust I never shall.
 
-   Your affectionate friend and fellow citizen, 
+   Your affectionate friend and fellow citizen,
 
           "THOMAS  PAINE."
 
    This dedication is dated, "Luxembourg (Paris), 8th Pluviose, Second year
-   of the French Republic, one and indivisible. January 27, 0. S. 1794.)  
+   of the French Republic, one and indivisible. January 27, 0. S. 1794.)
    Paine now addressed himself to the second part of "The Age of
    Reason," concerning which the following anecdote is told in the manuscript
-   memoranda of Thomas Rickman: 
+   memoranda of Thomas Rickman:
 
    "Paine, while in the Luxembourg prison and expecting to die hourly, read
    to Mr. Bond (surgeon of Brighton, from whom this anecdote came) parts of
@@ -3445,7 +3445,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    In after years, when Paine was undergoing persecution for "infidelity," he
    reminded the zealots that they would have to "accuse Providence of
    infidelity," for having "protected him in all his dangers." Incidentally
-   he gives reminiscences of his imprisonment. 
+   he gives reminiscences of his imprisonment.
 
    "I was one of the nine members that composed the first Committee of
    Constitution. Six of them have been destroyed. Sieyes and myself have
@@ -3488,7 +3488,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    destroying angel passed by it."
 
    Paine did not hear of this chalk mark until afterwards. In his letter to
-   Washington he says: 
+   Washington he says:
 
    "I had been imprisoned seven months, and the silence of the executive part
    of the government of America (Mr. Washington) upon the case, and upon
@@ -3568,7 +3568,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    the Air." These letters have never seen the light, but the sweetness of
    this sympathy did, for many an hour, bring into Paine's oubliette the
    oblivion of grief described in the letter on "Forgetfulness," sent to the
-   lady after his liberation. 
+   lady after his liberation.
 
    "Memory, like a beauty that is always present to hear herself flattered,
    is flattered by every one. But the absent and silent goddess,
@@ -3583,7 +3583,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Paine was not forgotten by his old friends in France. So soon as the
    excitement attending Robespierre's execution had calmed a little,
    Lanthenas (August 7th) sent Merlin de Thionville a copy of the "Age of
-   Reason," which he had translated, and made his appeal. 
+   Reason," which he had translated, and made his appeal.
 
    "I think it would be in the well-considered interest of the Republic,
    since the fall of the tyrants we have overthrown, to re-examine the
@@ -3602,13 +3602,13 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Committee."
 
    Merlin was now a leading member of the Committee. On the following day
-   Paine sent (in French) the following letters: 
+   Paine sent (in French) the following letters:
 
    "CITIZENS, REPRESENTATIVES, AND MEMBERS OF THE COMMITTEE OF PUBLIC SAFETY:
 
    "I address you a copy of a letter which I have to-day written to the
    Convention. The singular situation in which I find myself determines me to
-   address myself to the whole Convention, of which you are a part. 
+   address myself to the whole Convention, of which you are a part.
 
           "THOMAS  PAINE.
 
@@ -3684,7 +3684,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    "Citizens, I have now stated to you my situation, and I can have no doubt
    but your justice will restore me to the Liberty of which I have been
-   deprived. 
+   deprived.
 
           "THOMAS  PAINE.
 
@@ -3706,7 +3706,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    own crimes on Robespierre, and to conceal those of the Committee. Paine's
    old friend, Achille Audibert, unsuspicious as himself of the real facts,
    sent an appeal (August 20th) to "Citizen Thuriot, member of the Committee
-   of Public Safety." 
+   of Public Safety."
 
    "REPRESENTATIVE:
 
@@ -3737,7 +3737,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    to the esteem and veneration I feel for a man who did so much to save the
    country amidst the most tremendous crisis of our Revolution.
 
-   "Greeting, respect, and brotherhood, 
+   "Greeting, respect, and brotherhood,
 
           ACHILLE  AUDIBERT, of Calais.
 
@@ -3756,7 +3756,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Morris: "I am preparing for my departure, but as yet can take no step, as
    there is a kind of interregnum in the government and Mr. Monroe is not yet
    received, at which he grows somewhat impatient." There was no such
-   interregnum, and no such explanation was given to Monroe, who writes: 
+   interregnum, and no such explanation was given to Monroe, who writes:
 
    "I presented my credentials to the commissary of foreign affairs soon
    after my arrival [August 2d]; but more than a week had elapsed, and I had
@@ -3796,7 +3796,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    had not, as he said, attended to the case.
 
    When Paine recovered from his fever he heard that Monroe had superseded
-   Morris. 
+   Morris.
 
    "As soon as I was able to write a note legible enough to be read, I found
    a way to convey one to him [Monroe] by means of the man who lighted the
@@ -3829,7 +3829,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    London for the Convention, he consulted Minister Pinckney, who agreed with
    him that "it was for the interest of America that the system of European
    governments should be changed and placed on the same principle with her
-   own; and adds: 
+   own; and adds:
 
    "I have wished to see America the mother church of government, and I have
    done my utmost to exalt her character and her condition."
@@ -3840,7 +3840,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    one; that he was a citizen of France only in the honorary sense in which
    others in Europe and America were declared such; that no oath of
    allegiance was required or given. The following paragraphs are from
-   various parts of the Memorial. 
+   various parts of the Memorial.
 
    "They who propagate the report of my not being considered as a citizen of
    America by government, do it to the prolongation of my imprisonment, and
@@ -3938,7 +3938,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    worthy of the high-minded gentleman that he was. After ascribing the
    notion that Paine was not an American to mental confusion, and affirming
    his determination to maintain his rights as a citizen of the United
-   States, Monroe says: 
+   States, Monroe says:
 
    "It is unnecessary for me to tell you how much all your countrymen, I
    speak of the great mass of the people, are interested in your welfare.
@@ -3967,7 +3967,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    conduct in respect to each, as to the manner and the time, as will, in my
    judgment, be best calculated to accomplish the whole.
 
-   "With great esteem and respect consider me personally your friend, 
+   "With great esteem and respect consider me personally your friend,
 
           "JAMES  MONROE."
 
@@ -4000,7 +4000,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Safety probably determined Monroe to apply no more in that quarter; so he
    wrote (November 2d) to the Committee of General Surety. After stating the
    general principles and limitations of ministerial protection to an
-   imprisoned countryman, he adds: 
+   imprisoned countryman, he adds:
 
    "The citizens of the United States cannot look back upon the time of their
    own revolution without recollecting among the names of their most
@@ -4015,7 +4015,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    hasten the moment when the law shall decide his fate, in case of any
    accusation against him, and if none, to restore him to liberty.
 
-   "Greeting and fraternity 
+   "Greeting and fraternity
 
           "MONROE."
 
@@ -4023,8 +4023,8 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    prison door flew open. He had been kept there solely "pour les interets de
    l'Amerique" ["for the interests of America"], as embodied in Morris, and
    two days after Monroe undertook, without instructions, to affirm the real
-   interests of America in Paine he was liberated. 
-    
+   interests of America in Paine he was liberated.
+
 
    "Brumaire, 13th. Third year of the French Republic.
 
@@ -4034,14 +4034,14 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    "Members of the Committee:
 
-   "(signed): 
+   "(signed):
 
-          "Clauzel, 
-          "Lesage, 
-          "Senault, 
-          "Bentabole, 
-          "Reverchon, 
-          "Goupilleau de Fontenai, 
+          "Clauzel,
+          "Lesage,
+          "Senault,
+          "Bentabole,
+          "Reverchon,
+          "Goupilleau de Fontenai,
           "Rewbell.
 
    "Delivered to Clauzel, as Commissioner."
@@ -4060,7 +4060,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Committee of Public Safety, to which Monroe's letter was communicated the
    same day.
 
-   Writing to Secretary Randolph (November 7th) Monroe says: 
+   Writing to Secretary Randolph (November 7th) Monroe says:
 
    "He was actually a citizen of the United States, and of the United States
    only; for the Revolution which parted us from Great Britain broke the
@@ -4092,7 +4092,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    good spirits."
 
    In reply, the Secretary of State (Randolph) in a letter to Monroe of March
-   8, 1795, says: 
+   8, 1795, says:
 
    "Your observations on our commercial relations to France, and your conduct
    as to Mr. Gardoqui's letter, prove your judgment and assiduity. Nor are
@@ -4101,13 +4101,13 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    Thus, after an imprisonment of ten months and nine days, Thomas Paine was
    liberated from the prison into which he had been cast by a Minister of the
-   United States. 
+   United States.
 
-    
+
 
                                   CHAPTER  IX
 
-                                 A RESTORATION 
+                                 A RESTORATION
                                      [1795]
 
    AS in 1792 Paine had left England with the authorities at his heels, so in
@@ -4123,7 +4123,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Paine had the satisfaction of reading, at Monroe's fireside, his own last
    words on the scaffold64, and along with it an invitation of the Convention
    to return to its bosom. On December 7, 1794, Thibaudeau had spoken to that
-   assembly in the following terms: 
+   assembly in the following terms:
 
    "It yet remains for the Convention to perform an act of justice. I reclaim
    one of the most zealous defenders of liberty -- Thomas Paine. (Loud
@@ -4163,7 +4163,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    encouraged him to believe that he was still beloved there, and, as he got
    stronger, a great homesickness came upon him. The kindly host made an
    effort to satisfy him. On January 4th he (Monroe) wrote to the Committee
-   of Public Safety: 
+   of Public Safety:
 
    "CITIZENS:
 
@@ -4182,13 +4182,13 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    will leave for America immediately, via Bordeaux, on an American vessel
    which will be prepared for him. As he has reason to fear the persecution
    of the English government, should he be taken prisoner, he desires that
-   his departure may be kept a secret. 
+   his departure may be kept a secret.
 
           "JAS. MONROE."
 
    The Convention alone could give a passport to one of its members, and as
    an application to it would make Paine's mission known, the Committee
-   returned next day a negative answer. 
+   returned next day a negative answer.
 
    "CITIZEN:
 
@@ -4201,7 +4201,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Paine, we must observe to you that the position he holds will not permit
    him to accept it.
 
-   "Salutation and Friendship. 
+   "Salutation and Friendship.
 
           "CAMBACERES."66
 
@@ -4228,7 +4228,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    seen, with Genet's proceedings. The Kentuckians consulted Paine at a time
    when expulsion of the Spaniard was a patriotic American scheme. This is
    shown in a letter written by the Secretary of State (Randolph) to the
-   President, February 27, 1794. 
+   President, February 27, 1794.
 
    "Mr. Brown [Senator of Kentucky] has shown me a letter from the famous Dr.
    O'Fallon to Captain Herron, dated Oct. 18, 1793. It was intercepted, and
@@ -4321,7 +4321,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Early in July the Convention. is reading Paine's "Dissertation on First
    Principles of Government." His old arguments against hereditary right, or
    investing even an elective individual with extraordinary power, are
-   repeated with illustrations from the passing Revolution. 
+   repeated with illustrations from the passing Revolution.
 
    "Had a Constitution been established two years ago, as ought to have been
    done, the violences that have since desolated France and injured the
@@ -4387,7 +4387,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    the confusion of the mob with the people, which caused the reaction on
    which was floated the device he now challenged. It is an instance of
    idealism rare in political history. The speech opens with words that
-   caused emotion. 
+   caused emotion.
 
    "CITIZENS,
 
@@ -4420,8 +4420,8 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    indirect tax-payers with the Declaration of Rights, and the opportunity
    afforded partisan majorities to influence suffrage by legislation on the
    mode of collecting taxes. The soldier, enfranchised without other
-   qualification, would find his children slaves. 
-    
+   qualification, would find his children slaves.
+
 
    "If you subvert the basis of the Revolution, if you dispense with
    principles and substitute expedients, you will extinguish that enthusiasm
@@ -4458,11 +4458,11 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    ended (October 26, 1795), with the organization of the Directory. Being an
    American he would not accept candidature in a foreign government.
 
-    
+
 
                                    CHAPTER  X
 
-                           THE SILENCE OF WASHINGTON 
+                           THE SILENCE OF WASHINGTON
                                   [1795-1796]
 
    MONROE, in a letter of September 15th to his relative, judge Joseph Jones,
@@ -4582,7 +4582,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    neglect and silence, knowledge of it would soothe the author's dying
    pillow; and though there be little probability that he can hold out so
    long, a letter (September 20th) is sent to Washington, under cover to
-   Franklin Bache. 
+   Franklin Bache.
 
    "SIR,
 
@@ -4618,7 +4618,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    me fall into destruction in France that you might exclaim the louder
    against the French Revolution; or whether you hoped by my extinction to
    meet with less opposition in mounting up the American government; either
-   of these will involve you in reproach you will not easily shake off. 
+   of these will involve you in reproach you will not easily shake off.
 
           "THOMAS  PAINE."
 
@@ -4637,7 +4637,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    interest was expressed in two other American prisoners in France --
    Archibald Hunter and Shubael Allen, -- but no word was said of Paine.
    There was certainly a change in Washington towards Paine, and the
-   following may have been its causes. 
+   following may have been its causes.
 
    1. Paine had introduced Genet to Morris, and probably to public men in
    America. Genet had put an affront on Morris, and taken over a demand for
@@ -4698,7 +4698,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    longer visited by his old friends, Madison and others, and they could not
    discuss with him the intelligence they were receiving about Paine.
    Madison, in a letter to Jefferson (dated at Philadelphia, January 10,
-   1796), says: 
+   1796), says:
 
    "I have a letter from Thomas Paine which breathes the same sentiments, and
    contains some keen observations on the administration of the government
@@ -4829,11 +4829,11 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    overcoats, when Paine's had been. stolen. Such incidents imply many others
    never trade known; but they are represented in a terrible epigram found
    among Paine's papers, "Advice to the statuary who is to execute the statue
-   of Washington. 
+   of Washington.
 
-   "Take from the mine the coldest, hardest stone, 
-     It needs no fashion: it is Washington. 
-     But if you chisel, let the stroke be rude, 
+   "Take from the mine the coldest, hardest stone,
+     It needs no fashion: it is Washington.
+     But if you chisel, let the stroke be rude,
      And on his heart engrave -- Ingratitude."
 
    Paine never published the lines. Washington being dead, old memories may
@@ -4841,12 +4841,12 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    influences around the great man which had poisoned his mind towards other
    friends besides himself. For his pamphlet he had no apology to make. It
    was a thing inevitable, volcanic, and belongs to the history of a period
-   prolific in intrigues, of which both Washington; and Paine were victims. 
-    
+   prolific in intrigues, of which both Washington; and Paine were victims.
+
 
                                   CHAPTER  XI
 
-                             "THE AGE OF REASON." 
+                             "THE AGE OF REASON."
                                   [1794-1795]
 
    THE reception which the "Age of Reason" met is its sufficient
@@ -4860,16 +4860,16 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    evils of the world that there are no gods, is answered by Timocles, a
    theological professor with large salary. The gods feel doleful, as the
    argument goes against them, until their champion breaks out against
-   Damis, 
+   Damis,
 
-   "You blasphemous villain, you! 
+   "You blasphemous villain, you!
     Wretch! Accursed monster!"
 
-   The chief of the gods takes courage, and exclaims: 
+   The chief of the gods takes courage, and exclaims:
 
-   "Well done, Timocles! 
-    Give him hard words. 
-    That is your strong point. 
+   "Well done, Timocles!
+    Give him hard words.
+    That is your strong point.
     Begin to reason and you will be dumb as a fish."
 
    So was it in the age when the Twilight of the Gods was brought on by faith
@@ -4994,16 +4994,16 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    seem to a casual reader are such as Browning defended in his "Christmas
    Eve."
 
-     "If any blames me, 
-     Thinking that merely to touch is brevity 
-     The topics I dwell on, were unlawful 
-     Or, worse, that I trench, with undue levity, 
-     On the bounds of the Holy and the awful, 
-     I praise the heart, and pity the head of him, 
-     And refer myself to THEE, instead of him; 
-     Who head and heart alike discernest, 
-     Looking below light speech we utter, 
-     When the frothy spume and frequent sputter 
+     "If any blames me,
+     Thinking that merely to touch is brevity
+     The topics I dwell on, were unlawful
+     Or, worse, that I trench, with undue levity,
+     On the bounds of the Holy and the awful,
+     I praise the heart, and pity the head of him,
+     And refer myself to THEE, instead of him;
+     Who head and heart alike discernest,
+     Looking below light speech we utter,
+     When the frothy spume and frequent sputter
      Prove that the soul's depths boil in earnest!"
 
    Even Dr. James Martineau, whose reverential spirit no one can question,
@@ -5110,7 +5110,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    overthrow of spiritual authority; Rocquain, that the political regime was
    shaken before the. philosophers arose76. In England religious changes seem
    to have usually followed those of a political character, not only in order
-   of time, but in character. In beginning the "Age of Reason," Paine says: 
+   of time, but in character. In beginning the "Age of Reason," Paine says:
 
    "Soon after I had published the pamphlet `Common Sense' in America I saw
    the exceeding probability that a revolution in the system of government
@@ -5332,24 +5332,24 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    [Krishna], his Saviour! Even He has led him this grievous contention with
    kinsmen, and those to whose welfare he was devoted. Chrishna [Krishna]
    instructs his disciple that the war is an illusion; it is the conflict by
-   which, from age to age, the divine life in the world is preserved. 
+   which, from age to age, the divine life in the world is preserved.
 
-   "This imperishable devotion I declared to the sun, 
+   "This imperishable devotion I declared to the sun,
     The sun delivered it to Manu, Manu to Ikshaku [Ikshavaku];
 
-    Handed down from one to another it was studied by the royal sages. 
+    Handed down from one to another it was studied by the royal sages.
     In the lapse of time that devotion was lost.
 
-    It is even the same discipline which this day communicate to thee, 
+    It is even the same discipline which this day communicate to thee,
     For thou art my servant and my friend . . .
 
-    Both thou and I have passed through many births. 
+    Both thou and I have passed through many births.
     Mine are known to me; thou knowest not of throe.
 
-    I am made evident by my own power: 
+    I am made evident by my own power:
     As often as there is a decline of virtue,
 
-    And an insurrection of wrong and 
+    And an insurrection of wrong and
     Injustice in the world, I appear."
 
    Paine could not indeed know his former births and, indeed, each former
@@ -5365,7 +5365,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Thetford meeting-house, rolled the burden of that Light that enlighteneth
    every man, effacing distinctions of rank, race, sex, making all equal,
    clearing away privilege, whether of priest or mediator, subjecting all
-   scriptures to its immediate illumination. 
+   scriptures to its immediate illumination.
 
    This faith was a fearful heritage to carry, even in childhood, away from
    the Quaker environment which, by mixture with modifying "survivals," in
@@ -5375,7 +5375,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    his little lamp being still fed in the meeting-house. A child brought up
    without respect for the conventional symbols of religion, or even with
    pious antipathy to them, is as if born with only one spiritual skin; he
-   will bleed at a touch. 
+   will bleed at a touch.
 
    "I well remember, when about seven or eight years of age, hearing a sermon
    read by a relation of mine, who was a great devotee of the Church, upon
@@ -5429,7 +5429,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    The Quakers, deistical as they were, preserved religiously the
    "separatism" once compulsory; and Paine proved himself the truest Friend
    among them when he was "moved" by the Spirit of Humanity, for him at
-   length the Holy Spirit, to utter (1776) his brave cheer for Catholicity. 
+   length the Holy Spirit, to utter (1776) his brave cheer for Catholicity.
 
    "As to religion, I hold it to be the indispensable duty of all governments
    to protect all conscientious professors thereof, and I know of no other
@@ -5466,20 +5466,20 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    first Crisis he exhorts the Americans not to throw "the burden of the day
    upon Providence, but `show your faith by your works,' that God may bless
    you." For in those days there was visible to such eyes as his, as to
-   anti-slavery eyes in our civil war, 
+   anti-slavery eyes in our civil war,
 
    "A fiery Gospel writ in burnished rows of steel."
 
-   The Republic, not American but Human, became Paine's religion. 
+   The Republic, not American but Human, became Paine's religion.
 
-   "Divine Providence intends this country to be the asylum of 
+   "Divine Providence intends this country to be the asylum of
     Persecuted virtue from every quarter of the globe."
 
    So he had written before the Declaration of Independence. In 1778 he finds
    that there still survives some obstructive superstition among English
    churchmen in America about the connection of Protestant Christianity with
    the King. In his seventh Crisis(November 21, 1778) he wrote sentences
-   inspired by his new conception of religion. 
+   inspired by his new conception of religion.
 
    "In a Christian and philosophical sense, mankind seem to have stood still
    at individual civilization, and to retain as nations all the original
@@ -5529,7 +5529,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    obeyed in the eloquent pages on religious liberty and equality in "The
    Rights of Man." Burke had alarmed the nation by pointing out that the
    Revolution in France had laid its hand on religion. The cry was raised
-   that religion was in danger. Paine then uttered his impressive paradox: 
+   that religion was in danger. Paine then uttered his impressive paradox:
 
    "Toleration is not the opposite of intoleration, but the counterfeit of
    it. Both are despotisms. The one assumes the right of withholding liberty
@@ -5637,11 +5637,11 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    In those unsophisticated years Jesus and the disciples and the Marys still
    wore about them the reality gained in miracle-plays. What Paine need arise
    where poets wrote the creed, and men knew the Jesus of whom Thomas Dekker
-   wrote: 
+   wrote:
 
-     "The best of men 
-     That e'er wore earth about him was a sufferer; 
-     A soft, meek, patient, humble, tranquil spirit, 
+     "The best of men
+     That e'er wore earth about him was a sufferer;
+     A soft, meek, patient, humble, tranquil spirit,
      The first true gentleman that ever breathed."
 
    Dean Swift, whose youth was nourished in that living age, passed into the
@@ -5690,9 +5690,9 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    Soon after the appearance of Part First of the "Age of Reason" it was
    expurgated of its negative criticisms, probably by some English
-   Unitarians, and published as a sermon, with text from Job, xi, 7: 
+   Unitarians, and published as a sermon, with text from Job, xi, 7:
 
-   "Canst thou by searching find out God? 
+   "Canst thou by searching find out God?
     Canst thou find out the Almighty to perfection?"
 
    It was printed anonymously; and were its sixteen pages read in any
@@ -5874,11 +5874,11 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    same chain, binding reason or heart, Paine's "Age of Reason" will live. It
    is not a mere book -- it is a man's heart.
 
-    
+
 
                                   CHAPTER  XII
 
-                                  FRIENDSHIPS 
+                                  FRIENDSHIPS
                                   [1795-1796]
 
    BARON  PICHON, who had been a sinuous Secretary of Legation in America,
@@ -5911,7 +5911,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Governor of Massachusetts -- a Consul with whom Paine was not personally
    acquainted. The general feeling and situation in France at the date of
    this letter (March 6th), and the anger at Jay's secret negotiations in
-   England, are reflected in it: 
+   England, are reflected in it:
 
    "MY DEAR FRIEND,
 
@@ -5970,7 +5970,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    "Mr. Mozard is this moment come for this letter, and he sets off directly.
    God bless you, remember me among the circle of our friends, and tell them
-   how much I wish to be once more among them. 
+   how much I wish to be once more among them.
 
           "THOMAS  PAINE."88
 
@@ -5980,14 +5980,14 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    nearing his end. Once more the announcement of his death appeared in
    England, this time bringing joy to the orthodox. From the same quarter,
    probably, whence issued, in 1793, "Intercepted Correspondence from Satan
-   to Citizen Paine," came now (1795) a folio sheet: 
+   to Citizen Paine," came now (1795) a folio sheet:
 
-   "Glorious News for Old England. 
-    The British Lyon rous'd; or 
+   "Glorious News for Old England.
+    The British Lyon rous'd; or
     John Bull for ever.
 
-   "The Fox has lost his Tail 
-    The Ass has done his Braying, 
+   "The Fox has lost his Tail
+    The Ass has done his Braying,
     The Devil has got Tom Paine."
 
    Good-hearted as Paine was, it must be admitted that he was cruelly
@@ -6046,7 +6046,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    acrimonious repudiation added groans to Paine's sick and sinking heart,
    some of which were returned upon his Socinian assailant, and in kind. This
    private letter my reader must see, though it was meant for no eye but that
-   of Gilbert Wakefield. It is dated at Paris, November, 19, 1795. 
+   of Gilbert Wakefield. It is dated at Paris, November, 19, 1795.
 
    "DEAR SIR,
 
@@ -6092,7 +6092,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    "I am, dear Sir,
 
-          "Your true well-wisher, 
+          "Your true well-wisher,
 
                    "THO. PAINE
 
@@ -6139,11 +6139,11 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    What to the man whose years of anguish, imprisonment, disease, at last
    pass away, must have been the paths and hedgerows of Versailles, where he
    now meets the springtide, and the more healing sunshine of affection!
-   Risen from his thorny bed of pain, 
+   Risen from his thorny bed of pain,
 
-   "The meanest floweret of the vale, 
-    The simplest note that swells the gale, 
-    The common sun, the air, the skies, 
+   "The meanest floweret of the vale,
+    The simplest note that swells the gale,
+    The common sun, the air, the skies,
     To him are opening paradise."
 
    So had it been even if nature alone had surrounded him. But Paine had been
@@ -6183,55 +6183,55 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Monroes. To Lady Smith, on discovering her, Paine addressed a poem, --"The
    Castle in the Air to the Little Corner of the World":
 
-   "In the region of clouds, where the whirlwinds arise, 
-          My Castle of Fancy was built; 
-    The turrets reflected the blue from the skies, 
+   "In the region of clouds, where the whirlwinds arise,
+          My Castle of Fancy was built;
+    The turrets reflected the blue from the skies,
           And the windows with sunbeams were gilt.
 
-   "The rainbow sometimes, in its beautiful state, 
-          Enamelled the mansion around; 
-    And the figures that fancy in clouds can create 
+   "The rainbow sometimes, in its beautiful state,
+          Enamelled the mansion around;
+    And the figures that fancy in clouds can create
           Supplied me with gardens and ground.
 
-   "I had grottos, and fountains, and orange-tree groves, 
-          I had all that enchantment has told; 
-    I had sweet shady walks for the gods and their loves, 
+   "I had grottos, and fountains, and orange-tree groves,
+          I had all that enchantment has told;
+    I had sweet shady walks for the gods and their loves,
           I had mountains of coral and gold:
 
-   "But a storm that I felt not had risen and rolled, 
-          While wrapped in a slumber I lay; 
-    And when I looked out in the morning, behold, 
+   "But a storm that I felt not had risen and rolled,
+          While wrapped in a slumber I lay;
+    And when I looked out in the morning, behold,
           My Castle was carried away.
 
-   "It passed over rivers and valleys and groves, 
-          The world it was all in my view; 
-    I thought of my friends, of their fates, of their loves, 
+   "It passed over rivers and valleys and groves,
+          The world it was all in my view;
+    I thought of my friends, of their fates, of their loves,
           And often, full often, of YOU..
 
-   "At length it came over a beautiful scene, 
-          That nature in silence had made; 
-    The place was but small, but 't was sweetly serene, 
+   "At length it came over a beautiful scene,
+          That nature in silence had made;
+    The place was but small, but 't was sweetly serene,
           And chequered with sunshine and shade.
 
-   "I gazed and I envied with painful good will, 
-          And grew tired of my seat in the air; 
-    When all of a sudden my Castle stood still, 
+   "I gazed and I envied with painful good will,
+          And grew tired of my seat in the air;
+    When all of a sudden my Castle stood still,
           As if some attraction were there.
 
-   "Like a lark from the sky it came fluttering down, 
-          And placed me exactly in view, 
-    When whom should I meet in this charming retreat. 
+   "Like a lark from the sky it came fluttering down,
+          And placed me exactly in view,
+    When whom should I meet in this charming retreat.
           This comer of calmness, but -- YOU.
 
-   "Delighted to find you in honour and ease, 
-          I felt no more sorrow nor pain; 
-    But the wind coming fair, I ascended the breeze, 
+   "Delighted to find you in honour and ease,
+          I felt no more sorrow nor pain;
+    But the wind coming fair, I ascended the breeze,
           And went back with my Castle again."
 
    Paine was now a happy man. The kindness that rescued him from death was
    followed by the friendship that beguiled him from horrors of the past.
    From gentle ladies he learned that beyond the Age of Reason lay the forces
-   that defeat Giant Despair. 
+   that defeat Giant Despair.
 
    "To reason [so he writes to Lady Smith against feelings is as vain as to
    reason against fire: it serves only to torture the torture, by adding
@@ -6258,33 +6258,33 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    religion capable of more bigotry and enthusiasm, and more dangerous to its
    votaries -- that of making a religion of Love.
 
-   "O could we always live and love, 
-          And always be sincere, 
-    I would not wish for heaven above, 
+   "O could we always live and love,
+          And always be sincere,
+    I would not wish for heaven above,
           My heaven would be here.
 
-   "Though many countries I have seen, 
-          And more may chance to see, 
+   "Though many countries I have seen,
+          And more may chance to see,
     My Little Corner of the World
           Is half the world to me.
 
-   "The other half, as you may guess, America contains; 
-          And thus, between them, I possess 
+   "The other half, as you may guess, America contains;
+          And thus, between them, I possess
     The whole world for my pains.
 
-   "I'm then contented with my lot, 
-          I can no happier be; 
-    For neither world I 'm sure has got 
+   "I'm then contented with my lot,
+          I can no happier be;
+    For neither world I 'm sure has got
           So rich a man as me.,
 
-   "Then send no fiery chariot down 
-          To take me off from hence, 
-    But leave me on my heavenly ground 
+   "Then send no fiery chariot down
+          To take me off from hence,
+    But leave me on my heavenly ground
           This prayer is common sense.
 
-   "Let others choose another plan, 
-          I mean no fault to find; 
-    The true theology of man 
+   "Let others choose another plan,
+          I mean no fault to find;
+    The true theology of man
           Is happiness of mind."
 
    Paine gained great favor with the French government and fame throughout
@@ -6337,7 +6337,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    service of the American government, might have found her stay in Paris
    unpleasant but for Paine's friendship. The importance of his guarantee to
    the banker, Sir Robert Smith, appears by the following note, written at
-   Versailles, August 13th: 
+   Versailles, August 13th:
 
    "CITIZEN MINISTER:
 
@@ -6370,11 +6370,11 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    in France, represented the faith and hope of republicans that the treason
    would be overtaken by retribution and reversal.
 
-                                        
+
 
                                  CHAPTER  XIII
 
-                               THEOPHILANTHROPY 
+                               THEOPHILANTHROPY
                                   [1796-1797]
 
    IN the ever-recurring controversies concerning Paine, and his "Age of
@@ -6390,7 +6390,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Such, is not the fact. Paine desired and anticipated their, reformation,
    which has steadily progressed. At the close of the "Age of Reason" he
    exhorts the clergy, to "preach something that is edifying, and from texts
-   that are known to be true." 
+   that are known to be true."
 
    "The Bible of the creation is inexhaustible in texts. Every part of
    science, whether connected with the geometry of the universe, with the
@@ -6447,8 +6447,8 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    from public view"(pg 44)96. It is not Paine that here calls some "sacred"
    things unsightly, and charges the clergy with concealing them -- it is the
    Bishop. Among the particular and direct concessions, made by the Bishop
-   are the following: 
-    
+   are the following:
+
 
    1. That Moses may not have written every part of the Pentateuch. Some
    passages were probably written, by later hands, transcribers or editors
@@ -6464,7 +6464,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    power was arbitrary among the Romans, Gauls, and Persians, why should it
    not have been abolished in Israel?   And if Dr. Watson possessed the right
    to call any law established in the Bible "improper," how can Paine be
-   denounced for subjecting other things in the book to moral condemnation?  
+   denounced for subjecting other things in the book to moral condemnation?
    The moral sentiment is not an episcopal prerogative.]
 
    3. The Bishop agrees that it is "the opinion of many learned men and good
@@ -6559,7 +6559,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    The Bishop rages against Paine for supposing that the commanded
    preservation of the Midianite maidens, when all males and married women
-   were slain, was for their "debauchery." 
+   were slain, was for their "debauchery."
 
    "Prove this, and I will allow that Moses was the horrid monster you make
    him -- prove this, and I will allow that the Bible is what you call it --
@@ -6590,7 +6590,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    This connection of the deity of the Bible with "the ferocity of human
    nature" in one place, and its softening in another, justified Paine's
-   solemn rebuke to the clergy of his time. 
+   solemn rebuke to the clergy of his time.
 
    "Had the cruel and murderous orders with which the Bible is filled, and
    the numberless torturing executions of men, women, and children, in
@@ -6603,7 +6603,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    This is fundamentally what the Bishop has to answer, and of course he must
    resort to the terrible. Tu quoque of Bishop Butler. Dr. Watson says he is
-   astonished that "so acute a reasoner" should reproduce the argument. 
+   astonished that "so acute a reasoner" should reproduce the argument.
 
    "You profess yourself to be a deist, and to believe that there is a God,
    who created the universe, and established the laws of nature, by which it
@@ -6736,7 +6736,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    other by natural philosophy." The discourse is chiefly an argument for a
    divine existence based on motion, which, he maintains, is not a property
    of matter. It proves a Being "at the summit of all things." At the close
-   he says: 
+   he says:
 
    "The society is at present in its infancy, and its means are small; but I
    wish to hold in view the subject I allude to, and instead of teaching the
@@ -6811,7 +6811,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    substantial surplus for charity. The practical scheme submitted is
    enforced by practical rather than theoretical considerations. Property is
    always imperilled by poverty, especially where wealth and splendor have
-   lost their old fascinations, and awaken emotions of disgust. 
+   lost their old fascinations, and awaken emotions of disgust.
 
    "To remove the danger it is necessary to remove the antipathies, and this
    can only be done by making property productive of a national blessing,
@@ -6906,7 +6906,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Paine's defence, of Jupiter answering arguments with thunderbolts.
    Erskine's argument was that the King had taken a solemn oath "to maintain
    the Christian Religion as it is promulgated by God in the Holy
-   Scriptures." 
+   Scriptures."
 
    "Every man has a right to investigate, with modesty and decency,
    controversial points of the Christian religion; but no man, consistently
@@ -6924,7 +6924,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    injustice." This is his entire and inaccurate rendering of what Paine, --
    who always distinguishes the "Bible" from the "New Testament," -- says at
    the close of his comment on the massacre of the Midianites and
-   appropriation of their maidens: 
+   appropriation of their maidens:
 
    "People in general know not what wickedness there is in this pretended
    word of God. Brought up in habits of superstition, they take it for
@@ -6952,7 +6952,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    of Chichester, who, declared that Woolston "ought not to be punished for
    being an infidel, nor for writing against the Christian religion." He
    quoted Paine's profession of faith on the first page of the incriminated
-   book 
+   book
 
    "I believe in one God and no more; I hope for happiness, beyond this life;
    I believe in the equality of men, and I believe that religious duties
@@ -6985,7 +6985,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    wish to prevent me from pursuing it, you may as well tell me to abandon my
    duty to my client at once." Lord Kenyon said: "Go on, Sir:" Returning to
    the analogy of the divinely ordered massacres in the Bible with the like
-   in nature, Kyd said: 
+   in nature, Kyd said:
 
    "Gentlemen, this is reasoning by comparison; and reasoning by comparison
    is often fallacious. On the present occasion the fallacy is this: that, in
@@ -7013,7 +7013,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    England,' or the history of any other country."
 
    As in Paine's own trial in 1792, the infallible scheme of a special jury
-   was used against Williams. Lord Kenyon closed his charge with the words: 
+   was used against Williams. Lord Kenyon closed his charge with the words:
 
    "Unless it was for the most malignant purposes, I cannot conceive how it
    was published. It is, however, for you to judge of it, and to do justice
@@ -7043,7 +7043,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    the other case I defend the honour of the person against the work." After
    alluding to the two accounts in Genesis of the creation of man, according
    to one of which there was no Garden of Eden and no forbidden tree, Paine
-   says: 
+   says:
 
    "Perhaps I shall be told in the cant language of the day, as I have often
    been told by the Bishop of Llandaff and others, of the great and laudable
@@ -7083,7 +7083,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    In the following year, Paine's discourse to the Theophilanthropists was
    separately printed by Clio Rickman, with a sentence from Shakespeare in
    the title-page: "I had as lief have the foppery of freedom as the morality
-   of imprisonment," there was also the following dedication: 
+   of imprisonment," there was also the following dedication:
 
    "The following little Discourse is dedicated to the enemies of Thomas
    Paine, by one who has known him long and intimately, and who is convinced
@@ -7130,7 +7130,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
                                   CHAPTER  XIV
 
-                             THE REPUBLICAN ABDIEL 
+                             THE REPUBLICAN ABDIEL
                                   [1797-1800]
 
    THE sight of James Monroe and Thomas Paine in France, representing
@@ -7145,7 +7145,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    in the Captain of the Dublin Packet." Sure enough this Captain Clay was
    friendly enough with the British cruiser which lay in wait to catch Paine,
    but only succeeded in finding his letter to Jefferson. Before returning
-   from Havre to Paris he wrote another letter to Vice-President Jefferson. 
+   from Havre to Paris he wrote another letter to Vice-President Jefferson.
 
    "HAVRE, May 14th, 1797.
 
@@ -7188,7 +7188,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    an opportunity of throwing in a little service for him, you will do a good
    thing. We have had several reports of Mr. Madison's coming. He would be
    well received as an individual, but as an Envoy of John Adams he could do
-   nothing. 
+   nothing.
 
           "THOMAS  P
 
@@ -7199,7 +7199,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    unauthorized to make the demanded restorations to Holland and Spain.
    Paine's essay was no doubt sent to the Directory in the interests of
    peace, suggesting as it does a compromise, as regards the Cape of Good
-   Hope. 
+   Hope.
 
    "CAPE OF GOOD HOPE.
 
@@ -7210,7 +7210,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    is inadmissible by France, and by all the nations trading in India and to
    Canton, and would also be injurious to Canton itself. -- We pretend not to
    know anything of the negociations at Lille, but it is very easy to see,
-   from the nature of the case, what ought to be the condition of the Cape: 
+   from the nature of the case, what ought to be the condition of the Cape:
    It ought to be a free port open to the vessels of all nations trading to
    any part of the East Indias. It ought also to be a neutral port at all
    times, under the guarantee of all nations; the expense of keeping the port
@@ -7220,7 +7220,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    shall be the portmaster; and this ought to be the Dutch, because they
    understand the business best. As the Cape is a half-way stage between
    Europe and India, it ought to be considered as a tavern, where travellers
-   on a long journey put up for rest and refreshment. 
+   on a long journey put up for rest and refreshment.
 
           "T. P."
 
@@ -7339,7 +7339,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    republican Europe shine before simple-hearted Pine. He was rather poor
    now, but gathered up all the money he had, and sent it to the Council of
    Five Hundred. The accompanying letter was read by Coupe at the sitting of
-   January 28, 1798: 
+   January 28, 1798:
 
    "CITIZENS REPRESENTATIVES,
 
@@ -7473,7 +7473,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Paris, where he was more agreeably conquered by kindness. Freeman's
 
    "History of Cape Cod" (of which region Crocker was a native) has the
-   following: 
+   following:
 
    "His [Captain Crocker's] reminiscences of his residence in that country,
    during the most extraordinary period of its history, were of a highly
@@ -7513,7 +7513,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Armies." It was translated by Bonneville, and widely circulated in Europe.
    Paine sent it in manuscript to Jefferson, who at once had it printed. His
    accompanying letter to Jefferson (October 1, 1800) is of too much
-   biographical interest to be abridged. 
+   biographical interest to be abridged.
 
    "DEAR SIR,
 
@@ -7783,12 +7783,12 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    d'ecritoire" ["We would have a war of only clipboards." -- Digital
    Editor's Translation.]. In all of Paine's writing about Napoleon; at this
    time, he seems as if watching a thundercloud, and trying to make out
-   meteorologically its drift, and where it will strike. 
-    
+   meteorologically its drift, and where it will strike.
+
 
                                   CHAPTER  XV
 
-                            THE LAST YEAR IN EUROPE 
+                            THE LAST YEAR IN EUROPE
                                   [1801-1802]
 
    ON July 15, 1801, Napoleon concluded with Pius VII: the Concordat.
@@ -7819,7 +7819,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    The description of Paine by Walter Savage Landor, and representations of
    his talk, in the "Imaginary Conversations," so mix up persons, times, and
    places, that I was at one time inclined to doubt whether the two had met.
-   But Mr. J. M. Wheeler, a valued correspondent in London, writes me: 
+   But Mr. J. M. Wheeler, a valued correspondent in London, writes me:
 
    "Landor told my friend Mr. Birch of Florence that he particularly admired
    Paine, and that he visited him, having first obtained an interview at the
@@ -7833,7 +7833,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    that period. It would appear therefore that Landor must have mixed up at
    least two interviews with Paine, one in the time of Dumouriez, the other
    in that of Napoleon. Not even such an artist as Landor could invent the
-   language ascribed to, Paine concerning the French and Napoleon. 
+   language ascribed to, Paine concerning the French and Napoleon.
 
    "The whole nation may be made as enthusiastic about a salad as about a
    constitution; about the colour of a cockade as about a consul or a king.
@@ -7866,7 +7866,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Under date of March 18, 1801, President Jefferson informs Paine that he
    had sent his manuscripts (Maritime Compact ) to the printer to be made
    into a pamphlet, and that the American people had returned from their
-   frenzy against France. He adds: 
+   frenzy against France. He adds:
 
    "You expressed a wish to get a passage to this country in a public vessel.
    Mr. Dawson is charged with orders to the captain of the Maryland to
@@ -7880,7 +7880,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    to reap the reward in the thankfulness of nations, is my sincere prayer.
    Accept assurances of my high esteem and affectionate attachment."
 
-   The subjoined notes are from letters of Paine to Jefferson: 
+   The subjoined notes are from letters of Paine to Jefferson:
 
    "Paris, June 9, 1801.
 
@@ -7894,7 +7894,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    more, general joy,
 
    "I thank you for the opportunity you give me of returning by the Maryland,
-   but I shall wait the return of the vessel that brings Mr. Livingston." 
+   but I shall wait the return of the vessel that brings Mr. Livingston."
 
    "Paris, June 25, 1801.
 
@@ -7902,7 +7902,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    carried, into England. The pretence, as the papers say, was that -- a
    Swedish Minister was on board for America. If I had happened to have been
    there, I suppose they would have made no ceremony in conducting me on
-   shore." 
+   shore."
 
    "Paris, March 17, 1802.
 
@@ -7930,7 +7930,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    safety.
 
    The following to the eminent deist lecturer in New York, Elihu Palmer,
-   bears the date, "Paris, February 21, 1802, since the Fable of Christ": 
+   bears the date, "Paris, February 21, 1802, since the Fable of Christ":
 
    "DEAR FRIEND,
 
@@ -8004,8 +8004,8 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    with boxes of documents, a chaos of pamphlets and journals. While Yorke
    was meditating on the contrast between this habitation of a founder of two
    great republics and the mansions of their rulers, his old friend entered,
-   dressed in a long flannel gown. 
-    
+   dressed in a long flannel gown.
+
 
    "Time seemed to have made dreadful ravages over his whole frame, and a
    settled melancholy was visible on his countenance. He desired me to be
@@ -8137,12 +8137,12 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    the way-worn man begins his homeward voyage. Poor Rickman, the perpetually
    prosecuted, strains his eyes till the sail is lost, then sits on the beach
    and writes his poetical tribute to Jefferson and America for recalling
-   Paine, and a touching farewell to his friend. 
+   Paine, and a touching farewell to his friend.
 
-   "Thus smooth be thy waves, and thus gentle the breeze, 
-    As thou bearest my Paine far away; 
-    O waft him to comfort and regions of ease, 
-    Each blessing of freedom and friendship to seize, 
+   "Thus smooth be thy waves, and thus gentle the breeze,
+    As thou bearest my Paine far away;
+    O waft him to comfort and regions of ease,
+    Each blessing of freedom and friendship to seize,
     And bright be his setting sun's ray."
 
    Who can imagine the joy of those eyes when they once more beheld the
@@ -8177,28 +8177,28 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    celestial Robespierre. Thou stricken friend of man, who hast appealed from
    the god of wrath to the God of Humanity, see in the distance that Maryland
    coast, which early voyagers called Avalon, and sing again your song when
-   first stepping on that shore twenty-seven years ago. 
+   first stepping on that shore twenty-seven years ago.
 
-   "I come to sing that summer is at hand, 
-    The summer time of wit, you'll understand; 
-    Plants, fruits, and flowers, and all the smiling race 
+   "I come to sing that summer is at hand,
+    The summer time of wit, you'll understand;
+    Plants, fruits, and flowers, and all the smiling race
     That can the orchard or the garden grace;
 
-   "The Rose and Lily shall address the fair, 
-    And whisper sweetly out, 'My dears, take care: 
-    'With sterling worth the Plant of Sense shall rise, 
+   "The Rose and Lily shall address the fair,
+    And whisper sweetly out, 'My dears, take care:
+    'With sterling worth the Plant of Sense shall rise,
     And teach the curious to philosophize!'
 
-   "The frost returns? We'll garnish out the scenes 
-    With stately rows of Evergreens, 
-    Trees that will bear the frost, and deck their tops 
+   "The frost returns? We'll garnish out the scenes
+    With stately rows of Evergreens,
+    Trees that will bear the frost, and deck their tops
     With everlasting flowers, like diamond drops."119
 
-                                        
+
 
                                   CHAPTER  XVI
 
-                           THE AMERICAN INQUISITION 
+                           THE AMERICAN INQUISITION
                                   [1802-1803]
 
    ON October 30th Paine landed at Baltimore. More than two and a half
@@ -8225,7 +8225,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    from the vessel and put them on board the packet for Georgetown I shall
    set off to pay my respects to you.
 
-   Your much obliged fellow-citizen, 
+   Your much obliged fellow-citizen,
 
           THOMAS  PAINE."
 
@@ -8234,7 +8234,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    in Paris (Sir Robert Smith's son-in-law), enclosing a letter to Rickman,
    in London. "You can have no idea," he tells Rickman, "of the agitation
    which my arrival occasioned." Every paper is "filled with applause or
-   abuse." 
+   abuse."
 
    "My property in this country has been taken care of by my friends, and is
    now worth six thousand pounds sterling; which put in the funds will bring
@@ -8289,7 +8289,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    caused much excitement, and the "federalists" showed eagerness to push the
    administration into a belligerent attitude toward France. Paine's "Common
    Sense" again came to the front, and he sent Jefferson the following
-   paper: 
+   paper:
 
    "OF LOUISIANA.
 
@@ -8324,7 +8324,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    claimants.
 
    "I congratulate you on the birthday of the New Sun, now called
-   Christmas-day; and I make you a present of a thought on Louisiana. 
+   Christmas-day; and I make you a present of a thought on Louisiana.
 
           "T. P"
 
@@ -8349,7 +8349,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    good friend, do you call believing in God infidelity?"
 
    This letter to Samuel Adams (January 1, 1803) has indications that Paine
-   had developed farther his theistic ideal. 
+   had developed farther his theistic ideal.
 
    "We cannot serve the Deity in the manner we serve those who cannot do
    without that service. He needs no service from us. We can add nothing to
@@ -8372,7 +8372,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    deeper disappointment at the postponement of the interviews he had hoped
    to enjoy with Jefferson after thirteen years of separation. A feeling of
    this kind no doubt prompted the following note (January 12th) sent to the
-   President: 
+   President:
 
    "I will be obliged to you to send back the Models, as I am packing up to
    set off for Philadelphia and New York. My intention in bringing them here
@@ -8409,45 +8409,45 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    a federal dinner at Washington, of
    "MAY THEY NEVER KNOW PLEASURE WHO LOVE PAINE."
 
-   "I send you, Sir, a tale about some Feds, 
-    Who, in their wisdom, got to loggerheads. 
+   "I send you, Sir, a tale about some Feds,
+    Who, in their wisdom, got to loggerheads.
 
-   "The case was this, they felt so flat and sunk, 
+   "The case was this, they felt so flat and sunk,
     They took a glass together and got drunk.
 
-   "Such things, you know, are neither new nor rare, 
-    For some will hary themselves when in despair. 
-    It was the natal day of Washington, 
+   "Such things, you know, are neither new nor rare,
+    For some will hary themselves when in despair.
+    It was the natal day of Washington,
     And that they thought a famous day for fun;
 
-   "For with the learned world it is agreed, 
-    The better day the better deed. 
-    They talked away, and as the glass went round 
+   "For with the learned world it is agreed,
+    The better day the better deed.
+    They talked away, and as the glass went round
     They grew, in point of wisdom, more profound;
 
-   "For at the bottom of the bottle lies 
-    That kind of sense we overlook when wise. 
-    Come, here 's a toast, cried one, with roar immense, 
+   "For at the bottom of the bottle lies
+    That kind of sense we overlook when wise.
+    Come, here 's a toast, cried one, with roar immense,
     May none know pleasure who love Common Sense.
 
-   "Bravo! cried some, -- no, no! some others cried, 
-    But left it to the waiter to decide. 
-    I think, said he, the case would be more plain, 
+   "Bravo! cried some, -- no, no! some others cried,
+    But left it to the waiter to decide.
+    I think, said he, the case would be more plain,
     To leave out Common Sense, and put in Paine.
 
-   "On this a mighty noise arose among 
-    This drunken, bawling, senseless throng. 
-    Some said that Common Sense was all a curse, 
+   "On this a mighty noise arose among
+    This drunken, bawling, senseless throng.
+    Some said that Common Sense was all a curse,
     That making people wiser made them worse;
 
-   "It learned them to be careful of their purse, 
-    And not be laid about like babes at nurse, 
-    Nor yet believe in stories upon trust, 
+   "It learned them to be careful of their purse,
+    And not be laid about like babes at nurse,
+    Nor yet believe in stories upon trust,
     Which all mankind, to be well governed must;
 
-   "And that the toast was better at the first, 
-    And he that did n't think so might be cursed. 
-    So on they went, till such a fray arose 
+   "And that the toast was better at the first,
+    And he that did n't think so might be cursed.
+    So on they went, till such a fray arose
     As all who know what Feds are may suppose."
 
    On his way northward, to his old home in Bordentown, Paine passed many a
@@ -8528,7 +8528,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    British as Blount was said to be?"
 
    Of the same date is a letter to Senator Breckenridge, of Kentucky,
-   forwarded through Jefferson: 
+   forwarded through Jefferson:
 
    "MY DEAR FRIEND,
 
@@ -8703,7 +8703,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Sense' broken the charm and the Declaration of Independence sent it into
    banishment.
 
-   "Yours in friendship, 
+   "Yours in friendship,
 
           "THOMAS  PAINE,126
 
@@ -8712,7 +8712,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Mr. E. M. Woodward, in his account of Bordentown, mentions among the
    "traditions" of the place, that Paine used to meet a large number of
    gentlemen at the "Washington House," kept by Debora Applegate, where he
-   conversed freely "with any proper person who approached him." 
+   conversed freely "with any proper person who approached him."
 
    "Mr. Paine was too much occupied in literary pursuits and writing to spend
    a great deal of his time here, but he generally paid several visits during
@@ -8764,7 +8764,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
                                  CHAPTER  XVII
 
-                       NEW ROCHELLE AND THE BONNEVILLES 
+                       NEW ROCHELLE AND THE BONNEVILLES
                                   [1803-1805]
 
    THE Bonnevilles, with whom Paine had resided in Paris, were completely
@@ -8800,24 +8800,24 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Citizen (August 9th) are printed (and misprinted) "Lines, extempore, by
    Thomas Paine, July, 1803."
 
-   "Quick as the lightning's vivid flash 
-       The poet's eye o'er Europe rolls; 
-    Sees battles rage, hears tempests crash, 
+   "Quick as the lightning's vivid flash
+       The poet's eye o'er Europe rolls;
+    Sees battles rage, hears tempests crash,
        And dims at horror's threatening scowls.
 
-   "Mark ambition's ruthless king, 
-       With crimsoned banners scathe the globe; 
-    While trailing after conquest's wing, 
+   "Mark ambition's ruthless king,
+       With crimsoned banners scathe the globe;
+    While trailing after conquest's wing,
        Man's festering wounds his demons probe.
 
-   "Palled with streams of reeking gore 
-       That stain the proud imperial day, 
-    He turns to view the western shore, 
+   "Palled with streams of reeking gore
+       That stain the proud imperial day,
+    He turns to view the western shore,
        Where freedom holds her boundless sway.
 
-   "'T is here her sage triumphant sways 
-       An empire in the people's love; 
-    'T is here the sovereign will obeys 
+   "'T is here her sage triumphant sways
+       An empire in the people's love;
+    'T is here the sovereign will obeys
        No king but Him who rules above."
 
    The verses, crudely expressing the contrast between President Jefferson
@@ -8859,7 +8859,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    whole subject. Paine wrote to him extended communications, among which was
    the letter of September 23d, from Stonington. The interest of the subject
    is now hardly sufficient to warrant publication of the whole of this
-   letter, which, however, possesses much interest. 
+   letter, which, however, possesses much interest.
 
    "Your two favours of the 10 and 18 ult. reached me at this place on the
    14th inst.; also one from Mr. Madison. I do not suppose that the framers
@@ -8961,7 +8961,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    would soon follow. but he did not come, nor was any letter received from
    him. This was probably the most important allusion in a letter of Paine,
    dated New York, March 1, 1804, to "Citizen Skipwith, Agent Commercial
-   d'Amerique, Paris." 
+   d'Amerique, Paris."
 
    "DEAR  FRIEND,
 
@@ -9032,7 +9032,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    "Yours in friendship."131
 
    Paine's letter alluded to was printed in the Aurora with the following
-   note: 
+   note:
 
    "TO THE EDITOR
 
@@ -9053,7 +9053,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    received by the people with a sincerity of joy." He still hopes that the
    English people may be able to end the trouble peacefully, by compelling
    Parliament to fulfil the Treaty of Amiens, naively informing them that "a
-   Treaty ought to be fulfilled." The following passages may be quoted: 
+   Treaty ought to be fulfilled." The following passages may be quoted:
 
    "In casting my eye over England and America, and comparing them together,
    the difference is very striking. The two countries were created by the
@@ -9120,7 +9120,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    journal or publications, he could neither join his family nor assist them.
 
    Paine now resolved to reside on his farm. The following note was written
-   to Col. John Fellows. It is dated at New Rochelle, July 9th: 
+   to Col. John Fellows. It is dated at New Rochelle, July 9th:
 
    "FELLOW  CITIZEN,
 
@@ -9140,7 +9140,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    "Yours in friendship."
 
    Paine was presently enjoying himself on his farm at New Rochelle, and
-   Madame Bonneville began to keep house for him. 
+   Madame Bonneville began to keep house for him.
 
    "It is a pleasant and healthy situation (he wrote to Jefferson somewhat
    later), commanding a prospect always green and peaceable, as New Rochelle
@@ -9159,7 +9159,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    With a black cook, Rachel Gidney, the family seemed to be getting on with
    fair comfort; but on Christmas Eve an event occurred which came near
    bringing Paine's plans to an abrupt conclusion. This is related in a
-   letter to William Carver, New York, dated January 16th, at New Rochelle. 
+   letter to William Carver, New York, dated January 16th, at New Rochelle.
 
    "ESTEEMED  FRIEND,
 
@@ -9240,7 +9240,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    struggle of the negroes in Domingo for liberty, cut Paine to the heart.
    Unperturbed by the attempt made on his own life a few days before, he
    wrote to Jefferson on New Year's Day, 1805, (from New Rochelle,) what may
-   be regarded as an appeal: 
+   be regarded as an appeal:
 
    "DEAR  SIR,
 
@@ -9307,7 +9307,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    congratulate your constituents on the success of the election for
    President and Vice-President.
 
-   "Yours in friendship, 
+   "Yours in friendship,
 
           "THOMAS  PAINE."
 
@@ -9321,7 +9321,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    was by no means so severe in his opposition to slavery as he was once
    supposed to be. The President repeatedly invited Paine's views, and they
    were given fully and freely. The following extracts are from a letter
-   dated New York, January 25, 1805: 
+   dated New York, January 25, 1805:
 
    "Mr. Levy Lincoln and Mr. Wingate called on me at N. York, where I
    happened to be when they arrived on their journey from Washington to the
@@ -9493,7 +9493,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Paine made but a brief stay in New York (where he boarded with William
    Carver). His next letter (April 22d) is from New Rochelle, written to John
    Fellows, an auctioneer in New York City, one of his most faithful
-   friends. 
+   friends.
 
    "CITIZEN:
 
@@ -9512,7 +9512,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    and tell them that the better they behave the better it will be for them.
    I am now their only dependance, and they ought to know it.
 
-   Yours in friendship." 
+   Yours in friendship."
 
    "All my Nos. of the Prospect, while I was at Carver's, are left there. The
    boys can bring them. I have received no No. since I came to New
@@ -9530,7 +9530,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    of Virginia), the accusation proceeded to instances of immorality, persons
    and places being named. The following letter from New Rochelle, July 19th,
    to John Fellows enclosed Paine's reply, which appeared in the American
-   Citizen, July 23d and 24th: 
+   Citizen, July 23d and 24th:
 
    "CITIZEN:
 
@@ -9686,7 +9686,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    long friendship, he ventured (September 30th) to allude to his situation
    and to remind him that his State, Virginia, had once proposed to give him
    a tract of land, but had not done so. He suggests that Congress should
-   remember his services. 
+   remember his services.
 
    "But I wish you to be assured that whatever event this proposal may take
    it will make no alteration in my principles or my conduct. I have been a
@@ -9727,13 +9727,13 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    original manuscript was obtained, however, and published with an extended
    preface, criticizing Paine's theory, the preface being in turn criticized
    by Paine's editor. The preface was probably written by Colonel Fellows,
-   author of a large work on Freemasonry. 
-     
-    
+   author of a large work on Freemasonry.
+
+
 
                                  CHAPTER  XVIII
 
-                             A NEW YORK PROMETHEUS 
+                             A NEW YORK PROMETHEUS
                                   [1805-1807]
 
    WHEN Paine left Bordentown, on March 1st 1803, driving past placards of
@@ -9814,7 +9814,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Temple of Reason (Snow's Rooms, Broadway). This suggests that he had not
    broken with the clergy altogether. Somewhat later he lectured at the Union
    Hotel, William Street. He had studied divinity, and turned against the
-   creeds what was taught him for their support. 
+   creeds what was taught him for their support.
 
    "I have more than once [says Dr. Francis] listened to Palmer; none could
    be weary within the sound of his voice; his diction was classical; and
@@ -9864,7 +9864,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    the new journal, which attracted a good deal of attention. His first
    communication (February 18, 1804), was on a sermon by Robert Hall,
    on "Modern Infidelity," sent him by a gentleman in New York. The following
-   are some of its trenchant paragraphs: 
+   are some of its trenchant paragraphs:
 
    "Is it a fact that Jesus Christ died for the sins of the world, and how is
    it proved? If a God he could not die, and as a man he could not redeem:
@@ -9894,7 +9894,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Writings of Thomas Paine";  "Of the Books of the New Testament." There
    were several communications without any heading. Passages and sentences
    from these little essays have long been a familiar currency among
-   freethinkers. 
+   freethinkers.
 
    "We admire the wisdom of the ancients, yet they had no bibles, nor books,
    called revelation. They cultivated the reason that God gave them, studied
@@ -9958,7 +9958,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    certainties, that the scriptural deity was not the true one, nor the
    dogmas called Christian reasonable. But he felt some of the moral
    difficulties surrounding theism, and these were indicated in his reply to
-   the Bishop of Llandaff. 
+   the Bishop of Llandaff.
 
    "The Book of Job belongs either to the ancient Persians, the Chaldeans, or
    the Egyptians; because the structure of it is consistent with the dogma
@@ -9998,7 +9998,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    those of justice and goodness."
 
    Among Paine's papers was found one entitled "My Private Thoughts of a
-   Future State," from which his editors have dropped important sentences. 
+   Future State," from which his editors have dropped important sentences.
 
    "I have said in the first part of the Age of Reason that `I hope for
    happiness after this life.' This hope is comfortable to me, and I presume
@@ -10096,7 +10096,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    with some theistic movement in that city. How it was met, and what
    annoyances Paine had to suffer, are partly intimated in the following
    letter, printed in the Philadelphia Commercial Advertiser, February 10,
-   1806. 
+   1806.
 
    "TO JOHN INSKEEP, MAYOR OF THE CITY OF PHILADELPHIA.
 
@@ -10137,7 +10137,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    I am happy in the continual contemplation of what I have done, and I thank
    God that he gave me talents for the purpose and fortitude to do it. It
    will make the continual consolation of my departing hours, whenever they
-   finally arrive. 
+   finally arrive.
 
           "THOMAS  PAINE."
 
@@ -10261,7 +10261,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    The "Essay on Dream" was written early in 1806 and printed in May, 1807.
    It was the last work of importance written by Paine. In the same pamphlet
    was included a part of his reply to the Bishop of Llandaff, which was
-   written in France: 
+   written in France:
 
    "An Examination of the Passages in the New Testament, Quoted from the Old,
    and Called Prophecies of the Coming of Jesus Christ." The Examination is
@@ -10286,7 +10286,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    But Paine was to be reminded that the revolution had not made conscience
    free enough in America to challenge waking dreams without penalties. The
    following account of his disfranchisement at New Rochelle, was written
-   from Broome St., New York, May 4, 1807, to Vice-President Clinton. 
+   from Broome St., New York, May 4, 1807, to Vice-President Clinton.
 
    "RESPECTED  FRIEND,
 
@@ -10339,7 +10339,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    "Yours in friendship."
 
-   To this Clinton replied from Washington, 12th May, 1807: 
+   To this Clinton replied from Washington, 12th May, 1807:
 
    "DEAR  SIR,
 
@@ -10362,7 +10362,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    me." He also says Morris could hardly keep himself out of prison147.
 
    A letter was also written to Joel Barlow, at Washington, dated Broome
-   Street, New York, May 4th. He says in this: 
+   Street, New York, May 4th. He says in this:
 
    "I have prosecuted the Board of Inspectors for disfranchising me. You and
    other Americans in Paris went in a body to the Convention to reclaim me,
@@ -10495,18 +10495,18 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    lived, turned Judas, and concocted with Cheetham the libels against Paine
    that have passed as history.
 
-    
+
 
                                   CHAPTER  XIX
 
-                                PERSONAL TRAITS 
+                                PERSONAL TRAITS
                                   [1806-1808]
 
    ON July 1, 1806, two young English gentlemen, Daniel and William
    Constable, arrived in New York, and for some years travelled about the
    country. The Diary kept by Daniel Constable has been shown me by his
    nephew, Clair J. Grece, LL.D. It contains interesting allusions to Paine,
-   to whom they brought an introduction from Rickman. 
+   to whom they brought an introduction from Rickman.
 
    July 1. To the Globe, in Maiden Lane, to dine. Mr. Segar at the Globe
    offered to send for Mr. Paine, who lived only a few doors off: He seemed a
@@ -10551,7 +10551,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Paine with many foul vices, as debauchery, lying, ingratitude, and a total
    want of common honour in all his actions, says that he drinks regularly a
    quart of brandy per day." But next day they call on Paine, in "the Bowery
-   road," and William Constable writes: 
+   road," and William Constable writes:
 
    "He looks better than last year. He read us an essay on national defence,
    comparing the different expenses and powers of gunboats and ships of war
@@ -10729,7 +10729,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    After Paine had left Carver's he became acquainted with more people. The
    late judge Tabor's recollections have been sent me by his son, Mr. Stephen
-   Tabor, of Independence, Iowa. 
+   Tabor, of Independence, Iowa.
 
    "I was an associate editor of the New York Beacon with Col. John Fellows,
    then (1836) advanced in years, but retaining all the vigor and fire of his
@@ -10819,7 +10819,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    mysterious league of apostolic slanderers, mortified expectants and
    disappointed speculators." Sampson's invective was terrific; Cheetham rose
    and claimed protection of the court, hinting at a duel. Sampson took a
-   pinch of snuff, and pointing his finger at the defendant, said: 
+   pinch of snuff, and pointing his finger at the defendant, said:
 
    "If he complains of personalities, he who is hardened in every gross
    abuse, he who lives reviling and reviled, who might construct himself a
@@ -10861,7 +10861,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    months of illness.)   As to Madame Bonneville, whose name Grant Thorburn
    seems not to have heard, she was turned into a romantic figure. Thorburn
    says that Paine escaped the guillotine by the execution of another man in
-   his place. 
+   his place.
 
    "The man who suffered death for Paine, left a widow, with two young
    children in poor circumstances. Paine brought them all to this country,
@@ -10899,15 +10899,15 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    revolutionary era of whom it can be said that his delight was in the law
    of his Lord, and in that law did he meditate day and night. Consequently,
    he could not escape the immemorial fate of the great believers, to be
-   persecuted for unbelief -- by unbelievers. 
-     
-    
+   persecuted for unbelief -- by unbelievers.
 
-    
+
+
+
 
                                   CHAPTER  XX
 
-                            DEATH AND RESURRECTION 
+                            DEATH AND RESURRECTION
                                   [1808-1809]
 
    THE blow that Paine received by the refusal of his vote at New Rochelle
@@ -10938,7 +10938,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    family of Madame Bonneville, whose statement on this point is important.
 
    The last letter that I can find of Paine's was written to Jefferson, July
-   8, 1808: 
+   8, 1808:
 
    "The british Ministry have out schemed themselves. It is not difficult to
    see what the motive and object of that Ministry were in issuing the orders
@@ -11087,7 +11087,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    fall of Alexander Hamilton in a duel with Aaron Burr. Hamilton's
    worldliness had been notorious, but the clergymen (Bishop Moore and the
    Presbyterian John Mason) reported his dying words of unctuous piety and
-   orthodoxy. In a public letter to the Rev. John Mason, Paine said: 
+   orthodoxy. In a public letter to the Rev. John Mason, Paine said:
 
    "Between you and your rival in communion ceremonies, Dr. Moore of the
    Episcopal church, you have, in order to make yourselves appear of some
@@ -11282,7 +11282,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    religion. I said my visit was mainly to get his "testimony" on the subject
    for my book, as he was born in Hicks' region, and mentions in "Specimen
    Days" his acquaintance with Paine's friend, Colonel Fellows. Walt said,
-   for I took down his words at the time: 
+   for I took down his words at the time:
 
    "In my childhood a great deal was said of Paine in our neighborhood, in
    Long Island. My father, Walter Whitman, was rather favorable to Paine. I
@@ -11380,7 +11380,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    The removal and mystery of Paine's bones appear like some page of Mosaic
    mythology175. An English caricature pictured Cobbett seated on Paine's
-   coffin, in a boat named RIGHTS OF MAN, rowed by NEGRO SLAVES. 
+   coffin, in a boat named RIGHTS OF MAN, rowed by NEGRO SLAVES.
 
    "A singular coincidence [says Dr. Francis] led me to pay a visit to
    Cobbett at his country seat, within a couple of miles of the city, on the
@@ -11408,7 +11408,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    every pulse was for humanity, whose last beat broke a fetter of fear, and
    fell on the throne of thrones176.
 
-    
+
 
    Footnotes for Vol. II
 
@@ -11515,10 +11515,10 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    inheritance of France alone. It is honour to her to be their first
    champion; and she may now say to her enemies, with a mighty voice,
 
-   'O, ye Austrians, ye Prussians! 
-    ye who now turn your bayonets against us, 
-    it is for you, it is for all Europe, 
-    it is for all mankind, and not for France alone, 
+   'O, ye Austrians, ye Prussians!
+    ye who now turn your bayonets against us,
+    it is for you, it is for all Europe,
+    it is for all mankind, and not for France alone,
     that she raises the standard of Liberty and Equality!' "
 
    12.  This letter, dated September 26, 1792, appears in the Miles
@@ -11547,7 +11547,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Windows closed with bricks are still seen in some of the gloomiest parts
    of London. I have in manuscript a bitter anathema of the time:
 
-   "God made the Light, and saw that it was good 
+   "God made the Light, and saw that it was good
     Pitt laid a tax on it, -- G_d -- his blood!"
 
    14.  Zachariah Wilkes did not fail to return, or Paine to greet him with
@@ -11600,53 +11600,53 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    shows a serpent with Paine's head, two sides being adorned with the
    following lines:
 
-   "God save the King, and all his subjects too, 
-    Likewise his forces and commanders true, 
-    May he their rights forever hence Maintain 
+   "God save the King, and all his subjects too,
+    Likewise his forces and commanders true,
+    May he their rights forever hence Maintain
     Against all strife occasioned by Tom Paine."
 
-   "Prithee Tom Paine why wilt thou meddling be 
-    In others' business which concerns not thee; 
-    For while thereon thou dost extend thy cares 
+   "Prithee Tom Paine why wilt thou meddling be
+    In others' business which concerns not thee;
+    For while thereon thou dost extend thy cares
     Thou dost at home neglect thine own affairs."
 
    "God save the King!"
 
-   "Observe the wicked and malicious man 
+   "Observe the wicked and malicious man
     Projecting all the mischief that he can."
 
    18.  When William Pitt died in 1806, -- crushed under disclosures in the
    impeachment of Lord Melville, -- the verdict of many sufferers was
    expressed in an "Epitaph Impromptu" (MS.) found among the papers of Thomas
-   Rickman. It has some historic interest. 
+   Rickman. It has some historic interest.
 
-   "Reader! with eye indignant view this bier; 
-    The foe of all the human race lies here. 
-    With talents small, and those directed, too, 
-    Virtue and truth and wisdom to subdue, 
-    He lived to every noble motive blind, 
+   "Reader! with eye indignant view this bier;
+    The foe of all the human race lies here.
+    With talents small, and those directed, too,
+    Virtue and truth and wisdom to subdue,
+    He lived to every noble motive blind,
     And died, the execration of mankind.
 
-   "Millions were butchered by his damned plan 
-    To violate each sacred right of man; 
-    Exulting he o'er earth each misery hurled, 
+   "Millions were butchered by his damned plan
+    To violate each sacred right of man;
+    Exulting he o'er earth each misery hurled,
     And joyed to drench in tears and blood, the world.
 
-   "Myriads of beings wretched he has made 
-    By desolating war, his favourite trade, 
-    Who, robbed of friends and dearest ties, are left 
+   "Myriads of beings wretched he has made
+    By desolating war, his favourite trade,
+    Who, robbed of friends and dearest ties, are left
     Of every hope and happiness bereft.
 
-   "In private life made up of fuss and pride, 
-    Not e 'en his vices leaned to virtue's side; 
-    Unsound, corrupt, and rotten at the core, 
-    His cold and scoundrel heart was black all o'er; 
-    Nor did one passion ever move his mind 
+   "In private life made up of fuss and pride,
+    Not e 'en his vices leaned to virtue's side;
+    Unsound, corrupt, and rotten at the core,
+    His cold and scoundrel heart was black all o'er;
+    Nor did one passion ever move his mind
     That bent towards the tender, warm, and kind.
 
-   "Tyrant, and friend to war! we hail the day 
-    When Death, to bless mankind, made thee his prey, 
-    And rid the earth of all could earth disgrace, 
+   "Tyrant, and friend to war! we hail the day
+    When Death, to bless mankind, made thee his prey,
+    And rid the earth of all could earth disgrace,
     The foulest, bloodiest scourge of man's oppressed race."
 
    19.  Paine found warm welcome in the home of Achille Duchatelet, who with
@@ -11673,8 +11673,8 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    say that if you can make it convenient to dine with him and me at Auteuil,
    he will with pleasure do the office of (p.xv) interpreter. I send this
    letter by my servant, but as it may not be convenient to you to give an
-   answer directly, I have told him not to wait. 
-    
+   answer directly, I have told him not to wait.
+
 
           THOMAS  PAINE."
 
@@ -11923,8 +11923,8 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    from the chairman of a meeting of the Gentry and Clergy at Atherstone,
    written in consequence of an envious schoolmaster and two or three others
    who informed the meeting that the Excise Officers of Polesworth were
-   employed in distributing the Rights of Man; but which was very false. 
-    
+   employed in distributing the Rights of Man; but which was very false.
+
 
    "SIR:
 
@@ -11935,11 +11935,11 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    (p.63) Mr. Payne's Rights of Man ranks most conspicuous. Were I not
    informed you have taken some pains in spreading that publication, I write
    to say, 'If you don't from this time adopt a different kind of conduct you
-   will be taken notice of in such way as may prove very disagreeable.' 
+   will be taken notice of in such way as may prove very disagreeable.'
    "The Eyes of the Country are upon you and you will do well in future to
    shew yourself faithful to the Master who employs you.
 
-   "I remain, Your Hble. servant, 
+   "I remain, Your Hble. servant,
 
            "(Signed) Jos. Boultbee.
 
@@ -11957,18 +11957,18 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Little Girl, 1792. Written at Calais, on being pursued by cruel
    prosecution and persecution."
 
-   "Farewell, sweet babe! and mayst thou never know, 
-    Like me, the pressure of exceeding woe. 
-    Some griefs (for they are human nature's right) 
-    On life's eventful stage will be thy lot; 
-    Some generous cares to clear thy mental sight, 
-    Some pains, in happiest hours, perhaps, begot; 
-    But mayst thou ne'er be, like thy father, driven 
-    From a loved partner, family, and home, 
-    Snatched from each heart-felt bliss, domestic heaven! 
-    From native shores, and all that's valued, roam. 
-    Oh, may bad governments, the source of human woe, 
-    Ere thou becom'st mature, receive their deadly blow; 
+   "Farewell, sweet babe! and mayst thou never know,
+    Like me, the pressure of exceeding woe.
+    Some griefs (for they are human nature's right)
+    On life's eventful stage will be thy lot;
+    Some generous cares to clear thy mental sight,
+    Some pains, in happiest hours, perhaps, begot;
+    But mayst thou ne'er be, like thy father, driven
+    From a loved partner, family, and home,
+    Snatched from each heart-felt bliss, domestic heaven!
+    From native shores, and all that's valued, roam.
+    Oh, may bad governments, the source of human woe,
+    Ere thou becom'st mature, receive their deadly blow;
     Then mankind's greatest curse thou ne'er wilt know."
 
    36.  Etats Unis. vol. 37. Document 39.
@@ -11985,7 +11985,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    himself recognized as an American Citizen, and thereon liberated . . . The
    Minister of the American States  [Gouverneur Morris] is too shrewd to
    allow such a fish to go over and swim in his waters, if he can prevent it;
-   and avows to Robespierre that he knows nothing of any rights of 
+   and avows to Robespierre that he knows nothing of any rights of
    naturalization claimed by Paine."
 
    Here then is corroboration, were it needed, of the criminal treachery of
@@ -12063,7 +12063,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    remembered it when writing patriotic songs for America in the Revolution,
    - "The Liberty Tree," and the "Boston Patriot's Song," with its lines --
 
-   "Our mountains are crowned with imperial oak, 
+   "Our mountains are crowned with imperial oak,
     Whose roots like our Liberty ages have nourished."
 
    From this high and clear spot one may almost see the homestead of Darwin
@@ -12402,24 +12402,24 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    around the statue of Nature, whose breasts were fountains of water,
    Herault de Sechelles, at that time president, addressed the statue:
 
-   "Sovereign of the savage and of the enlightened nations, 
-    O Nature, this great people, gathered at 
-          the first beam of day before thee, is free! 
-    It is in thy bosom, it is in thy sacred sources, 
-          that it has recovered its rights, 
-    That it has regenerated itself after traversing 
-          so many ages of error and servitude: 
-    It must return to the simplicity of thy ways 
-          to rediscover liberty and equality. 
-    O Nature! receive the expression of the eternal attachment 
-          of the French people for thy laws; 
-    And may the teeming waters gushing from 
-          thy breasts, may this pure beverage 
-    Which refreshed the first human beings, 
-          consecrate is this Cup of Fraternity and Equality 
-    The vows that France makes thee this day, 
-          -- the most beautiful, 
-    That the sun has illumined since it was 
+   "Sovereign of the savage and of the enlightened nations,
+    O Nature, this great people, gathered at
+          the first beam of day before thee, is free!
+    It is in thy bosom, it is in thy sacred sources,
+          that it has recovered its rights,
+    That it has regenerated itself after traversing
+          so many ages of error and servitude:
+    It must return to the simplicity of thy ways
+          to rediscover liberty and equality.
+    O Nature! receive the expression of the eternal attachment
+          of the French people for thy laws;
+    And may the teeming waters gushing from
+          thy breasts, may this pure beverage
+    Which refreshed the first human beings,
+          consecrate is this Cup of Fraternity and Equality
+    The vows that France makes thee this day,
+          -- the most beautiful,
+    That the sun has illumined since it was
            suspended in the immensity of space."
 
    The cup passed around from lip to lip, amid fervent ejaculations. Next.
@@ -12510,7 +12510,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    95.  Soon after Jefferson became President Paine wrote to him, suggesting
    that Sir Robert's firm might be safely depended on as the medium of
-   American financial transactions in Europe. 
+   American financial transactions in Europe.
 
    96.  Carey's edition, Philadelphia; 1996.
 
@@ -12532,7 +12532,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    98.  "Thomas Payne `a la Legislature et an Directoire: ou la justice
    Agraire opposee `a la Loi et aax Privileges Agraires." ["Thomas Payne to
    the Legislature and the Directoriate: or the Agrarian Justice opposed to
-   the Law and on Agrarian Privileges." -- Digital Editor's Translation.] 
+   the Law and on Agrarian Privileges." -- Digital Editor's Translation.]
 
    99.  This loss, mentioned by Paine in a private note, occurred about the
    time when he had devoted the proceeds of his pamphlet on English Finance,
@@ -12556,13 +12556,13 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Pindaes, written originally in a blank leaf of a copy of Paine's 'Age of
    Reason,' and not inserted in any of his works.
 
-   " `Tommy Paine wrote this book to prove that the bible 
-      Was an old woman's dream of fancies most idle; 
-      That Solomon's proverbs were made by low livers, 
-      That prophets were fellows who sang semiquavers; 
-      That religion and miracles all were a jest, 
-      And the devil in torment a tale of the priest. 
-      Though Beelzebub's absence from hell I'll maintain, 
+   " `Tommy Paine wrote this book to prove that the bible
+      Was an old woman's dream of fancies most idle;
+      That Solomon's proverbs were made by low livers,
+      That prophets were fellows who sang semiquavers;
+      That religion and miracles all were a jest,
+      And the devil in torment a tale of the priest.
+      Though Beelzebub's absence from hell I'll maintain,
       Yet we all must allow that the Devil's in Paine.' "
 
    103.         This sudden recall involved Monroe in heavy expenses, which
@@ -12664,7 +12664,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    construction goes to be executed for the first time. With pleasure I
    assure you, Citizen, that you have rights of more than one kind to the
    gratitude of nations, and I give you, cordially, the expression of my
-   particular esteem. 
+   particular esteem.
 
           "CHAPTAL."
 
@@ -12764,7 +12764,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    p.xviii-xix.
 
    119.         "The Snowdrop and Critic," Pennsylvania Magazine, 1779.
-   Couplets are omitted between those given. 
+   Couplets are omitted between those given.
 
    120.         Paine still had faith in Bosville. He was slow in suspecting
    any man who seemed enthusiastic for liberty. In this connection it may be
@@ -12882,7 +12882,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    office of the Aurora." On September 24th that paper publishes a poem about
    Paine, ending:
 
-   "And having spent a lengthy life in evil, 
+   "And having spent a lengthy life in evil,
     Return again unto thy parent Devil!"
 
    Another paragraph says that Franklin hired Paine in London to come to
@@ -12903,9 +12903,9 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    John Pintard. At the end of the publication a poetical tribute to Paine
    was printed. Four of the lines run:
 
-   "Roused by the reason of his manly page, 
-       Once more shall Paine a listening world engage; 
-    From reason's source a bold reform he brings, 
+   "Roused by the reason of his manly page,
+       Once more shall Paine a listening world engage;
+    From reason's source a bold reform he brings,
        By raising up mankind be pulls down kings."
 
    At the great celebration (October 12, 1792) of the third Centenary of the
@@ -13194,9 +13194,9 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    "settled malignity," and suspects "sinister motives" in his "strictures on
    the fruits of unbelief in the degradation of the wretched Paine."
 
-   168.            "On the last day men shall wear 
-                On their heads the dust, 
-             As ensign and as ornament 
+   168.            "On the last day men shall wear
+                On their heads the dust,
+             As ensign and as ornament
                 Of their lowly trust." -- Hafiz.
 
    169.         No sooner was Paine dead than the ghoul sat gloating upon
@@ -13221,7 +13221,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    on him in 1796, when it was supposed he was dead, very correctly describes
    the latter end of his life. He
 
-   "Blasphemes the Almighty, lives in filth like a hog, 
+   "Blasphemes the Almighty, lives in filth like a hog,
     Is abandoned in death and interr' d like a dog."
 
    The object of this letter was to obtain from Rush, for publication, some
@@ -13261,20 +13261,20 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    over Paine, exclaiming, "Oh you ugly drunken beast!" The Rev. John Mason
    (Presbyterian) stamps on Paine, exclaiming,
 
-   "Ah, Tom! Tom! thou'lt get thy frying in hell; 
-       they'll roast thee like a herring." 
-    They'll put thee in the furnace hot, 
-        And on thee bar the door: 
-    How the devils all will laugh 
+   "Ah, Tom! Tom! thou'lt get thy frying in hell;
+       they'll roast thee like a herring."
+    They'll put thee in the furnace hot,
+        And on thee bar the door:
+    How the devils all will laugh
         To hear thee burst and roar!"
 
    The Rev. Dr. Livingston kicks at Paine's head, exclaiming, "How are the
    mighty fallen, Right folde-riddle-lol!" Bishop Hobart kicks the feet,
    singing:
 
-   "Right fol-de-rol, let's dance and sing, 
-       Tom is dead, God save the king 
-    The infidel now low doth lie 
+   "Right fol-de-rol, let's dance and sing,
+       Tom is dead, God save the king
+    The infidel now low doth lie
        Sing Hallelujah-hallelujah!"
 
    A Quaker turns away with a shovel, saying, "I'll not bury thee."
@@ -13289,9 +13289,9 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Paine to recant and yet be damned. This honor belies the indifference
    expressed in the rune taught children sixty years ago:
 
-   "Poor Tom Paine! there he lies 
-    Nobody laughs and nobody cries: 
-    Where he has gone or how he fares, 
+   "Poor Tom Paine! there he lies
+    Nobody laughs and nobody cries:
+    Where he has gone or how he fares,
     Nobody knows and nobody cares!"
 
    173.         I have before me an old fly-leaf picture, issued by Carlile
@@ -13306,8 +13306,8 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    the mirror of Truth, in the other his "Age of Reason." There are ten
    stanzas describing the conflict, Superstition being described as holding:
 
-                  "in vassalage a doating World, 
-   Till Paine and Reason burst upon the mind, 
+                  "in vassalage a doating World,
+   Till Paine and Reason burst upon the mind,
    And Truth and Deism their flag unfurled,"
 
    174.         "Whence is any right derived, but that which power confers,
@@ -13408,7 +13408,3 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Commoner of Mankind, founder of the Republic of the World, and emancipator
    of the human mind and heart, THOMAS  PAINE. -- Conway, The Writings of
    Thomas Paine, vol. iv, Introduction, p.xxi-xxiii.
-
-    
-
-    

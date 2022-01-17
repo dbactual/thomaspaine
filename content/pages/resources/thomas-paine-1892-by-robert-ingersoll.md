@@ -1,6 +1,6 @@
+---
 Title: Thomas Paine (1892) by Robert Ingersoll
-Slug: aboutpaine/thomas-paine-1892-by-robert-ingersoll
-Date: Mon Aug  4 09:08:53 EDT 2014
+---
 
                                   Thomas Paine
 

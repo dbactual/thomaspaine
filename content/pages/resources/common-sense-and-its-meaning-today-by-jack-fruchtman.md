@@ -1,10 +1,10 @@
+---
 Title: 'Common Sense' and its Meaning Today by Jack Fruchtman
-Slug: aboutpaine/common-sense-and-its-meaning-today-by-jack-fruchtman
-Date: Mon Aug  4 09:08:51 EDT 2014
+---
 
    by Jack Fruchtman Jr., Towson University
 
-    
+
 
    Prepared for Delivery to the Thomas Paine National Historical Association
    and the Thomas Paine Foundation, Philadelphia, Pa,, January 26, 2001
@@ -51,8 +51,8 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    while Paine did not use it. He would have, had he known it. A knight was
    riding through a forest one day when he came upon an arrow right in the
    middle of bull's eye in a tree. Since this was not particularly unusual,
-   he didn't think much of it, but he became increasingly astounded when he 
-   came across several of them. They must have numbered ten or fifteen, and 
+   he didn't think much of it, but he became increasingly astounded when he
+   came across several of them. They must have numbered ten or fifteen, and
    each arrow was perfectly centered in the bull's eye. At last the knight came
    upon a young boy with a bow and arrow, and so he asked the lad whether he
    had been the one who had shot all those arrows. The boy answered, yes, it
@@ -369,18 +369,18 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    trucking and oil industry has demanded the Bush administration relax, if
    not terminate, the strict clean air regulations the Clinton administration
    put in effect last year.36 And who has the president nominated to become
-   the new Secretary of the Interiror, but none other than the chief 
-   non-regulator of the environment, Gail Norton, whose years as Attorney 
-   General of Colorado saw industry get away with just about anything and 
-   everything it desired. There is probably no law enforcement in America, 
-   past or present, who sought to undo the Endangered Species Act  as much 
+   the new Secretary of the Interiror, but none other than the chief
+   non-regulator of the environment, Gail Norton, whose years as Attorney
+   General of Colorado saw industry get away with just about anything and
+   everything it desired. There is probably no law enforcement in America,
+   past or present, who sought to undo the Endangered Species Act  as much
    as she did while in Colorado. She would be expected to do as much  as a
    protege of James Watt, who had been her boss at the Mountain States
    Legal Foundation, which sought to give industry a larger, if not complete,
    say over the disposition of public lands. Like John Ashcroft, however, she
    promised to enforce the very laws she opposed for so many years. Again, so
    much for principle.
-   
+
    I could go on and on, but I won't bore you with what I think you
    already know, even if you disagree with some of my observations. I will
    conclude by saying why I think Philadelphia should honor Thomas Paine.
@@ -395,13 +395,13 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    arrived on these shores. But just as Philadelphia and Franklin are so
    uniquely united in the imagination of most people so are Philadelphia and
    Paine. (And don't forget that Franklin was born in Boston and went to
-   Philadelphia when he was seventeen.) Philadelphia without Paine is, to me, 
+   Philadelphia when he was seventeen.) Philadelphia without Paine is, to me,
    a hand without fingers: useless and ugly. I hope that the city
    honors him, and soon. Thanks for having me here tonight, and thanks so
    much for listening. I'll be happy to take questions.
-    
+
    Footnotes
-    
+
    1.    Many of the ideas in this presentation were first published in
    Jack Fruchtman Jr., Thomas Paine and the Religion of Nature (Baltimore:
    Johns Hopkins University Press, 1993), chpt. two.
@@ -512,4 +512,3 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    Rules", in The New York Times,25 January 2001A 20.
    37. H. W. Brands, The First American:The Life and Times of Benjamin
    Franklin (New York: Doubleday, 2000).
-    

@@ -1,6 +1,6 @@
+---
 Title: Sonnet by Clio Rickman
-Slug: aboutpaine/sonnet-by-clio-rickman
-Date: Mon Aug  4 09:08:53 EDT 2014
+---
 
                                      Sonnet
 
@@ -12,11 +12,11 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
                        The purest wisdom marks thy manly page;
 
-               `Tis thine to purge from filth the mental site,  
+               `Tis thine to purge from filth the mental site,
 
                       `Tis thine to renovate and bless the age.
 
-                                        
+
 
                    To valued naught but what is truly great,
 
@@ -26,7 +26,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
                    Not look with reverence but to Virtue's throne.
 
-                                        
+
 
                  These are the sentiments that fire thy breast
 
@@ -36,10 +36,8 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
                        And model governments in Heaven's plan.
 
-                                        
+
 
                   So shall man's soul towards its maker rise,
 
              And truth shall take the place of prejudice and lies.
-
-    

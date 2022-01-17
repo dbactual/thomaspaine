@@ -1,12 +1,12 @@
+---
 Title: Burying Thomas Paine
-Slug: aboutpaine/burying-thomas-paine
-Date: Sun Jan  11 09:08:51 EDT 2015
+---
 
 
 **A critique of J.C.D. Clark's article, "Thomas Paine: The English Dimension" (an essay in the *Selected Writings of Thomas Paine*, Shapiro and Calvert, eds., Yale U. Press, 2014)**
 
-By Gary Berton  
-Secretary, Thomas Paine National Historical Association  
+By Gary Berton
+Secretary, Thomas Paine National Historical Association
 Coordinator, Institute for Thomas Paine Studies (Iona College)
 
 
@@ -239,7 +239,7 @@ of Government* would have shown him the falsity of his statement:
    property or rights, uses that pecuniary property as he would use
    fire-arms, and merits to have it taken from him."
 
-  
+
 
 > "Whenever it be made an article of a constitution, or a law, that
    the right of voting, or of electing and being elected, shall
@@ -351,17 +351,17 @@ after Paine’s lifetime."  If Clark had properly studied Paine, he
 would have noticed a letter in 1778 to Henry Laurens:
 
 > To Henry Laurens Spring 1778
-> 
+>
 > As we are forming government on a new system, that of representation I will give you my thoughts on the various classes and merits of men in society so far as relates to each other.
-> 
+>
 > The first useful class of citizens are the farmers and cultivators. These may be called citizens of the first necessity, because every thing comes originally from the earth.
-> 
+>
 > After these follow the various orders of manufacturers and mechanics of every kind. These differ from the first class in this particular, that they contribute to the accommodation rather than to the first necessities of life.
-> 
+>
 > Next follow those called merchants and shopkeepers. These are convenient but not important. They produce nothing themselves as the two first classes do, but employ their time in exchanging one thing for another and living by the profits.
-> 
+>
 > Perhaps you will say that in this classification of citizens I have marked no place for myself; that I am neither farmer, mechanic, merchant nor shopkeeper. I believe, however, I am of the first class. I am a farmer of thoughts, and all the crops I raise I give away. I please myself with making you a present of the thoughts in this letter.
-> 
+>
 > THOMAS PAINE.
 
 And as a "farmer of thoughts" he was no failure.
@@ -542,8 +542,8 @@ already mentioned:
 
 * "Although Paine protested against the cruelty and misconduct of governments, especially in their colonies, he never systematized these critiques to protest against 'imperialism' or 'colonialism', concepts that derived from the economic theory of the late nineteenth century."  Again, because Paine didn’t use the term 'colonialism' his opposition to British plunder and rule doesn't count because he did not systematize it, as if America was not a colony. Paine stood in the middle of the first great anti-colonial struggle, yet Clark cannot find a link to more modern forms of colonialism.
 
-* *Rights of Man* "contained no worked out theory of natural rights".  
-  From *Rights of Man*:  
+* *Rights of Man* "contained no worked out theory of natural rights".
+  From *Rights of Man*:
   > "Every history of the Creation, and every traditionary account,
     whether from the lettered or unlettered world, however they may
     vary in their opinion or belief of certain particulars, all agree
@@ -556,33 +556,33 @@ already mentioned:
     considered as deriving its existence from God. The world is as new
     to him as it was to the first man that existed, and his natural
     right in it is of the same kind."
-    
+
   And:
-  
+
   > "Hitherto we have spoken only (and that but in part) of the natural rights of man.  We have now to consider the civil rights of man, and to show how the one originates from  the other. Man did not enter into society to become worse than he was before, nor to have  fewer rights than he had before, but to have those rights better secured. His natural   rights are the foundation of all his civil rights. But in order to pursue this distinction with  more precision, it is necessary to make the different qualities of natural and civil rights.
-  >  
+  >
   > A few words will explain this. Natural rights are those which apper tain to man in right  of his existence. Of this kind are all the intellectual  rights, or rights of the mind, and also  all those rights of acting as an individual for his own comfort and happiness, which are  not injurious to the natural rights of others. Civil rights are those which appertain to man in right of his being a member of society.
-  >  
+  >
   > Every civil right has for its foundation some natural right pre-existing in the individual,  but to the enjoyment of which his individual power is not, in all cases, sufficiently  competent. Of this kind are all those which relate to security and protection.
-  >  
+  >
   > From this short review, it will be easy to distinguish between that class of natural rights  which man retains after entering into society, and those which he throws into the  common stock as a member of society.
-  >  
+  >
   > The natural rights which he retains, are all those in which the power to execute is as  perfect in the individual as the right itself. Among this class, as is before mentioned, are  all the intellectual rights, or rights of the mind: consequently, religion is one of those  rights.
-  >  
+  >
   > The natural rights which are not retained, are all those in which, though the right is  perfect in the individual, the power to execute them is defective. They answer not his  purpose. A man, by natural right, has a right to judge in his own cause; and so far as the  right of the mind is concerned, he never surrenders it: but what availeth it him to judge, if he has not power to redress ? He therefore deposits his right in the common stock of society, and takes the arm of society, of which he is a part, in preference and in addition  to his own. Society grants him nothing.
-  >  
+  >
   > Every man is proprietor in society, and draws on the capital as a matter of right. From  these premises, two or three certain conclusions will follow.
-  >  
+  >
   > First, That every civil right grows out of a natural right; or, in other words, is a natural  right exchanged.
-  >  
+  >
   > Secondly, That civil power, properly considered as such, is made up of the aggregate of  that class of the natural rights of man, which becomes defective in the individual in point of power, and answers not his purpose, but when collected to a focus, becomes competent to the purpose of every one.
-  >  
+  >
   > Thirdly, That the power produced from the aggregate of natural rights, imperfect in power in the individual, cannot be applied to invade the natural rights which are retained in the individual, and in which the power to execute is as perfect as the right itself.
-  >  
+  >
   > We have now, in a few words, traced man from a natural individual  to a member of  society, and shown, or endeavored to show, the quality of the natural rights retained, and  those which are exchanged for civil rights. Let us now apply those principles to governments."
   >
-  
-  This seems like a worked out theory of natural rights far beyond the 1750 English political discussions of Paine's youth.  
+
+  This seems like a worked out theory of natural rights far beyond the 1750 English political discussions of Paine's youth.
 
 * Clark even questions Paine's legacy in freethought: "Only in the history of English freethinking did Paine enjoy a posthumous prominence; but freethinking was to lead via agnosticism to atheism, positions that the deist Paine had repudiated." Clark fails to see the legacy that Paine has in the freethought movement is his stance against organized religion. The Age of Reason still inspires new freethinkers and remains the enchiridion of freethought.
 
@@ -600,11 +600,11 @@ And there are dozens of other poorly supported statements, easily refuted:
 
 * Clark speaks of a passage in *Rights of Man* where Paine uses an account from Lafayette, describing it as "awkwardly inserted" and Paine "unknowingly swallowed" the "self-serving" account.
 
-* After 1802 on Paine's return to America, "Paine persisted in a lurid binary view of American party politics, a view still indebted to the English polarity that dated from the Exclusion Crisis of the 1680s." The binary view was the struggle between two ideologies, Federalism and Republicanism, being fought out in America. To stretch that back to the Exclusion Crisis is creative, although myopic. 
+* After 1802 on Paine's return to America, "Paine persisted in a lurid binary view of American party politics, a view still indebted to the English polarity that dated from the Exclusion Crisis of the 1680s." The binary view was the struggle between two ideologies, Federalism and Republicanism, being fought out in America. To stretch that back to the Exclusion Crisis is creative, although myopic.
 
 * "Two revolutions had made little difference to his core beliefs; although he extrapolated those beliefs in a few areas, he seldom did so logically or systematically."
 
-* "...he became open to the idea of bicameral assemblies, although this again echoed the Westminster model rather than the new American states." It echoed neither because his openness was not to bicameralism, as in Lords and Senates, but to having assemblies debate separately and come together afterwards to pass laws. Paine objected strenuously to the idea of a House of Lords or a Senate, and said so consistently. 
+* "...he became open to the idea of bicameral assemblies, although this again echoed the Westminster model rather than the new American states." It echoed neither because his openness was not to bicameralism, as in Lords and Senates, but to having assemblies debate separately and come together afterwards to pass laws. Paine objected strenuously to the idea of a House of Lords or a Senate, and said so consistently.
 
 * "...his celebrity in his lifetime is more difficult to explain". Only in Clark's world is this easy to imagine.
 

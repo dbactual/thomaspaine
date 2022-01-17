@@ -1,6 +1,6 @@
+---
 Title: Is it true that Thomas Paine first coined the phrase, "The United States of America?"
-Slug: aboutpaine/is-it-true-that-thomas-paine-first-coined-the-phrase-the-united-states-of-america
-Date: Mon Aug  4 09:08:51 EDT 2014
+---
 
    Yes. Previously it was claimed that American Crisis III was the
    source of this name. There are at least two private letters who

@@ -1,6 +1,6 @@
+---
 Title: What was Thomas Paine's stance on Women's Rights?
-Slug: aboutpaine/what-was-thomas-paine-s-stance-on-women-s-rights
-Date: Mon Aug  4 09:08:57 EDT 2014
+---
 
    Paine was a strong advocate for women's equal rights, but he did not
    promote it publicly. His early writings reflect sympathy for women's
@@ -11,4 +11,4 @@ Date: Mon Aug  4 09:08:57 EDT 2014
    movement in the 18th century which tried to rally the working men towards
    revolutionary change, and many, including Paine, held personal beliefs in
    favor of women's equality, but feared it would sidetrack the main thrust
-   of changing governmental structures. 
+   of changing governmental structures.

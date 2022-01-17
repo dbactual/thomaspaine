@@ -1,6 +1,6 @@
+---
 Title: Walt Whitman on Thomas Paine
-Slug: aboutpaine/walt-whitman-on-thomas-paine
-Date: Mon Aug  4 09:08:56 EDT 2014
+---
 
                    In Memory of Thomas Paine by Walt Whitman
 
@@ -37,7 +37,7 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    mentally, morally and emotionally gauged the author of "Common Sense," and
    besides giving me a good portrait of his appearance and manners, had taken
    the true measure of his interior
-   character.                                                                                                                                                    
+   character.
    1
 
    Paine's practical demeanor, and much of his theoretical belief, was a
@@ -54,7 +54,7 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    human rights-and the severance of its government from all ecclesiastical
    and superstitious dominion-I dare not say how much of all this is owing to
    Thomas Paine, but I am inclined to think a good portion of it decidedly
-   is.                                                                                                                                                    
+   is.
    2
 
    But I was not going either into an analysis or eulogium of the man. I
@@ -78,7 +78,7 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    need be, that she fail not to dissipate what clouds have intruded on that
    fame, and burnish it newer, truer and brighter, continually.
 
-                                                                                                                                                       
+
 
                  WITH WALT WHITMAN IN CAMDEN by Horace Traubel
 

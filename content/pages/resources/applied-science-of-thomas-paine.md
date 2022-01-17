@@ -1,7 +1,6 @@
+---
 Title: Applied Science of Thomas Paine
-Slug: aboutpaine/applied-science-of-thomas-paine
-Date: Fri Jun  26 09:08:51 EDT 2020
-
+---
 *Applied Science of Thomas Paine, Inventor of the United States of America, in the Physical and Organizational Domains*
 
 Albert DiCanzio
@@ -77,7 +76,7 @@ blossomed in physics, yet remained unapplied to the social *domain until the the
 and re-form under a declaration of rights, a constitution, and a vacuum of royalty.  In 1787, he acknowledged the incompleteness of the American Revolution.(9) Though
 a second outcome awaited its completion, Paine initially transposed Newtonian momentum to the social domain. Incomplete because it opposed only the most visible
 slavery, yet this transposition promoted life with liberty and respect for individual property. Inadvertently, 125 years later another inventor elaborated on what
-Paine had done. The functional relationship of Thomas Paine to Nikola Tesla first came to mind in research of mine aimed at grounding organizational dynamics in the 
+Paine had done. The functional relationship of Thomas Paine to Nikola Tesla first came to mind in research of mine aimed at grounding organizational dynamics in the
 physical dynamics of Galileo.(10)
 
 Tesla, inventor of polyphase alternating current power distribution, in 1900 modeled a human as "a mass urged on by a force".(11)   Human energy he thought measurable
