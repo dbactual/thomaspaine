@@ -194,6 +194,16 @@ output/works/%.html: content/works/%.md templates/*
 	  --template templates/page.tmpl \
 	  -o $@
 
+output/pages/resources/%.html: content/pages/resources/%.md templates/*
+	@echo "resources -> $@"
+	@mkdir -p "$(@D)"
+	@${pandoc} ${PANDOC_ARGS} \
+	  --variable SITEURL=${SITEURL} \
+	  --variable ENABLE_BREADCRUMB_RESOURCES=true \
+	  -f markdown $< \
+	  --template templates/page.tmpl \
+	  -o $@
+
 output/pages/%.html: content/pages/%.md templates/*
 	@echo "pages -> $@"
 	@mkdir -p "$(@D)"

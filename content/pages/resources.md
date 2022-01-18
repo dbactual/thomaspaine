@@ -59,7 +59,8 @@ Recommended {#recom}
 Bios {#bios}
 ----
 
-- [Life of Thomas Paine, Vol. II by Moncure Conway](/resources/life-of-thomas-paine-vol-ii-by-moncure-conway.html)
+- [Life of Paine by William James Linton](/pages/resources/lintons-life-of-Paine.html)
+- [Life of Thomas Paine, Vol. II by Moncure Conway](/pages/resources/life-of-thomas-paine-vol-ii-by-moncure-conway.html)
 - [Life of Thomas Paine, Vol. I, by Moncure Conway](/pages/resources/life-of-thomas-paine-by-moncure-conway.html)
 - [Life of Thomas Paine by G. Vale](/pages/resources/life-of-thomas-paine-by-g-vale.html)
 - [The Cobbett Papers, ed. by Conway](/pages/resources/the-cobbett-papers-ed-by-conway.html)
