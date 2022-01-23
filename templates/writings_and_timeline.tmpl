@@ -1,7 +1,4 @@
----
-title: Writings & Timeline
----
-
+${header.html()}
 
 <section>
   <aside>
@@ -9,10 +6,12 @@ title: Writings & Timeline
   </aside>
   <aside>
       <h3>Writings</h3>
-      <!--#include virtual="/pages/writings_index.html" -->
+      ${writings_index.html()}
   </aside>
   <aside>
       <h3>Timeline</h3>
-      <!--#include virtual="/pages/timeline_index.html" -->
+      ${timeline_index.html()}
   </aside>
 </section>
+
+${footer.html()}

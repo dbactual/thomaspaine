@@ -1,0 +1,205 @@
+version: '3'
+
+vars:
+  PANDOC_ARGS: --ascii --fail-if-warnings
+  SITEURL: https://thomaspaine.org
+
+tasks:
+  default:
+    cmds:
+      - task: images
+      - task: css
+      - task: output-header-footer
+      - task: output-index
+      - task: output-writings-and-timeline
+      - task: output-works
+      - task: output-resources
+      - task: output-pages
+
+  clean:
+    cmds:
+      - |
+        rm -f gen/*
+        rm -f templates/writings_index.html templates/timeline_index.html
+        rm -rf output/*
+
+  gen:
+    run: once
+    cmds:
+      - mkdir -p gen/ output/css output/images output/pages
+      - script/gen-timeline.sh
+    sources:
+      - content/**/*.md
+    generates:
+      - gen/writings_index.md
+      - gen/timeline_index.md
+
+  build-indices:
+    deps: [gen]
+    cmds:
+      - |
+        for f in writings_index timeline_index; do
+          pandoc {{.PANDOC_ARGS}} -f markdown gen/$f.md --template templates/partial.tmpl -o templates/$f.html
+        done
+    sources:
+      - gen/**/*.md
+    generates:
+      - templates/writings_index.html
+      - templates/timeline_index.html
+
+  images:
+    deps: [gen]
+    cmds:
+      - cp content/images/* output/images/
+      - cp content/images/favicon.ico output/
+    sources:
+      - content/images/*
+    generates:
+      - output/images/*
+      - output/favicon.ico
+
+  css:
+    deps: [gen]
+    cmds:
+      - cp content/css/* output/css/
+    sources:
+      - content/css/*
+    generates:
+      - output/css/*
+
+  output-header-footer:
+    deps:
+      - gen
+    cmds:
+      - cp templates/header.html output/
+      - cp templates/footer.html output/
+    sources:
+      - templates/header.html
+      - templates/footer.html
+    generates:
+      - output/header.html
+      - output/footer.html
+
+  output-index:
+    deps:
+      - build-indices
+    cmds:
+      - |
+        pandoc {{.PANDOC_ARGS}} -f markdown \
+          content/index.md  \
+          --template templates/index.tmpl \
+          --variable SITEURL={{.SITEURL}} \
+          --variable ENABLE_BREADCRUMB_HOME=true \
+          -o output/index.html
+    sources:
+      - templates/*
+      - content/**/*.md
+    generates:
+      - output/index.html
+
+  output-writings-and-timeline:
+    deps:
+      - build-indices
+    cmds:
+      - |
+        pandoc {{.PANDOC_ARGS}} -f markdown \
+          content/writings_and_timeline.md  \
+          --template templates/writings_and_timeline.tmpl \
+          --variable SITEURL={{.SITEURL}} \
+          --variable ENABLE_BREADCRUMB_WRITINGS_AND_TIMELINE=true \
+          -o output/writings_and_timeline.html
+
+        pandoc {{.PANDOC_ARGS}} -f markdown \
+          gen/writings.md  \
+          --template templates/page.tmpl \
+          --variable SITEURL={{.SITEURL}} \
+          --variable ENABLE_BREADCRUMB_WRITINGS_AND_TIMELINE=true \
+          -o output/writings.html
+
+        pandoc {{.PANDOC_ARGS}} -f markdown \
+          gen/timeline.md  \
+          --template templates/page.tmpl \
+          --variable SITEURL={{.SITEURL}} \
+          --variable ENABLE_BREADCRUMB_WRITINGS_AND_TIMELINE=true \
+          -o output/timeline.html
+
+    sources:
+      - templates/*
+      - content/**/*.md
+    generates:
+      - output/writings_and_timeline.html
+      - output/writings.html
+      - output/timeline.html
+
+  output-works:
+    cmds:
+      - |
+        for i in $(find content/works -type f -name "*.md"); do
+          o=$(echo $i | sed 's/content\//output\//g; s/md/html/g;')
+          mkdir -p $(dirname ${o})
+          echo "works -> ${o}"
+          pandoc {{.PANDOC_ARGS}} -f markdown \
+            ${i}  \
+            --template templates/page.tmpl \
+            --variable SITEURL={{.SITEURL}} \
+            --variable ENABLE_BREADCRUMB_WRITINGS_AND_TIMELINE=true \
+            -o ${o}
+        done
+    sources:
+      - templates/*
+      - content/works/**/*.md
+    generates:
+      - output/works/**/*.html
+
+  output-resources:
+    cmds:
+      - |
+        for i in $(find content/pages/resources -type f -name "*.md"); do
+          o=$(echo $i | sed 's/content\//output\//g; s/md/html/g;')
+          mkdir -p $(dirname ${o})
+          echo "resources -> ${o}"
+          pandoc {{.PANDOC_ARGS}} -f markdown \
+            ${i}  \
+            --template templates/page.tmpl \
+            --variable SITEURL={{.SITEURL}} \
+            --variable ENABLE_BREADCRUMB_RESOURCES=true \
+            -o ${o}
+        done
+    sources:
+      - templates/*
+      - content/pages/resources/**/*.md
+    generates:
+      - output/pages/resources/**/*.html
+
+  output-pages:
+    cmds:
+      - |
+        for i in $(find content/pages -maxdepth 1 -type f -name "*.md"); do
+          o=$(echo $i | sed 's/content\//output\//g; s/md/html/g;')
+          mkdir -p $(dirname ${o})
+          BREADCRUMB=
+          case ${o} in
+          *collected-works-project*)
+            BREADCRUMB=COLLECTED_WORKS;;
+          *donate*)
+            BREADCRUMB=DONATE;;
+          *membership*)
+            BREADCRUMB=MEMBERSHIP;;
+          *about-us*|*history*)
+            BREADCRUMB=ABOUT;;
+          *resources*)
+            BREADCRUMB=RESOURCES;;
+          esac
+          echo "pages (${BREADCRUMB}) -> ${o}"
+          pandoc {{.PANDOC_ARGS}} -f markdown \
+            ${i}  \
+            --template templates/page.tmpl \
+            --variable SITEURL={{.SITEURL}} \
+            --variable ENABLE_BREADCRUMB_${BREADCRUMB}=true \
+            -o ${o}
+        done
+    sources:
+      - templates/*
+      - content/pages/*
+    generates:
+      - output/pages/*.html

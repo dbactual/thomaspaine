@@ -13,7 +13,7 @@ philosophy, politics, literature and history.
 The Institute has developed methods of author attribution using
 software and statistical analysis. The Project seeks to properly
 attribute works of Paine, and de-attribute falsely attributed
-works. The results as we post them can be followed under [“Writings”](/pages/writings.html) on
+works. The results as we post them can be followed under [“Writings”](/writings.html) on
 this site, where there are “Newly discovered” and “Deattributed”
 categories. For further information please contact us.
 
