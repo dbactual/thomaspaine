@@ -17,7 +17,7 @@ OLDIFS=$IFS
 
 function get_headers() {
     IFS=$'\n'
-    for a in $(grep -r "^PubDate: " content | awk 'BEGIN{FS=":"} {print $1 $3}' | sort -k2); do
+    for a in $(grep -r "$1" content | awk 'BEGIN{FS=":"} {print $1 $3}' | sort -k2); do
         IFS=$OLDIFS b=( $a )
         F=${b[0]}
         F=${F/.md/.html} # fix file extension
@@ -61,7 +61,7 @@ while read -r a; do
     F=${b[0]}
     TITLE=${b[@]:1}
     TITLE=${TITLE//\"/}
-    TITLE=${TITLE//\'/}
+    #TITLE=${TITLE//\'/}
     TITLES[$F]=$TITLE
 done  < <(get_headers "^title: " content)
 
@@ -129,7 +129,7 @@ function make_title() {
 }
 
 WORKS_DIR=content/works
-CATEGORIES=( 'major-works' 'essays' 'letters' 'works-removed-from-the-paine-cannon' 'recently-discovered' )
+CATEGORIES=( 'major-works' 'essays' 'letters' 'works-removed-from-the-paine-canon' 'recently-discovered' )
 
 excludes=( )
 for C in ${CATEGORIES[@]}; do
@@ -198,7 +198,7 @@ for key in ${CATEGORIES[@]}; do
         F=${F/content/} # remove path prefix
         TITLE=${b[@]:1}
         TITLE=${TITLE//\"/}
-        TITLE=${TITLE//\'/}
+        #TITLE=${TITLE//\'/}
         echo " ${F}: ${TITLE}"
         echo "<li><a href=\"${F}\">${TITLE}</a></li>" >> ${WRITINGS_FILE}
     done
@@ -217,7 +217,7 @@ for key in ${CATEGORIES[@]}; do
             F=${F/content/} # remove path prefix
             TITLE=${b[@]:1}
             TITLE=${TITLE//\"/}
-            TITLE=${TITLE//\'/}
+            #TITLE=${TITLE//\'/}
             echo " ${F}: ${TITLE}"
             echo "<li><a href=\"${F}\">${TITLE}</a></li>" >> ${WRITINGS_FILE}
         done
