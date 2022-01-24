@@ -172,7 +172,7 @@ title: Writings
 <p>
 EOM
 
-output_works_index ${WRITINGS_INDEX_FILE}
+output_works_index ${WRITINGS_FILE}
 
 cat >> ${WRITINGS_FILE} <<- EOM
 </p>
