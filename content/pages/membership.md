@@ -21,7 +21,7 @@ but we have different memberships at present. If interested in one, you should s
 
 <section>
 <div>
-<form action="/cgi-bin/mem" method="post">
+<form action="/cgi-bin/mem.cgi" method="post">
   <h3>Sign Up For Annual Membership</h3>
   <p>
     Your information is confidential, and you will only be contacted with information on events and news pertaining to the TPNHA.

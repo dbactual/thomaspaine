@@ -18,7 +18,6 @@ def highlight(search_term, txt):
 
 def validate_input(term):
     if re.search(r"[^a-zA-Z0-9._@\-\ ]", term):
-        output_file('header.html')
         print('Please limit input to alphanumeric characters')
-        output_file('footer.html')
-        sys.exit()
+        return False
+    return True

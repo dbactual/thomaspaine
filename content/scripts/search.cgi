@@ -24,7 +24,8 @@ def format_path(path):
 def get_search_term():
     form = cgi.FieldStorage()
     term = escape(form.getvalue('term', ''))
-    utils.validate_input(term)
+    if not utils.validate_input(term):
+        return ''
     return term.replace(' ', '.')
 
 
@@ -59,7 +60,7 @@ def search(term):
                 print('<ul>')
             print(f'<li>...{utils.highlight(term, txt)}...</li>')
         utils.output_file('footer.html')
-    except:
+    except Exception:
         import traceback
         print(traceback.format_exc())
         print("Unable to search!")

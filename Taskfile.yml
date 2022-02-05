@@ -71,9 +71,10 @@ tasks:
   scripts:
     deps: [gen]
     cmds:
-      - cp content/scripts/* output/cgi-bin/
+      - cp content/scripts/*.cgi content/scripts/*.py output/cgi-bin/
     sources:
-      - content/scripts/*
+      - content/scripts/*.cgi
+      - content/scripts/*.py
     generates:
       - output/cgi-bin/*
 
