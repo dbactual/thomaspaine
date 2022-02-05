@@ -15,7 +15,7 @@
 
       <aside>
         <h4>Search</h4>
-        <form method="get" action="/cgi-bin/search">
+        <form method="get" action="/cgi-bin/search.cgi">
           <input type="text" name="term" size=31 maxlength=255 value="">
           <button type="submit" name="sa" value="Search">
           <svg class="gem-c-search__icon" width="27" height="27" viewBox="0 0 27 27" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
@@ -28,7 +28,7 @@
 
       <aside>
         <h4>Join the mailing list</h4>
-        <form action="{{ SITEURL }}/cgi-bin/ml" method="post">
+        <form action="/cgi-bin/ml.cgi" method="post">
           <input placeholder="you@address.com" name="em" type="text" size=31 maxlength=255 value="">
           <button alt="Join" name="submit">Join</button>
         </form>
@@ -88,7 +88,7 @@
         |
         <a href="https://pandoc.org/">Powered by pandoc</a>
         |
-        <a href="https://github.com">Site code is available</a>
+        <a href="https://github.com/dbactual/thomaspaine">Site code is available</a>
       </aside>
     </section>
   </main>

@@ -9,6 +9,7 @@ tasks:
     cmds:
       - task: images
       - task: css
+      - task: scripts
       - task: output-header-footer
       - task: output-index
       - task: output-writings-and-timeline
@@ -26,7 +27,7 @@ tasks:
   gen:
     run: once
     cmds:
-      - mkdir -p gen/ output/css output/images output/pages
+      - mkdir -p gen/ output/css output/images output/pages output/cgi-bin
       - script/gen-timeline.sh
     sources:
       - content/**/*.md
@@ -66,6 +67,16 @@ tasks:
       - content/css/*
     generates:
       - output/css/*
+
+  scripts:
+    deps: [gen]
+    cmds:
+      - cp content/scripts/*.cgi content/scripts/*.py output/cgi-bin/
+    sources:
+      - content/scripts/*.cgi
+      - content/scripts/*.py
+    generates:
+      - output/cgi-bin/*
 
   output-header-footer:
     deps:
