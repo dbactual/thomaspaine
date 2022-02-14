@@ -27,7 +27,7 @@ tasks:
   gen:
     run: once
     cmds:
-      - mkdir -p gen/ output/css output/images output/pages output/cgi-bin
+      - mkdir -p gen/ output/css output/images output/pages
       - script/gen-timeline.sh
     sources:
       - content/**/*.md
@@ -76,7 +76,8 @@ tasks:
       - content/scripts/*.cgi
       - content/scripts/*.py
     generates:
-      - output/cgi-bin/*
+      - output/cgi-bin/*.cgi
+      - output/cgi-bin/*.py
 
   output-header-footer:
     deps:
