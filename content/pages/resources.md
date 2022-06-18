@@ -2,21 +2,12 @@
 title: Resources
 ---
 
-<section style="margin-top: 36px">
-  <aside>
-      <img src="/images/thomaspaine-3.png"/>
-  </aside>
-  <aside>
-    <div id="jumpstrip" markdown="1">
 + [Links](#links)
 + [Videos](#videos)
 + [Recommended](#recom)
 + [Bios](#bios)
 + [Essays](#essays)
 + [FAQs](#faqs)
-    </div>
-  </aside>
-</section>
 
 <hr/>
 

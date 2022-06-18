@@ -154,6 +154,7 @@ tasks:
             --template templates/page.tmpl \
             --variable SITEURL={{.SITEURL}} \
             --variable ENABLE_BREADCRUMB_WRITINGS_AND_TIMELINE=true \
+            --lua-filter script/filter.lua \
             -o ${o}
         done
     sources:

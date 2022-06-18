@@ -3,7 +3,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Thomas Paine National Historical Association</title>
+    <title>The Thomas Paine National Historical Association</title>
 
     <meta name="theme-color" content="#0b0c0c">
 
@@ -17,45 +17,112 @@
     <meta name="description" content="Thomas Paine National Historical Association">
     <meta name="og:description" content="To educate the world about the life, works, and legacy of Thomas Paine.">
 
-    <title>Thomas Paine National Historical Association</title>
-    <link rel="stylesheet" href="/css/gd.css">
-    <link rel="stylesheet" href="/css/css.css">
-</head>
+    <title>The Thomas Paine National Historical Association</title>
+    <link rel="stylesheet" href="/css/tachyons.min.css">
 
-<body>
-  <a name="top"></a>
-  <header>
-    <nav>
-      <a href="/">
-        <img alt="Thomas Paine National Historical Association" src="/images/tplogo-text.svg"/>
-      </a>
-    </nav>
-    <nav role="navigation">
-      <ul style="margin-top: 0px; margin-bottom: 0px;">
-        <li><a style="$if(ENABLE_BREADCRUMB_HOME)$color: var(--color-hilight)$endif$" href="/">Home</a></li>
-        <li><a style="$if(ENABLE_BREADCRUMB_COLLECTED_WORKS)$color: var(--color-hilight)$endif$" href="/pages/collected-works-project.html">Collected Works Project</a>
-        </li>
-        <li><a style="$if(ENABLE_BREADCRUMB_WRITINGS_AND_TIMELINE)$color: var(--color-hilight)$endif$" href="/writings_and_timeline.html">Writings&nbsp;&&nbsp;Timeline</a></li>
-        <li><a style="$if(ENABLE_BREADCRUMB_RESOURCES)$color: var(--color-hilight)$endif$" href="/pages/resources.html">Resources</a></li>
+    <style>
+      blockquote {
+        -webkit-text-size-adjust: 100%;
+        font-size: 1rem;
+        line-height: 1.5;
+        box-sizing: border-box;
+        border-left-style: solid;
+        border-color: #001b44;
+        border-width: .25rem;
+        font-family: athelas,georgia,serif;
+        color: rgba(0,0,0,.9);
+        padding-left: 2rem;
+        margin-left: 0;
+        margin-top: 0;
+      }
+      a {
+        line-height: 1.15;
+        -webkit-text-size-adjust: 100%;
+        background-color: transparent;
+        box-sizing: border-box;
+        text-decoration: underline;
+        color: #001b44;
+        transition: color .15s ease-in;
+      }
+      a:hover {
+        color: #357EDD;
+      }
+    </style>
 
-        <li><a style="$if(ENABLE_BREADCRUMB_DONATE)$color: var(--color-hilight)$endif$" href="/pages/donate.html">Donate</a></li>
-        <li><a style="$if(ENABLE_BREADCRUMB_MEMBERSHIP)$color: var(--color-hilight)$endif$" href="/pages/membership.html">Membership</a></li>
+  </head>
 
-        <li><a style="$if(ENABLE_BREADCRUMB_ABOUT)$color: var(--color-hilight)$endif$" href="/pages/about-us.html">About</a></li>
-        <li style="margin: 0">
-          <form  style="margin-top: 10px" method="get" action="/cgi-bin/search.cgi">
-            <span style="display: inline-block; margin-bottom: 0; padding: 0px; min-width: 25px; min-height: 25px; border: 0px; background-color: inherit;"></span>
-            <input style="vertical-align: top; max-width: 200px; height: 25px; padding: 0px; border: 0px;" type="text" name="term" size=31 maxlength=255 value="">
-            <button style="margin-bottom: 0; padding: 0px; height: 25px; border: 0px; background-color: inherit;" type="submit" name="sa" value="Search">
-              <svg style="display: inline" class="gem-c-search__icon" width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
-                <circle cx="12.0161" cy="11.0161" r="8.51613" stroke="currentColor" stroke-width="3"></circle>
-                <line x1="17.8668" y1="17.3587" x2="26.4475" y2="25.9393" stroke="currentColor" stroke-width="3"></line>
-              </svg>
-            </button>
-          </form>
-        </li>
-      </ul>
-    </nav>
-  </header>
-  <nav></nav>
-  <main id="main-content">
+  <body class="w-100 f5 sans-serif bg-white" id="top">
+
+    <div class="center mw8 pt3 ph3">
+
+      <header class="">
+        <div class="flex flex-wrap flex-nowrap-ns items-center center w-100">
+          <div class="flex items-center w-100 w-100-ns mb2 mb0-ns">
+            <a title="The Thomas Paine National Historical Association"
+               href="/"
+               class="link black-90 $if(ENABLE_BREADCRUMB_HOME)$dark-blue$endif$">
+              <img
+                src="/images/tp-2.png"
+                class="dib v-mid w3 h3 mt2 br-100 mr2 hide-m hide-s"/>
+              <div class="dib v-mid f4 f3-m f2-ns fw6 mt2 baskerville">
+                The Thomas Paine National Historical Association
+              </div>
+            </a>
+          </div>
+        </div>
+      </header>
+
+      <header class="pv3">
+        <div class="flex flex-wrap flex-nowrap-ns items-center center w-100 f6 fw6 black-70">
+
+          <a title="Collected Works Project"
+             class="pv1-ns dim link black-70 mr2 mr3-m mr4-l dib $if(ENABLE_BREADCRUMB_COLLECTED_WORKS)$dark-blue bb$endif$"
+             href="/pages/collected-works-project.html">
+            Collected Works Project
+          </a>
+
+          <a title="Writings & Timeline"
+             class="pv1-ns dim link black-70 mr2 mr3-m mr4-l dib $if(ENABLE_BREADCRUMB_WRITINGS_AND_TIMELINE)$dark-blue bb$endif$"
+             href="/writings_and_timeline.html">
+            Writings&nbsp;&&nbsp;Timeline
+          </a>
+
+          <a title="Resources"
+             class="pv1-ns dim link black-70 mr2 mr3-m mr4-l dib $if(ENABLE_BREADCRUMB_RESOURCES)$dark-blue bb$endif$"
+             href="/pages/resources.html">
+            Resources
+          </a>
+
+          <a title="Donate"
+             class="pv1-ns dim link black-70 mr2 mr3-m mr4-l dib $if(ENABLE_BREADCRUMB_DONATE)$dark-blue bb$endif$"
+             href="/pages/donate.html">
+            Donate
+          </a>
+
+          <a title="Membership"
+             class="pv1-ns dim link black-70 mr2 mr3-m mr4-l dib $if(ENABLE_BREADCRUMB_MEMBERSHIP)$dark-blue bb$endif$"
+             href="/pages/membership.html">
+            Membership
+          </a>
+
+          <a title="About"
+             class="pv1-ns dim link black-70 mr2 mr3-m mr4-l dib $if(ENABLE_BREADCRUMB_ABOUT)$dark-blue bb$endif$"
+             href="/pages/about-us.html">
+            About
+          </a>
+
+          <form class="fr mw7 center br2-ns ba b--black-50" action="/cgi-bin/search.cgi" method="get">
+              <fieldset class="cf bn ma0 pa0">
+                <div class="cf">
+                  <input class="f6 f5-l input-reset bn fl black-80 bg-white lh-solid w-100 w-70-l br2-ns br--left-ns" placeholder="" type="text" name="term" value="" id="search">
+                  <input class="f6 f5-l button-reset fl tc bn bg-animate bg-navy hover-bg-blue white pointer w-100 w-30-l br2-ns br--right-ns" type="submit" name="submit" alt="Search" value="Search">
+                </div>
+              </fieldset>
+            </form>
+
+        </div>
+
+      </header>
+    </div>
+
+    <main class="bt b--black-10">

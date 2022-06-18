@@ -76,7 +76,7 @@ function output_timeline_index()
     echo "<a name=top></a>" >> ${F}
     # generate the shortcut navigation per year
     for key in $(echo ${SORTED_YEARS}); do
-        echo "<a href=\"${TIMELINE_URI}#${key}\">${key}</a>" >> ${F}
+        echo "<li class=\"dib\"><a href=\"${TIMELINE_URI}#${key}\">${key}</a></li>" >> ${F}
     done
 }
 
@@ -147,10 +147,9 @@ function output_works_index ()
 {
     local F=$1
     # generate the shortcut navigation
-    echo "<a name=top></a>" >> ${F}
     for key in ${CATEGORIES[@]}; do
         TITLE=$(make_title ${key})
-        echo "<a href=\"${WRITINGS_URI}#${key}\">${TITLE}</a><br/>" >> ${F}
+        echo "<li><a href=\"${WRITINGS_URI}#${key}\">${TITLE}</a></li>" >> ${F}
     done
 }
 
@@ -159,7 +158,6 @@ cat > ${WRITINGS_INDEX_FILE} <<- EOM
 title: Writings Index
 ---
 
-<p>
 EOM
 
 output_works_index ${WRITINGS_INDEX_FILE}
@@ -169,14 +167,11 @@ cat > ${WRITINGS_FILE} <<- EOM
 title: Writings
 ---
 
-<p>
 EOM
 
 output_works_index ${WRITINGS_FILE}
 
 cat >> ${WRITINGS_FILE} <<- EOM
-</p>
-<hr />
 <ul>
 EOM
 
@@ -185,7 +180,7 @@ for key in ${CATEGORIES[@]}; do
     TITLE=$(make_title ${key})
     echo "${key}:"
     echo "" >> ${WRITINGS_FILE}
-    echo "<li><a name=\"${key}\"></a><h4>${TITLE}</h4><ul>" >> ${WRITINGS_FILE}
+    echo "<li><a name=\"${key}\"></a><h4>${TITLE}</h4></li>" >> ${WRITINGS_FILE}
 
     echo "<!-- BEGIN TOP LEVEL -->" >> ${WRITINGS_FILE}
 
@@ -227,7 +222,5 @@ for key in ${CATEGORIES[@]}; do
     echo "</ul></li>" >> ${WRITINGS_FILE}
     echo "<li><a href=\"#top\">Back to top</a>.</li>" >> ${WRITINGS_FILE}
 done
-
-echo "</ul>" >> ${WRITINGS_INDEX_FILE}
 
 echo "done"

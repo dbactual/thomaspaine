@@ -3,41 +3,67 @@ title: About Us
 ---
 
 
-<a href="/pages/history.html">
-<img style="float: left;" src="/images/MemorialBuilding.JPG"/>
+<a class="center" href="/pages/history.html">
+  <img class="br4 h5 w5 dib" src="/images/MemorialBuilding.JPG"/>
 </a>
 
-### **The Thomas Paine National Historical Association**</br>
-983 North Avenue<br/>
-New Rochelle, NY 10804-3609<br/>
-<a href="mailto:tpnhamail@gmail.com">tpnhamail@gmail.com</a><br/>
-
-
+<h3 class="baskerville">The Thomas Paine National Historical Association</h3>
 *To educate the world about the life, works, and legacy of Thomas Paine.*
+
+<pre>
+983 North Avenue
+New Rochelle, NY 10804-3609
+</pre>
+<a href="mailto:tpnhamail@gmail.com">tpnhamail@gmail.com</a>
+
+
 
 Board
 --------
 
-Scott Cleary, Bedford, NY - professor of English, Iona College
+<h1 class="f6 f5-ns fw6 lh-title black mv0">Scott Cleary</h1>
+<h2 class="f6 fw4 mt2 mb0 black-60">Bedford, NY</h2>
+<dl class="mt2 f6 mb4">TPNHA Secretary, Professor of English, Iona College</dl>
 
-Michael Munisteri, Connecticut - Senior Finance Associate, Bridgewater Associates
+<h1 class="f6 f5-ns fw6 lh-title black mv0">Michael Munisteri</h1>
+<h2 class="f6 fw4 mt2 mb0 black-60">Connecticut</h2>
+<dl class="mt2 f6 mb4">TPNHA Treasurer, Senior Finance Associate, Bridgewater Associates, retired</dl>
 
-Gary Berton, Walton, NY - Coordinator of the Institute for Thomas Paine Studies at Iona College
+<h1 class="f6 f5-ns fw6 lh-title black mv0">Gary Berton</h1>
+<h2 class="f6 fw4 mt2 mb0 black-60">Walton, NY</h2>
+<dl class="mt2 f6 mb4">TPNHA President</dl>
 
-Josh Klein, New York, NY - professor of Criminal Justice, Iona College
+<h1 class="f6 f5-ns fw6 lh-title black mv0">Josh Klein</h1>
+<h2 class="f6 fw4 mt2 mb0 black-60">New York, NY</h2>
+<dl class="mt2 f6 mb4">Professor of Criminal Justice, Iona College</dl>
 
-Frances Chiu, Connecticut, professor of Literature and History, New School, NYC, and Board of Anthem Press Gothic Studies
+<h1 class="f6 f5-ns fw6 lh-title black mv0">Frances Chiu</h1>
+<h2 class="f6 fw4 mt2 mb0 black-60">Connecticut</h2>
+<dl class="mt2 f6 mb4">Professor of Literature and History, New School, NYC, and Board of Anthem Press Gothic Studies</dl>
 
-Jonathan Scheick, New Jersey, professor of Psychology, Brookdale C.C., clinician.
+<h1 class="f6 f5-ns fw6 lh-title black mv0">Jonathan Scheick</h1>
+<h2 class="f6 fw4 mt2 mb0 black-60">New Jersey</h2>
+<dl class="mt2 f6 mb4">Professor of Psychology, Brookdale C.C., clinician.</dl>
 
-Roderick Bradford, San Diego, CA, Editor of The Truth Seeker Magazine and documentarian.
+<h1 class="f6 f5-ns fw6 lh-title black mv0">Roderick Bradford</h1>
+<h2 class="f6 fw4 mt2 mb0 black-60">San Diego, CA</h2>
+<dl class="mt2 f6 mb4">Editor of The Truth Seeker Magazine and documentarian.</dl>
 
+<h1 class="f6 f5-ns fw6 lh-title black mv0">Chris Gorman</h1>
+<h2 class="f6 fw4 mt2 mb0 black-60">Larchmont, NY</h2>
+<dl class="mt2 f6 mb4">Graphics designer, retired</dl>
+
+<h1 class="f6 f5-ns fw6 lh-title black mv0">Adrian Tawfik</h1>
+<h2 class="f6 fw4 mt2 mb0 black-60">Woodbury, NY</h2>
+<dl class="mt2 f6 mb4">Founder and editor of Democracy Chronicles website</dl>
 
 History
 --------
 
+<div style="cf">
 <a href="/pages/history.html">Read a full history of the Association</a>.
-<img style="float: left;" src="/images/board.png"/>
+
+<img class="fl pa2 br4" src="/images/board.png"/>
 
 Founded January 29, 1884 in New York City, TPNHA is among the oldest
 historical associations in the United States, and the single most
@@ -56,14 +82,16 @@ creation of TPNHA. Also in the picture, in the rear wearing a hat, is
 Wilson MacDonald, the sculptor of the Paine bust on top of the
 Monument.
 
-<img src="/images/conway.png" style="float:left;"/>
+<div class="cf">
+<img src="/images/conway.png" class="fl br4 pa2"/>
 
 Dr. Moncure Conway, a noted writer and abolitionist, was elected the
 association's first president after incorporation in 1906. Conway is
 credited with writing the first comprehensive biography of Paine in
 1892.
+</div>
 
-<img src="/images/edison.png" style="float:right;"/>
+<img src="/images/edison.png" class="fr br4 pa2"/>
 
 In 1925, under the leadership of President William van der Weyde and
 Vice-President Thomas Alva Edison, the Association undertook the
@@ -72,5 +100,4 @@ and serve as the headquarters and gathering place for the Association.
 
 <a href="/pages/history.html">Read a full history of the Association</a>.
 
-<div style="clear: both">
 </div>
