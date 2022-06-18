@@ -1,17 +1,38 @@
 ${header.html()}
 
-<section>
-  <aside>
-      <img style="margin-top: 36px;" src="/images/thomaspaine-2.png"/>
-  </aside>
-  <aside>
-      <h3>Writings</h3>
-      ${writings_index.html()}
-  </aside>
-  <aside>
-      <h3>Timeline</h3>
-      ${timeline_index.html()}
-  </aside>
-</section>
+
+<div class="center mw8 ph3 cf mt4">
+
+  <h1 class="f4 mb3 pb2 lh-title tracked b ttu black-70 b--black-70">
+    Writings And Timeline
+  </h1>
+
+  <div class="lh-copy measure-wide">
+      This site provides the most important articles on Paine, the known
+      and some soon-to-be-known new works, and the deattributions we have
+      made. We were founded to correct the record on Paine, and rescue it
+      from the negative propaganda and slander perpetrated against him by
+      most historians in the 19th century. For the most part we have
+      succeeded. Now we are on the threshold of making public our findings
+      on Paine's complete works, after twenty years of research, and the
+      establishment of the first official <a href="/pages/collected-works-project.html">Editorial Board for the
+        Collected Works of Thomas Paine</a>, staffed by the leading Paine
+      scholars in the world.
+
+      <div class="pv2">
+        <h1 class="f5 ttu tracked fw6">Writings</h1>
+        <ul class="pv2 fw5 lh-copy list measure">
+          ${writings_index.html()}
+        </ul>
+      </div>
+
+      <div class="pv2">
+        <h1 class="f5 ttu tracked fw6">Timeline</h1>
+        <ul class="pv3 fw5 lh-copy list measure">
+          ${timeline_index.html()}
+        </ul>
+      </div>
+  </div>
+</div>
 
 ${footer.html()}

@@ -4,12 +4,11 @@ title: The Roger Sherman Copy of the Declaration of Independence
 
 by Jonathan Scheick
 
-
 A manuscript copy of an early version of the Declaration of Independence has emerged that appears to offer
 additional insight into the creation and evolution of one of our nation's Charters of Freedom. We can refer
 to this document as the Sherman copy, since it was used to inform Roger Sherman of the draft status of the Declaration during the fourth week of June, 1776.
 
-While the discovery of this manuscript is exciting to scholars of early American history as a tangible artifact used during the creation of the Declaration, its significance extends beyond. It offers clarity to our understanding of the creation of the Declaration of Independence in June, 1776. This manuscript provides unique insight into the drafting process, via edits made while this copy was produced from the original in Jefferson's possession. Interestingly, this working draft manuscript also contains an inscription that potentially demonstrates Thomas Paine's direct influence and involvement in its creation. The notion of Thomas Paine's involvement in the drafting of the Declaration is not a newly formulated hypothesis; rather, historians and scholars have debated the possibility of his direct involvement for thebetter portion of the last two centuries. Multiple authors have offered scholarly insight, including Moody (1872), Van der Weyde (1911), Lewis (1947), and more recently, Smith & Rickards (2007).<a href="#footnotes">(1)<a>   Despite these previous efforts in establishing Paine's connection to the Declaration text, no tangible evidence  emerged to potentially corroborate these conclusions - until now.
+While the discovery of this manuscript is exciting to scholars of early American history as a tangible artifact used during the creation of the Declaration, its significance extends beyond. It offers clarity to our understanding of the creation of the Declaration of Independence in June, 1776. This manuscript provides unique insight into the drafting process, via edits made while this copy was produced from the original in Jefferson's possession. Interestingly, this working draft manuscript also contains an inscription that potentially demonstrates Thomas Paine's direct influence and involvement in its creation. The notion of Thomas Paine's involvement in the drafting of the Declaration is not a newly formulated hypothesis; rather, historians and scholars have debated the possibility of his direct involvement for thebetter portion of the last two centuries. Multiple authors have offered scholarly insight, including Moody (1872), Van der Weyde (1911), Lewis (1947), and more recently, Smith & Rickards (2007).<a href="#footnotes">(1)</a>   Despite these previous efforts in establishing Paine's connection to the Declaration text, no tangible evidence  emerged to potentially corroborate these conclusions - until now.
 
 Current scholarly analysis of the works of Thomas Paine continue to establish Paine's enduring mark on
 the origins of the American Revolution (see Berton, Petrovic, Schiaffino & Ivanov's monumental examination of
@@ -44,7 +43,7 @@ The Sherman Copy of the Declaration is unique; its inscription (verso) appears t
 
 "*A beginning perhaps - Original with Jefferson - Copied from Original with T.P.'s permission*". Is it possible, though, that the "T.P." initials referenced an individual other than Thomas Paine?
 
-For this reason, colleagues at the Declaration Resources Project of Harvard University, under the direction of Professor Danielle Allen, graciously conducted a comprehensive search of individuals of political influence present in Philadelphia during the summer of 1776, and concluded that the T.P. initials within the context of the Sherman manuscript appear to belong to Thomas Paine. Professor Allen and Emily Sneff, Associate Fellow of Harvard's Declaration Resources Project, investigated individuals affiliated with Thomas Jefferson, including household members, between the years of 1776-1784 before reaching this conclusion.<a href="#footnotes">(5)</a>
+For this reason, colleagues at the Declaration Resources Project of Harvard University, under the direction of Professor Danielle Allen, graciously conducted a comprehensive search of individuals of political influence present in Philadelphia during the summer of 1776, and concluded that the T.P. initials in the inscription, within the context of the Sherman manuscript, appear to reference Thomas Paine. Professor Allen and Emily Sneff, Associate Fellow of Harvard's Declaration Resources Project, investigated individuals affiliated with Thomas Jefferson, including household members, between the years of 1776-1784 before reaching this conclusion.<a href="#footnotes">(5)</a>
 While it was acknowledged that the T.P. initials could reference an individual other than Paine, the contextual understanding of who would have been privy to the Declaration drafting process appeared to strongly favor Thomas Paine. Professor Allen graciously acknowledged her support of this manuscript and its significance by agreeing to include it in the register of Harvard's Declaration Database during its next update.
 
 The Sherman Copy manuscript consists of the first page of an early working draft of the Declaration of Independence, discovered folded within the pages of an estate auction booklet for General Hugh Lowrey White, a Brigadier General in the War of 1812. The estate auction booklet and Declaration draft manuscript were found within a box of discarded papers by an amateur historian in Georgia. The Declaration manuscript was brought to the
@@ -146,21 +145,19 @@ A partial watermark was discovered in the upper, left margin (recto) of the manu
 
 Microscopic analysis of the Sherman copy manuscript paper confirmed it consists of cotton and linen bast fibers. Cotton and linen were period materials used to create rag pulp for paper manufacture in the eighteenth century. This composition confirmed paper creation earlier than 1850, when wood pulp largely replaced cotton and linen rag pulp in the mid-nineteenth century. Historically, Britain restricted export of cotton and linen to the colonies, causing cotton and flax (linen) crops to become the predominant crops within eighteenth century colonial America. Colonists relied heavily on these important crops for textile production, fabric from which was later recycled and turned into rag pulp for paper manufacture. <a href="#footnotes">(32)</a> Ultraviolet light examination was negative for fluorescence or evidence of artificial or chemical whitening, consistent with colonial-era paper making techniques. Artificial paper whitening began in the late eighteenth century and was common practice in nineteenth century paper making. <a href="#footnotes">(33)</a>
 
-The Sherman copy's ink presented as black, fading to brown, color with ink degradation prevalent throughout the document, indicating the ink has aged over an extended period of time. Ink analysis was conducted by a consulting scientist at a leading research institution. X-ray flouescence spectroscopy (XRF) and energy-dispersive X-ray spectroscopy (EDS) measured elemental composition of the ink and Infrared spectroscopy (IR) identified potential surface contaminants.<a href="#footnotes">(34)</a>
+The Sherman copy's ink presented as black, fading to brown, color with ink degradation prevalent throughout the document, indicating the ink has aged over an extended period of time. Ink analysis was conducted by a consulting scientist at a leading research institution. X-ray flourescence spectroscopy (XRF) and energy-dispersive X-ray spectroscopy (EDS) measured elemental composition of the ink and Infrared spectroscopy (IR) identified potential surface contaminants.<a href="#footnotes">(34)</a>  It is important to note that these findings represent specific areas tested and the data collected is being used to extrapolate an understanding of whether these areas are consistent in composition with eighteenth century ink.
 
-XRF spectroscopy detected the following elements, in order of abundance. Elements marked in italics are noted as significant within the context of period ink recipes: *carbon*, *iron*, *zinc*, *copper*, argon, barium, *calcium*, and potassium. EDS Spectroscopy detected presence of the following additional elements, in order of abundance: silicon, *sulfur*, and aluminum. The ink is comprised of approximately 75% carbon; the carbonaceous composition detected in both XRF and EDS points to the Sherman copy ink being lampblack ink. The presence of sulfur is a key element ink's mordant, specifically ferrous sulfate. Aluminum and potassium could reflect detection of the paper sizing directly below the ink's surface. Aluminum potassium sulfate has been used since antiquity as a paper sizing agent.<a href="#footnotes">(35)</a>
+In the areas tested, XRF spectroscopy detected the following elements: Elements marked in italics are noted as significant within the context of period ink recipes: *carbon*, *iron*, *zinc*, *copper*, argon, barium, *calcium*, and potassium. EDS Spectroscopy detected presence of silicon, *sulfur*, and aluminum.
 
-Eighteenth century colonial American ink primarily consisted of a *pigment* and a *mordant* (a metallic salt) which acted as a binding agent. Additional elements and ingredients were utilized to stabilize the ink which, for example, decreased acidity and/or assisted with binding pigment to the substrate.<a href="#footnotes">(36)</a> According to European historical records, inks of this period were prepared utilizing the following basic ingredients: pigment, water, and mordant, commonly referred to as vitriol.<a href="#footnotes">(37)</a>
+Eighteenth century colonial American ink primarily consisted of a *dye* and a *mordant* (a metallic salt) which acted as a binding agent.<a href="#footnotes">(35)</a> Additional ingredients were utilized to stabilize the ink which, for example, decreased acidity and/or assisted with binding pigment to the substrate.<a href="#footnotes">(36)</a> According to European historical records, inks of this period were prepared utilizing the following basic ingredients: for iron-based ink: tannin, water and mordant, commonly referred to as vitriol; for carbon-based ink: carbon black (soot) as a pigment and gum arabic as a binder. <a href="#footnotes">(37)</a>
 
-The very high concentration of carbon, as per the XRF, indicates the use of soot as a pigment, commonly seen in lampblack or India ink. Lampblack, used as a writing ink, traces back to ancient Egypt. India ink traces back as early as the third millennium, BC in China.<a href="#footnotes">(38)</a> In India ink, lampblack was often combined with shellac which increased durability. Shellac can produce a shiny surface, which is evident in some areas of greater ink concentraion on this document.
+Iron and sulfur detected in the XRF point to key elements in the ink's metallic salt mordant, indicating the use of green vitriol, aka copperas (ferrous sulfate). Aluminum and potassium could reflect detection of the paper sizing directly below the ink's surface. Aluminum potassium sulfate has been used since antiquity as a paper sizing agent.<a href="#footnotes">(38)</a>
 
-Iron indictes the use of green vitriol, aka copperas (ferrous sulfate) as a metallic salt mordant. Zinc and copper indicate the additional use of white vitriol (zinc sulfate) and blue vitriol (copper sulfate) to bolster the mordant, especially if the supply of green vitriol was limited during this time.
+Ink and paper supplies were scarce during the American Revolution, as noted historically during 1775-76 paper crisis in colonial America.<a href="#footnotes">(39)</a> XRF detected multiple, period elements that appeared to indicate a combination of ingredients; potential compensation for lack of ink ingredients due to restricted import.<a href="#footnotes">(40)</a> Zinc and copper indicate the additional use of white vitriol (zinc sulfate) and blue vitriol (copper sulfate) to bolster the mordant, especially if the supply of green vitriol was limited during this time.
 
-Ink and paper supplies were scarce during the American Revolution, as noted historically during 1775-76 paper crisis in clonial America.<a href="#footnotes">(39)</a> XRF detected the potential combination of multiple ingredients that appeared to indicate compensation for lack of ink ingredients due to restricted import of supplies.<a href="#footnotes">(40)</a>
+Calcium indicated the use of calcium carbonate to reduce the acidity of the mordant.<a href="#footnotes">(41)</a> Carbon, iron, zinc, copper and sulfur are all elements consistent with medieval through eighteenth century colonial American writing ink. As such, the ink samples examined appear to indicate the presence of period, iron-based ink.
 
-Calcium indicated the use of calcium carbonate to reduce the acidity of the mordant.<a href="#footnotes">(41)</a> Silica (silicon) is one of the most common minerals in the earth's crust, abundant in diatomaceous earth, sand, gravel, and clay.<a href="#footnotes">(42)</a> Barium is a naturally occuring element present in the earth's crust, one of the six alkaline earth metals. Barium-copper-silicate pigments used in ink originated in ancient China over two thousand years ago.<a href="#footnotes">(43)</a> Argon is the third most abundant gas in the earth's atmosphere, two times more abundant than water vapor.<a href="#footnotes">(44)</a> Carbon, iron, zinc, copper and sulfur are all elements consistent with medieval through eighteenth century colonial American writing ink.
-
-IR indicated surface contamination with a modern material, specifically Plextol d-514. Plextol d-514 is used in the manufacture of commercial products including adhesives and plexiglass; after an extensive search, our research found no evidence of Plextol d-514 used in writing ink. This substance is also UV resistant, which would prevent ink from fading. Therefore, Plextol d-514 contamination appeared to result from the document's amateur storage in plexiglass or another source. <a href="#footnotes">(45)</a>
+IR indicated surface contamination with a modern material, specifically Plextol d-514. Plextol d-514 is used in the manufacture of commercial products including adhesives and plexiglass; after an extensive search, our research found no evidence of Plextol d-514 used in writing ink. This substance is also UV resistant, which would prevent ink from fading. Therefore, Plextol d-514 contamination appeared to result from the document's amateur storage in plexiglass or another source. <a href="#footnotes">(42)</a>
 
 A key element in exemplifying how this manuscript was a working copy taken directly from the "*Original with Jefferson*" was discovered during the examination of the horizontal fold lines on the document. Under magnification, the horizontal fold lines (recto) were observed as convex. It appeared that Adams folded the document to have one
 panel accessible at a time while copying the "original", placed either above or beside this document. Such positioning allowed Adams to follow the text line by line and ensured accuracy in copying.
@@ -200,7 +197,7 @@ In this excerpt, the word "Object" contained a lowercase "o" that was over-scrip
 
 <center><img src="/images/sherman-copy-di-11.png"></center>
 
-Over time, readers of the Declaration have discussed probable reasons for why Committee of Five members decided to capitalize seemingly random words throughout the text. Early Germanic roots of the English language demonstrated how capitalization of letters mid-sentence was utilized to place emphasis on significant words. <a href="#footnotes">(46)</a> Throughout the Declaration, especially in this manuscript, nouns were selected to emphasize words of significance; a characteristic that is evident in the Preamble.
+Over time, readers of the Declaration have discussed probable reasons for why Committee of Five members decided to capitalize seemingly random words throughout the text. Early Germanic roots of the English language demonstrated how capitalization of letters mid-sentence was utilized to place emphasis on significant words. <a href="#footnotes">(43)</a> Throughout the Declaration, especially in this manuscript, nouns were selected to emphasize words of significance; a characteristic that is evident in the Preamble.
 Capitalization survived the written drafts, into John Dunlap's official print on the eve of July 4. As the approximately two hundred broadsides traveled from Dunlap's print shop to their respective locations and representatives, including George Washington's copy read to his troops on July 9 in New York City, the intention of this capitalization
 was realized as the reader's voice brought life to the Declaration. This manuscript draft has provided the first opportunity to view the contemplation of words the Declaration's authors felt should hold emphasis within the body of text and when read aloud.
 
@@ -296,8 +293,9 @@ Wyatt, J. The Repertory of Arts, Manufacture and Agriculture. Consisting of Orig
 
 Zhang, Z., Ma, Q. & Berke, H., Man-made blue and purple barium copper silicate pigments and the pabstite (BaSnSi3O9) mystery of ancient Chinese wall paintings from Luoyang. Herit Sci 7, 97, 2019.
 
+<a name="footnotes">
  **Notes**
-
+</a>
 1.	Moody, (1872); Lewis (1947); Van der Weyde (1911); Smith & Rickards (2016)
 
 2.	Berton, G. (2016)
@@ -366,13 +364,13 @@ Zhang, Z., Ma, Q. & Berke, H., Man-made blue and purple barium copper silicate p
 
 34.	 Pearson, p. 2017-24
 
-35.	Bruckle, (1993)
+35.	noted in consultation with Research & Testing Division, Library of Congress, on March 9, 2022.
 
 36.	Brown, (2000)
 
 37.	Kolar, (2006)
 
-38.	Woods, (2000)
+38.	Bruckle, (1993)
 
 39.	Weeks, (1916)
 
@@ -380,11 +378,6 @@ Zhang, Z., Ma, Q. & Berke, H., Man-made blue and purple barium copper silicate p
 
 41.	Alcantara, (2012)
 
-42.	University of Washington, (2014)
-43.	Zhang, p. 97
+42.	Drozdowicz,(1989)
 
-44.	Earthhow, (2021)
-
-45.	Drozdowicz,(1989)
-
-46.	Osselton, p. 49
+43. Osselton, p. 49

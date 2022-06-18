@@ -5,9 +5,9 @@ Category: Works
 ---
 
    THE BRADFORD EDITION, February 14, 1776
- 
+
    Man knows no Master save creating Heaven
-   Or those whom choice and common good ordain. - Thomson. 
+   Or those whom choice and common good ordain. - Thomson.
 
    INTRODUCTION
 
@@ -179,12 +179,12 @@ Category: Works
    constitution, we shall find them to be the base remains of two ancient
    tyrannies, compounded with some new republican materials.
 
-   *First* $mdash; The remains of monarchial tyranny in the person of the king.
+   *First* &mdash; The remains of monarchial tyranny in the person of the king.
 
-   *Secondly* $mdash; The remains of aristocratical tyranny in the persons of the
+   *Secondly* &mdash; The remains of aristocratical tyranny in the persons of the
    peers.
 
-   *Thirdly* $mdash; The new republican materials in the persons of the Commons, on
+   *Thirdly* &mdash; The new republican materials in the persons of the Commons, on
    whose virtue depends the freedom of England.
 
    The two first, by being hereditary, are independent of the people;
@@ -197,11 +197,11 @@ Category: Works
 
    To say that the commons is a check upon the king, presupposes two things:
 
-   *First* $mdash; That the king is not to be trusted without being looked after, or
+   *First* &mdash; That the king is not to be trusted without being looked after, or
    in other words, that a thirst for absolute power is the natural disease of
    monarchy.
 
-   *Secondly* $mdash; That the commons, by being appointed for that purpose, are
+   *Secondly* &mdash; That the commons, by being appointed for that purpose, are
    either wiser or more worthy of confidence than the crown.
 
    But as the same constitution which gives the commons a power to check the
@@ -343,10 +343,10 @@ Category: Works
    temptation in its fullest extent; not a kingdom only, but an hereditary
    one, but Gideon in the piety of his soul replied, *I will not rule over
    you, neither shall my son rule over you*. The Lord shall rule over you.
-   Words need not be more explicit; Gideon doth not *decline* the honor, but 
-   denieth their right to give it; neither doth he compliment them with 
-   invented declarations of his thanks, but in the positive style of a 
-   prophet charges them with disaffection to their proper Sovereign, the 
+   Words need not be more explicit; Gideon doth not *decline* the honor, but
+   denieth their right to give it; neither doth he compliment them with
+   invented declarations of his thanks, but in the positive style of a
+   prophet charges them with disaffection to their proper Sovereign, the
    King of heaven.
 
    About one hundred and thirty years after this, they fell again into the
@@ -381,23 +381,23 @@ Category: Works
    instruments of war, and instruments of his chariots; and he will take your
    daughters to be confectionaries, and to be cooks and to be bakers* (this
    describes the expense and luxury as well as the oppression of kings) *and
-   he will take your fields and your olive yards, even the best of them, and 
-   give them to his servants. And he will take the tenth of your seed, and of 
-   your vineyards, and give them to his officers and to his servants* (by which 
-   we see that bribery, corruption, and favoritism are the standing vices of 
-   kings) *and he will take the tenth of your men servants, and your maid 
-   servants, and your goodliest young men and your asses, and put them to his 
-   work; and he will take the tenth of your sheep, and ye shall be his servants, 
-   and ye shall cry out in that day because of your king which ye shall have 
-   chosen*, and the Lord will not hear you in that day. This accounts for the 
-   continuation of monarchy; neither do the characters of the few good kings 
-   which have lived since, either sanctify the title, or blot out the sinfulness 
-   of the origin; the high encomium given of David takes no notice of him 
-   *officially as a king*, but only as a *man* after God's own heart. 
-   *Nevertheless the people refused to obey the voice of Samuel, and they said, 
-   Nay, but we will have a king over us, that we may be like all the nations, 
-   and that our king may judge us, and go out before us, and fight our battles*. 
-   Samuel continued to reason with them, but to no purpose; he set before them 
+   he will take your fields and your olive yards, even the best of them, and
+   give them to his servants. And he will take the tenth of your seed, and of
+   your vineyards, and give them to his officers and to his servants* (by which
+   we see that bribery, corruption, and favoritism are the standing vices of
+   kings) *and he will take the tenth of your men servants, and your maid
+   servants, and your goodliest young men and your asses, and put them to his
+   work; and he will take the tenth of your sheep, and ye shall be his servants,
+   and ye shall cry out in that day because of your king which ye shall have
+   chosen*, and the Lord will not hear you in that day. This accounts for the
+   continuation of monarchy; neither do the characters of the few good kings
+   which have lived since, either sanctify the title, or blot out the sinfulness
+   of the origin; the high encomium given of David takes no notice of him
+   *officially as a king*, but only as a *man* after God's own heart.
+   *Nevertheless the people refused to obey the voice of Samuel, and they said,
+   Nay, but we will have a king over us, that we may be like all the nations,
+   and that our king may judge us, and go out before us, and fight our battles*.
+   Samuel continued to reason with them, but to no purpose; he set before them
    their ingratitude, but
    all would not avail; and seeing them fully bent on their folly, he cried
    out, *I will call unto the Lord, and he shall send thunder and rain* (which
@@ -406,7 +406,7 @@ Category: Works
    sight of the Lord*, in asking you a king. *So Samuel called unto the Lord,
    and the Lord sent thunder and rain that day, and all the people greatly
    feared the Lord and Samuel. And all the people said unto Samuel, Pray for
-   thy servants unto the Lord thy God that we die not, for* we have added unto 
+   thy servants unto the Lord thy God that we die not, for* we have added unto
    our sins this evil, to ask a king. These portions of scripture are direct
    and positive. They admit of no equivocal construction. That the Almighty
    hath here entered his protest against monarchical government is true, or
@@ -630,7 +630,7 @@ Category: Works
    agreeable dream, hath passed away and left us as we were, it is but right,
    that we should examine the contrary side of the argument, and inquire into
    some of the many material injuries which these colonies sustain, and
-   always will sustain, by being connected with, and dependant on Great-Britain. 
+   always will sustain, by being connected with, and dependant on Great-Britain.
    To examine that connexion and dependance, on the principles of
    nature and common sense, to see what we have to trust to, if separated,
    and what we are to expect, if dependant.
@@ -653,7 +653,7 @@ Category: Works
    trade and dominion.
 
    Alas, we have been long led away by ancient prejudices, and made large
-   sacrifices to superstition. We have boasted the protection of Great- Britain, 
+   sacrifices to superstition. We have boasted the protection of Great- Britain,
    without considering, that her motive was *interest* not *attachment*;
    that she did not protect us from *our enemies* on *our account*, but from *her
    enemies* on *her own account*, from those who had no quarrel with us on any
@@ -934,7 +934,7 @@ Category: Works
    it is called) can there be any doubt, but the whole power of the crown
    will be exerted, to keep this continent as low and humble as possible?
    Instead of going forward we shall go backward, or be perpetually
-   quarrelling or ridiculously petitioning. $mdash; We are already greater than 
+   quarrelling or ridiculously petitioning. $mdash; We are already greater than
    the king wishes us to be, and will he not hereafter endeavor to make us less?
    To bring the matter to one point. Is the power who is jealous of our
    prosperity, a proper power to govern us? Whoever says *No* to this question
@@ -965,8 +965,8 @@ Category: Works
    from enemies to friends by the alteration of a name: And in order to show
    that reconciliation *now* is a dangerous doctrine, I affirm, *that it would
    be policy in the king at this time to repeal the acts, for the sake of
-   reinstating himself in the government of the provinces*; In order, that he 
-   may accomplish by craft and subtilty, in the long run, what he cannot do by 
+   reinstating himself in the government of the provinces*; In order, that he
+   may accomplish by craft and subtilty, in the long run, what he cannot do by
    force and violence in the short one. Reconciliation and ruin are nearly
    related.
 
@@ -1126,12 +1126,12 @@ Category: Works
    hellish power, which hath stirred up the Indians and Negroes to destroy
    us, the cruelty hath a double guilt, it is dealing brutally by us, and
    treacherously by them.
-   
-   (Note: Thomas Anello, otherwise Massenello, a fisherman of Naples. who after 
-   spiriting up his countrymen in the public market place, against the oppressions 
-   of the Spaniards, to whom the place was then subject, prompted them to revolt, 
+
+   (Note: Thomas Anello, otherwise Massenello, a fisherman of Naples. who after
+   spiriting up his countrymen in the public market place, against the oppressions
+   of the Spaniards, to whom the place was then subject, prompted them to revolt,
    and in the space of a day became king.)
-  
+
    To talk of friendship with those in whom our reason forbids us to have
    faith, and our affections wounded through a thousand pores instruct us to
    detest, is madness and folly. Every day wears out the little remains of
@@ -1261,8 +1261,8 @@ Category: Works
 
 
 
-   <b>Ships. Guns. Cost of one. Cost of all</b<
-                    Cost in £ [pounds sterling]
+   Ships. Guns. Cost of one. Cost of all
+                    Cost in pounds sterling
 
    6         100     35,553       213,318
 
@@ -1281,7 +1281,7 @@ Category: Works
    58         20      3,710       215,180
 
    85 Sloops, bombs,
-      and fireships, 
+      and fireships,
       one with another, 2,000     170,000
 
    Cost                         3,266,786
@@ -1514,9 +1514,9 @@ Category: Works
    with contempt, because *that* House, he said, consisted but of twenty-six
    members, which trifling number, he argued, could not with decency be put
    for the whole. We thank him for his involuntary honesty. (See note.)
-   
-   Note: Those who would fully understand of what great consequence a large 
-   and equal representation is to a state, should read Birgh's political 
+
+   Note: Those who would fully understand of what great consequence a large
+   and equal representation is to a state, should read Birgh's political
    disquisitions.
 
    To Conclude, however strange it may appear to some, or however unwilling
@@ -1637,7 +1637,7 @@ Category: Works
 
    First. That it is the interest of America to be separated from Britain.
 
-   Secondly. Which is the easiest and most practicable plan, reconciliation or 
+   Secondly. Which is the easiest and most practicable plan, reconciliation or
    independance? with some occasional remarks.
 
    In support of the first, I could, if I judged it proper, produce the
@@ -1704,7 +1704,7 @@ Category: Works
    and in time, will wholly support the yearly expence of government. It
    matters not how long the debt is in paying, so that the lands when sold be
    applied to the discharge of it, and for the execution of which, the
-   Congress for the time being, will be the continental trustees. 
+   Congress for the time being, will be the continental trustees.
 
    I proceed now to the second head, viz. Which is the easiest and most
    practicable plan, reconciliation or independance; with some occasional
@@ -1854,5 +1854,3 @@ Category: Works
    extinct; and let none other be heard among us, than those of *a good
    citizen, an open and resolute friend, and a virtuous supporter of the*
    rights *of* mankind, *and of the* FREE AND INDEPENDENT STATES OF AMERICA.
-
-

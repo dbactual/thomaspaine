@@ -15,12 +15,14 @@ title: Donate
     <input type="hidden" name="cpp_headerback_color" value="F6E6CE">
     <input type="hidden" name="cancel_return" value="{{ SITEURL }}">
     <input type="hidden" name="no_note" value="0">
-    <p>
-      Consider supporting the Thomas Paine National Historical
-      Association. As a 100% volunteer organization, every dollar we
-      receive goes directly to supporting our mission. We are a
-      tax-deductible, 501 c(3) charitable institution. Please donate
-      via PayPal today!
-    </p>
-    <button class="secondary" alt="Donate" name="submit">Donate</button>
+
+
+Consider supporting the Thomas Paine National Historical
+Association. As a 100% volunteer organization, every dollar we
+receive goes directly to supporting our mission. We are a
+tax-deductible, 501 c(3) charitable institution. Please donate
+via PayPal today!
+
+    <input class="fw4 f6 br-pill bg-dark-green no-underline light-green ba b--dark-green grow pv2 ph3 dib mr3 mt3"
+       type="submit" name="submit" alt="Donate" value="Donate">
   </form>

@@ -69,7 +69,7 @@ title: "Dissertation on the First Principles of Government"
    Monarchy, Royalty and Aristocracy, they do not, either as things or as
    terms, sufficiently describe the hereditary system; they are but secondary
    things or signs of the hereditary system, and which fall of themselves if
-   that system has not a right to exist. Were there no such terms as Monarchy, 
+   that system has not a right to exist. Were there no such terms as Monarchy,
    Royalty and Aristocracy, or were
    other terms substituted in their place, the hereditary system, if it
    continued, would not be altered thereby. It would be the same system under
@@ -97,7 +97,7 @@ title: "Dissertation on the First Principles of Government"
    of seeing the government of a nation fall, as it frequently does, into the
    hands of a lad necessarily destitute of experience, and often little
    better than a fool. It is an insult to every man of years, of character,
-   and of talents, in a country. The moment we begin to reason upon the 
+   and of talents, in a country. The moment we begin to reason upon the
    hereditary system, it falls into
    derision; let but a single idea begin, and a thousand will soon follow.
    Insignificance, imbecility, childhood, dotage, want of moral character; in
@@ -132,7 +132,7 @@ title: "Dissertation on the First Principles of Government"
    no more connection with, or influence upon principle, than principle has
    upon time. The wrong which began a thousand years ago is as much a wrong
    as if it began to-day; and the right which originates to-day, is as much a
-   right as if it had the sanction of a thousand years. Time with respect to 
+   right as if it had the sanction of a thousand years. Time with respect to
    principles is an eternal NOW: it has no operation
    upon them: it changes nothing of their nature and qualities. But what have
    we to do with a thousand years? Our life-time is but a short portion of
@@ -146,7 +146,7 @@ title: "Dissertation on the First Principles of Government"
    establish it by what is called law, as has been done in England? I answer,
    NO; and that any law or any constitution made for that purpose is an act
    of treason against the right of every minor in the nation, at the time it
-   is made, and against the rights of all succeeding generations. I shall speak 
+   is made, and against the rights of all succeeding generations. I shall speak
    upon each of those cases. First, of the minor, at the time
    such law is made. Secondly, of the generations that are to follow.
 
@@ -155,7 +155,7 @@ title: "Dissertation on the First Principles of Government"
    minors and the other aged. The average of life is not exactly the same in
    every climate and country, but in general the minority in years are the
    majority in numbers, that is, the number of persons under twenty-one
-   years, is greater than the number of persons above that age. This difference 
+   years, is greater than the number of persons above that age. This difference
    in number is not necessary to the establishment of the
    principle I mean to lay down, but it serves to show the justice of it more
    strongly. The principle would be equally as good if the majority in years
@@ -166,7 +166,7 @@ title: "Dissertation on the First Principles of Government"
    nothing in the nature of the rights; the rights are the same rights; and
    are to be preserved inviolate for the inheritance of the minors when they
    shall come of age. During the minority of minors their rights are under
-   the sacred guardianship of the aged. The minor cannot surrender them; 
+   the sacred guardianship of the aged. The minor cannot surrender them;
    the guardian cannot dispossess him;
    consequently, the aged part of a nation, who are the law-makers for the
    *time being*, and who, in the march of life are but a few years ahead of
@@ -183,7 +183,7 @@ title: "Dissertation on the First Principles of Government"
    happened to have been born a few years sooner, so as to be of the age of
    twenty-one years at the time of proposing it, his right to have objected
    against it, to have exposed the injustice and tyrannical principles of it,
-   and to have voted against it, will be admitted on all sides. If, therefore, 
+   and to have voted against it, will be admitted on all sides. If, therefore,
    the law operates to prevent his exercising the same rights
    after he comes of age as he would have had a right to exercise had he been
    of age at the time, it is, undeniably, a law to take away and annul the
@@ -201,7 +201,7 @@ title: "Dissertation on the First Principles of Government"
    in authority to another. Could we conceive an idea of superiority in any,
    at what point of time, or in what century of the world, are we to fix it?
    To what cause are we to ascribe it? By what evidence are we to prove it?
-   By what criterion are we to know it? A single reflection will teach us 
+   By what criterion are we to know it? A single reflection will teach us
    that our ancestors, like ourselves, were
    but tenants for life in the great freehold of rights. The fee-absolute was
    not in them, it is not in us, it belongs to the whole family of man,
@@ -227,7 +227,7 @@ title: "Dissertation on the First Principles of Government"
    millions of souls, twelve millions will be males, and twelve females. Of
    the twelve millions of males, six millions will be of the age of
    twenty-one years, and six will be under, and the authority to govern will
-   reside in the first six. But every day will make some alteration, and in 
+   reside in the first six. But every day will make some alteration, and in
    twenty-one years every one
    of those minors who survives will have arrived at age, and the greater
    part of the former stock will be gone: the majority of persons then
@@ -242,7 +242,7 @@ title: "Dissertation on the First Principles of Government"
    establish government by hereditary succession, because it would be
    supposing itself possessed of a right superior to the rest, namely, that
    of commanding by its own authority how the world shall be hereafter
-   governed, and who shall govern it. Every age and generation is, and must 
+   governed, and who shall govern it. Every age and generation is, and must
    be (as a matter of right), as free
    to act for itself in all cases, as the age and generation that preceded
    it. The vanity and presumption of governing beyond the grave is the most
@@ -253,60 +253,60 @@ title: "Dissertation on the First Principles of Government"
    In the first part of the *Rights of Man* I have spoken of government by
    hereditary succession; and I will here close the subject with an extract
    from that work, which states it under the two following heads.
-   
-   “First, of the right of any family to establish itself with hereditary power.
-   
-   “Secondly, The right of a nation to establish a particular family.
-   
-   “With respect to the first of these heads, that of a family establishing 
-   itself with hereditary powers on its own authority independent of the nation, 
-   all men will concur in calling it despotism, and it would be trespassing on 
+
+   "First, of the right of any family to establish itself with hereditary power.
+
+   "Secondly, The right of a nation to establish a particular family.
+
+   "With respect to the first of these heads, that of a family establishing
+   itself with hereditary powers on its own authority independent of the nation,
+   all men will concur in calling it despotism, and it would be trespassing on
    their understanding to attempt to prove it.
-   “But the second head, that of a nation, that is, of a generation for the time 
-   being, establishing a particular family with hereditary powers, it does not 
-   present itself as despotism on the first reflection; but if men will permit 
-   a second reflection to take place, and carry that reflection forward, even 
-   but one remove out of their own persons to that of their offspring, they will 
-   then see, that hereditary succession becomes in its consequences the same 
-   despotism to others, which they reprobated for themselves. It operates to 
-   preclude the consent of the succeeding generations, and the preclusion of 
+   "But the second head, that of a nation, that is, of a generation for the time
+   being, establishing a particular family with hereditary powers, it does not
+   present itself as despotism on the first reflection; but if men will permit
+   a second reflection to take place, and carry that reflection forward, even
+   but one remove out of their own persons to that of their offspring, they will
+   then see, that hereditary succession becomes in its consequences the same
+   despotism to others, which they reprobated for themselves. It operates to
+   preclude the consent of the succeeding generations, and the preclusion of
    consent is despotism.
-   
-   “In order to see this matter more clearly, let us consider the generation 
-   which undertakes to establish a family with hereditary powers, separately 
+
+   "In order to see this matter more clearly, let us consider the generation
+   which undertakes to establish a family with hereditary powers, separately
    from the generations which are to follow.
-   
-   “The generation which first selects a person, and puts him at the head of 
-   its government, either with the title of king, or any other nominal distinction, 
-   acts its own choice, as a free agent for itself, be it wise or foolish. The 
-   person so set up is *not hereditary*, but selected and appointed; and the generation 
-   which sets him up, does not live under an hereditary government, but under a 
-   government of its own choice. Were the person so set up, and the generation who 
-   sets him up, to live for ever, it never could become hereditary succession; and 
+
+   "The generation which first selects a person, and puts him at the head of
+   its government, either with the title of king, or any other nominal distinction,
+   acts its own choice, as a free agent for itself, be it wise or foolish. The
+   person so set up is *not hereditary*, but selected and appointed; and the generation
+   which sets him up, does not live under an hereditary government, but under a
+   government of its own choice. Were the person so set up, and the generation who
+   sets him up, to live for ever, it never could become hereditary succession; and
    of consequence, hereditary succession could only follow on the death of the first parties.
-   
-   “As therefore hereditary succession is out of the question with respect to the first 
-   generation, we have next to consider the character in which that generation acts 
+
+   "As therefore hereditary succession is out of the question with respect to the first
+   generation, we have next to consider the character in which that generation acts
    with respect to the commencing generation, and to all succeeding ones.
-   
-   “It assumes a character to which it has neither right nor title; for it changes 
-   itself from a legislator to a testator, and affects to make a will and testament 
-   which is to have operation, after the demise of the makers, to bequeath the government; 
-   and it not only attempts to bequeath, but to establish on the succeeding generation a 
-   new and different form of government under which itself lived. Itself, as is already 
-   observed, lived not under an hereditary government, but under a government of its own 
-   choice; and it now attempts, by virtue of a will and testament, which it has not 
-   authority to make, to take from the commencing generation, and from all future ones, 
+
+   "It assumes a character to which it has neither right nor title; for it changes
+   itself from a legislator to a testator, and affects to make a will and testament
+   which is to have operation, after the demise of the makers, to bequeath the government;
+   and it not only attempts to bequeath, but to establish on the succeeding generation a
+   new and different form of government under which itself lived. Itself, as is already
+   observed, lived not under an hereditary government, but under a government of its own
+   choice; and it now attempts, by virtue of a will and testament, which it has not
+   authority to make, to take from the commencing generation, and from all future ones,
    the right and free agency by which itself acted.
-   
-   “In whatever light hereditary succession, as growing out of the will and testament 
-   of some former generation, presents itself, it is both criminal and absurd. A cannot 
-   make a will to take from B the property of B, and give it to C; yet this is the manner 
-   in which what is called hereditary succession by law operates. A certain former 
-   generation makes a will, under the form of a law, to take away the rights of the 
-   commencing generation, and all future generations, and convey those rights to a 
-   third person, who afterwards comes forward, and assumes the government in consequence 
-   of that illicit conveyance.”
+
+   "In whatever light hereditary succession, as growing out of the will and testament
+   of some former generation, presents itself, it is both criminal and absurd. A cannot
+   make a will to take from B the property of B, and give it to C; yet this is the manner
+   in which what is called hereditary succession by law operates. A certain former
+   generation makes a will, under the form of a law, to take away the rights of the
+   commencing generation, and all future generations, and convey those rights to a
+   third person, who afterwards comes forward, and assumes the government in consequence
+   of that illicit conveyance."
 
    The history of the English Parliament furnishes an example of this kind;
    and which merits to be recorded, as being the greatest instance of
@@ -329,7 +329,7 @@ title: "Dissertation on the First Principles of Government"
    is necessary that we reprobate their want of principle. The Constituent
    Assembly of France (1789) fell into the same vice as the Parliament of
    England had done, and assumed to establish an hereditary succession in the
-   family of the Capets as an act of the Constitution of that year. That every 
+   family of the Capets as an act of the Constitution of that year. That every
    nation, *for the time being*, has a right to govern itself as it
    pleases, must always be admitted; but government by hereditary succession
    is government for another race of people, and not for itself; and as those
@@ -368,7 +368,7 @@ title: "Dissertation on the First Principles of Government"
    they cannot have the right to exclude another. The poor will not delegate
    such a right to the rich, nor the rich to the poor, and to assume it is
    not only to assume arbitrary power, but to assume a right to commit
-   robbery. Personal rights, of which the right of voting for representatives 
+   robbery. Personal rights, of which the right of voting for representatives
    is one,
    are a species of property of the most sacred kind: and he that would
    employ his pecuniary property, or presume upon the influence it gives him,
@@ -393,7 +393,7 @@ title: "Dissertation on the First Principles of Government"
    playing a safe game, in which there is a chance to gain and none to lose;
    that at any rate the doctrine of equality includes *them*, and that if they
    cannot get more rights than those whom they oppose and would exclude, they
-   shall not have less. This opinion has already been fatal to thousands, who, 
+   shall not have less. This opinion has already been fatal to thousands, who,
    not contented with
    *equal rights*, have sought more till they lost all, and experienced in
    themselves the degrading *inequality* they endeavoured to fix upon others.
@@ -420,7 +420,7 @@ title: "Dissertation on the First Principles of Government"
    of voting implies a stigma on the moral character of the persons excluded;
    and this is what no part of the community has a right to pronounce upon
    another part. No external circumstance can justify it: wealth is no proof
-   of moral character; nor poverty of the want of it. On the contrary, wealth 
+   of moral character; nor poverty of the want of it. On the contrary, wealth
    is often the presumptive evidence of dishonesty;
    and poverty the negative evidence of innocence. If therefore property,
    whether little or much, be made a criterion, the means by which that
@@ -430,12 +430,12 @@ title: "Dissertation on the First Principles of Government"
    consistent with justice, would be to inflict it as a punishment for a
    certain time upon those who should propose to take away that right from
    others. The right of voting for representatives is the primary right by
-   which other rights are protected. To take away this right is to reduce a 
+   which other rights are protected. To take away this right is to reduce a
    man to slavery, for slavery
    consists in being subject to the will of another, and he that has not a
    vote in the election of representatives is in this case. The proposal
    therefore to disfranchise any class of men is as criminal as the proposal
-   to take away property. When we speak of right we ought always to unite with 
+   to take away property. When we speak of right we ought always to unite with
    it the idea of
    duties: rights become duties by reciprocity. The right which I enjoy
    becomes my duty to guarantee it to another, and he to me; and those who
@@ -475,7 +475,7 @@ title: "Dissertation on the First Principles of Government"
    they follow it as a religion. *All that is required with respect to
    property is to obtain it honestly, and not employ it criminally; but it
    is always criminally employed when it is made a criterion for exclusive
-   rights.
+   rights.*
 
    In institutions that are purely pecuniary, such as that of a bank or a
    commercial company, the rights of the members composing that company are
@@ -490,7 +490,7 @@ title: "Dissertation on the First Principles of Government"
    society, whether he has property or not; and, therefore, the principle
    requires that *every man* and *every kind of right* be represented, of which
    the right to acquire and to hold property is but one, and that not of the
-   most essential kind. The protection of a man's person is more sacred than 
+   most essential kind. The protection of a man's person is more sacred than
    the protection of
    property? and besides this, the faculty of performing any kind of work or
    services by which he acquires a livelihood, or maintaining his family, is
@@ -530,13 +530,13 @@ title: "Dissertation on the First Principles of Government"
    of acquiring such estates honestly. If it be asked how they could have
    been acquired, no answer but that of robbery can be given. That they were
    not acquired by trade, by commerce, by manufactures, by agriculture, or by
-   any reputable employment is certain. How then were they acquired ? Blush, 
+   any reputable employment is certain. How then were they acquired ? Blush,
    aristocracy, to hear your origin, for
    your progenitors were Thieves. They were the Robespierres and the Jacobins
    of that day. When they had committed the robbery, they endeavoured to lose
    the disgrace of it by sinking their real names under fictitious ones,
    which they called Titles. It is ever the practise of Felons to act in this
-   manner. 
+   manner.
 
    As property, honestly obtained is best secured by an equality of rights,
    so ill-gotten property depends for protection on a monopoly of rights. He
@@ -566,7 +566,7 @@ title: "Dissertation on the First Principles of Government"
    An enquiry into the origin of rights will demonstrate to us that *rights*
    are not *gifts* from one man to another, nor from one class of men to
    another; for who is he who could be the first giver? Or by what principle,
-   or on what authority, could he possess the right of giving? A declaration of 
+   or on what authority, could he possess the right of giving? A declaration of
    rights is not a creation of them, nor a donation of them.
    It is a manifest of the principle by which they exist, followed by a
    detail of what the rights are; for every civil right has a natural right
@@ -574,18 +574,18 @@ title: "Dissertation on the First Principles of Government"
    guarantee of those rights from man to man. As therefore it is impossible
    to discover any origin of rights otherwise than in the origin of man, it
    consequently follows, that rights appertain to man in right of his
-   existence only, and must therefore be equal to every man. The principle of 
+   existence only, and must therefore be equal to every man. The principle of
    an *equality of rights* is clear and simple. Every man can
    understand it, and it is by understanding his rights that he learns his
    duties; for where the rights of men are equal, every man must finally see
    the necessity of protecting the rights of others as the most effectual
-   security for his own. But if, in the formation of a constitution, we depart 
+   security for his own. But if, in the formation of a constitution, we depart
    from the principle
    of equal rights, or attempt any modification of it, we plunge into a
    labyrinth of difficulties, from which there is no way out but by
    retreating. Where are we to stop? Or by what principle are we to find out
    the point to stop at, that shall discriminate between men of the same
-   country, part of whom shall be free, and the rest not? If property is to be 
+   country, part of whom shall be free, and the rest not? If property is to be
    made the criterion, it is a total departure from
    every moral principle of liberty, because it is attaching rights to mere
    matter, and making man the agent of that matter. It is, moreover, holding
@@ -600,7 +600,7 @@ title: "Dissertation on the First Principles of Government"
    being the case, the institution of civil society is for the purpose of
    making an equalization of powers that shall be parallel to, and a
    guarantee of, the equality of rights. The laws of a country, when properly
-   constructed, apply to this purpose. Every man takes the arm of the law for 
+   constructed, apply to this purpose. Every man takes the arm of the law for
    his protection as more effectual
    than his own; and therefore every man has an equal right in the formation
    of the government, and of the laws by which he is to be governed and
@@ -633,7 +633,7 @@ title: "Dissertation on the First Principles of Government"
    individual in matters of government cannot be exercised but by election
    and representation; it consequently follows that the only system of
    government consistent with principle, where simple democracy is
-   impracticable, is the representative system. But as to the organical part, 
+   impracticable, is the representative system. But as to the organical part,
    or the manner in which the several parts of
    government shall be arranged and composed, it is altogether *matter of
    opinion*. It is necessary that all the parts be conformable with the
@@ -651,7 +651,7 @@ title: "Dissertation on the First Principles of Government"
    question, whether for or against, any man's opinion will fall. He may
    happen to be in a majority upon some questions, and in a minority upon
    others; and by the same rule that he expects obedience in the one case, he
-   must yield it in the other. All the disorders that have arisen in France 
+   must yield it in the other. All the disorders that have arisen in France
    during the progress of the
    Revolution have had their origin, not in the *principle of equal rights*,
    but in the violation of that principle. The principle of equal rights has
@@ -659,7 +659,7 @@ title: "Dissertation on the First Principles of Government"
    minority, and *that minority has been composed of men possessing property,
    as well as of men without property; property, therefore, even upon the
    experience already had, is no more a criterion of character than it is of
-   rights*. It will sometimes happen that the minority are right, and the 
+   rights*. It will sometimes happen that the minority are right, and the
    majority are
    wrong, but as soon as experience proves this to be the case, the minority
    will increase to a majority, and the error will reform itself by the
@@ -702,13 +702,13 @@ title: "Dissertation on the First Principles of Government"
    them in practice. The former corresponds to the intellectual faculties of
    the human mind which reasons and determines what shall be done; the
    second, to the mechanical powers of the human body that puts that
-   determination into practice. If the former decides, and the latter does not 
+   determination into practice. If the former decides, and the latter does not
    perform, it is a state of
    imbecility; and if the latter acts without the predetermination of the
    former, it is a state of lunacy. The executive department therefore is
    official, and is subordinate to the legislative, as the body is to the
    mind in a state of health; for it is impossible to conceive the idea of
-   two sovereignties, a sovereignty to *will*, and a sovereignty to *act*. The 
+   two sovereignties, a sovereignty to *will*, and a sovereignty to *act*. The
    executive is not invested with the power of deliberating whether it
    shall act or not; it has no discretionary authority in the case; for it
    can *act no other thing* than what the laws decree, and it is *obliged* to act
@@ -772,11 +772,11 @@ title: "Dissertation on the First Principles of Government"
    have known the line of conduct he was to follow. But, instead of this, a
    revolutionary government, a thing without either principle or authority,
    was substituted in its place; virtue and crime depended upon accident; and
-   that which was patriotism one day became treason the next. All these things 
+   that which was patriotism one day became treason the next. All these things
    have followed from the want of a constitution; for it is
    the nature and intention of a constitution to *prevent governing by party*,
    by establishing a common principle that shall limit and control the power
-   and impulse of party, and that says to all parties, THUS FAR SHALT THOU GO 
+   and impulse of party, and that says to all parties, THUS FAR SHALT THOU GO
    AND NO FARTHER. But in the absence of a constitution men look entirely to
    party; and instead of principle governing party, party governs principle.
 
@@ -789,5 +789,3 @@ title: "Dissertation on the First Principles of Government"
    THOMAS PAINE.
 
    July, 1795. PARIS
-
-

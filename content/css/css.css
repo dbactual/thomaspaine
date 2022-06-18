@@ -1,9 +1,9 @@
 :root {
-  --unit: 1rem;
-  --unit-2: 2rem;
-  --unit-3: 3rem;
+  --unit: .9rem;
+  --unit-2: 1.8rem;
+  --unit-3: 2.7rem;
   --leading: 1.4;
-  --measure: 960px;
+  --measure: 1000px;
   --measure-min: 288px;
   --font: -apple-system, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   --font-header: var(--font);
@@ -66,4 +66,8 @@ a[href*="://"]:after {
 
 img {
     margin: 10px;
+}
+
+nav ol, nav ul {
+  font-size: .9rem
 }
