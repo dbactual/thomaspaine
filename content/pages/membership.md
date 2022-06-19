@@ -44,7 +44,8 @@ option.
 </p>
 
 
-<form class="pa4 black-80 action="/cgi-bin/mem.cgi" method="post" id="enroll">
+<a name="enroll"></a>
+<form class="pa4 black-80" action="/cgi-bin/mem.cgi" method="post">
 
 <fieldset class="ba b--transparent ph0 mh0">
 <legend class="ph0 mh0 fw6">
