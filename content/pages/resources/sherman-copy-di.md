@@ -222,7 +222,7 @@ future generations.
 
 *Images of the Sherman manuscript copy - recto & verso*
 
-<center><img src="/images/sherman-copy-di-13.jpg"></center>
+<center><img src="/images/sherman-copy-di-13.png"></center>
 
 <center><img src="/images/sherman-copy-di-14.png"></center>
 
