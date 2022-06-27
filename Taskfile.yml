@@ -16,6 +16,7 @@ tasks:
       - task: output-works
       - task: output-resources
       - task: output-pages
+      - task: migration
 
   clean:
     cmds:
@@ -215,3 +216,7 @@ tasks:
       - content/pages/*
     generates:
       - output/pages/*.html
+
+  migration:
+    cmds:
+      - cp content/.htaccess output/
