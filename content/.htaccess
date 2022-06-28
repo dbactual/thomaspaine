@@ -1,0 +1,12 @@
+RewriteEngine On
+
+RewriteRule ^major-works(/.*)?$ /works/major-works$1 [L,NC,NE,R=301]
+RewriteRule ^essays(/.*)?$ /works/essays$1 [L,NC,NE,R=301]
+RewriteRule ^letters(/.*)?$ /works/letters$1 [L,NC,NE,R=301]
+RewriteRule ^questionable-authorship(/.*)?$ /works/questionable-authorship$1 [L,NC,NE,R=301]
+RewriteRule ^recently-discovered(/.*)?$ /works/recently-discovered$1 [L,NC,NE,R=301]
+RewriteRule ^aboutpaine(/.*)?$ /pages/resources$1 [L,NC,NE,R=301]
+
+RewriteRule ^membership.html /pages/membership.html
+RewriteRule ^pages/the-official-collected-works-of-thomas-paine-project.html /pages/collected-works-project.html
+
