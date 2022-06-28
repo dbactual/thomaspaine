@@ -45,4 +45,4 @@ jobs:
       - name: rsync
         if: ${{ github.event_name == 'push' }}
         run: |
-          rsync -avz --del -e "ssh" output/* ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}:${{ secrets.DEPLOY_DIR }}
+          rsync -avz --del -e "ssh" output/ ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}:${{ secrets.DEPLOY_DIR }}
