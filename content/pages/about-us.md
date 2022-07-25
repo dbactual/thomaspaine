@@ -57,6 +57,10 @@ Board
 <h2 class="f6 fw4 mt2 mb0 black-60">Woodbury, NY</h2>
 <dl class="mt2 f6 mb4">Founder and editor of Democracy Chronicles website</dl>
 
+<h1 class="f6 f5-ns fw6 lh-title black mv0">Barbara Crane</h1>
+<h2 class="f6 fw4 mt2 mb0 black-60">New Rochelle, NY</h2>
+<dl class="mt2 f6 mb4">community organizer, retired</dl>
+
 History
 --------
 
