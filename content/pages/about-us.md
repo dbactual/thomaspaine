@@ -61,6 +61,14 @@ Board
 <h2 class="f6 fw4 mt2 mb0 black-60">New Rochelle, NY</h2>
 <dl class="mt2 f6 mb4">community organizer, retired</dl>
 
+<h1 class="f6 f5-ns fw6 lh-title black mv0">Greg McMurray</h1>
+<h2 class="f6 fw4 mt2 mb0 black-60">New York City</h2>
+<dl class="mt2 f6 mb4">Writer, Paine scholar</dl>
+
+<h1 class="f6 f5-ns fw6 lh-title black mv0">Edmund Smith</h1>
+<h2 class="f6 fw4 mt2 mb0 black-60">Connecticut</h2>
+<dl class="mt2 f6 mb4">Science teacher</dl>
+
 History
 --------
 
