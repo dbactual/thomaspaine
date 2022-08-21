@@ -31,7 +31,7 @@ Board
 
 <h1 class="f6 f5-ns fw6 lh-title black mv0">Gary Berton</h1>
 <h2 class="f6 fw4 mt2 mb0 black-60">Walton, NY</h2>
-<dl class="mt2 f6 mb4">TPNHA President</dl>
+<dl class="mt2 f6 mb4"> President</dl>
 
 <h1 class="f6 f5-ns fw6 lh-title black mv0">Josh Klein</h1>
 <h2 class="f6 fw4 mt2 mb0 black-60">New York, NY</h2>
