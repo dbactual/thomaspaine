@@ -81,6 +81,7 @@ Essays {#essays}
 - [Life and Deeds of Thomas Paine by Ingersoll](/pages/resources/life-and-deeds-of-thomas-paine-by-ingersoll.html)
 - [Link to Louse's "Unwashed Infidelity"](/pages/resources/link-to-louse-s-unwashed-infidelity.html)
 - [Linton's Comments on Paine's Habits](/pages/resources/linton-s-commenst-on-paine-s-habits.html)
+- [Paine's Anti-Slavery Legacy](/pages/resources/touba-paine-antislavery.html)
 - [Portraits of Paine by Moncure Conway](/pages/resources/portraits-of-paine-by-moncure-conway.html)
 - ['Rights of Man' in America by Alf](/pages/resources/rights-of-man-in-america-by-alfred-young.html)
 - [Sonnet by Clio Rickman](/pages/resources/sonnet-by-clio-rickman.html)

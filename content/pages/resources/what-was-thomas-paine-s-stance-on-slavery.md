@@ -12,4 +12,4 @@ close friends with many of the leading abolitionists of his day. Recent discover
 for example, <a
 href="/letters/other/to-anonymous-march-16-1790.html">To Benjamin Rush
 March 16, 1789</a>. Also see <a
-href="/paines-anti-slavery-legacy.html">Mariam Touba's essay</a>.
+href="/pages/resources/touba-paine-antislavery.html">Mariam Touba's essay</a>.
