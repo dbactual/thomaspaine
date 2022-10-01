@@ -4,6 +4,10 @@ title: Renew Membership
 
 <h3>Renew Annual Membership</h3>
 
+<p>
+  Use the form below to renew your membership. Make sure to choose an appropriate membership level, then press the "Start Enrollment" button to proceed.
+</p>
+
 <p> <span style="background: var(--color-tertiary);">NOTE:</span> Once renewal is started, you can complete your membership renewal with
 a donation. <mark>OUTSIDE</mark> the United States, please use the <mark>CREDIT CARD</mark> option.
 </p>
@@ -14,7 +18,7 @@ a donation. <mark>OUTSIDE</mark> the United States, please use the <mark>CREDIT 
 
 <fieldset class="ba b--transparent ph0 mh0">
 <legend class="ph0 mh0 fw6">
-Enroll As a Member
+Renew Your Membership
 </legend>
   <label class="mt3 db fw4 lh-copy f6" for="name">Name</label>
   <input class="pa2 input-reset ba bg-transparent w-100 measure" name="name" type="text" value="" id="name" placeholder="First Last" style="width:85%;">
@@ -22,7 +26,7 @@ Enroll As a Member
   <label class="mt3 db fw4 lh-copy f6" for="email">Email</label>
   <input class="pa2 input-reset ba bg-transparent w-100 measure" name="email" type="text" value="" id="email" placeholder="you@address.com" style="width:85%;">
 
-  <label class="mt3 db fw4 lh-copy f6" for="level">Level</label>
+  <label class="mt3 db fw4 lh-copy f6" for="level">Choose Your Level</label>
   <select name="level" id="level" class="pa2 ba bg-transparent w-100 measure">
   <option>Individual:   $25</option>
   <option>Family:		$40</option>
