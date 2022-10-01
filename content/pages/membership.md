@@ -3,7 +3,7 @@ title: Membership
 ---
 
 
-<div class="bg-light-blue w-100 pv4">
+<div class="bg-lightest-blue w-100 pa3">
 <h3>Renew Membership</h3>
 
 <p>
