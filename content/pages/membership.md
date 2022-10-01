@@ -2,6 +2,17 @@
 title: Membership
 ---
 
+<h3>Renew Membership</h3>
+
+<p>
+If you are already a member and would like to renew your membership, <a href="/pages/renew-membership.html">click here</a>.
+</p>
+
+<a class="fw4 f6 br-pill bg-dark-blue no-underline lightest-blue ba hover-washed-blue b--light-blue grow pv2 ph3 dib mr3"
+   href="/pages/renew-membership.html">
+  Renew
+</a>
+
 <h3>Sign Up For Annual Membership</h3>
 
 <a href="#enroll">Enroll today!</a>
