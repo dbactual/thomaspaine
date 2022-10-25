@@ -298,9 +298,9 @@ title: "Agrarian Justice"
 
    I have already established the principle, namely, that the earth, in its
    natural uncultivated state was, and ever would have continued to be, the
-   COMMON PROPERTY OF THE HUMAN RACE &,dash; that in that state, every person 
+   COMMON PROPERTY OF THE HUMAN RACE (-) that in that state, every person 
    would
-   have been born to property &,dash; and that the system of landed property, by its
+   have been born to property (-) and that the system of landed property, by its
    inseparable connection with cultivation, and with what is called civilized
    life, has absorbed the property of all those whom it dispossessed, without
    providing, as ought to have been done, an indemnification for that loss.
