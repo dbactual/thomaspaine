@@ -277,7 +277,7 @@ title: "Agrarian Justice"
    and not a charity, that I am pleading for. But it is that kind of right
    which, being neglected at first, could not be brought forward afterwards
    till heaven had opened the way by a revolution in the system of
-   government. Let us then do honuor to revolutions by justice, and give
+   government. Let us then do honour to revolutions by justice, and give
    currency to their principles by blessings.
 
    Having thus ,in a few words, opened the merits of the case, I shall now
