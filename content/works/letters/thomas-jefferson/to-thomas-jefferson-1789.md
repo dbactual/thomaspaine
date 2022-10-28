@@ -6,7 +6,7 @@ title: "To Thomas Jefferson [1789]"
    From the original letter from the Library of Congress.
 
    After I got home, being alone and wanting amusement I sat down to explain
-   to myself (for there is such a thing) my Ideas of national and civil
+   to myself (for there is such a thing) my Ideas of natural and civil
    rights and the distinction between them &mdash; I send them to you to see how
    nearly we agree &mdash;
 
