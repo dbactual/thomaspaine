@@ -87,7 +87,7 @@ title: "Agrarian Justice"
    acted as if they thought society had nothing more at heart than to
    maintain courtiers, pensioners, and all their train, under the
    contemptible title of royalty. My little essay will disabuse them, by
-   showing that society is aiming at a very different end &mdash; maintaining itself.
+   showing that society is aiming at a very different end (-) maintaining itself.
 
    We all know or should know, that the time during which a revolution is
    proceeding is not the time when its resulting advantages can be enjoyed.
