@@ -196,9 +196,9 @@ Echoing the words of Thomas Edison, "...truth is governed by natural laws and ca
 
 *Images of the Sherman Copy Manuscript*
 
-<center><img src="/images/sherman-copy-di-13.jpg"></center>
+<center><img src="/images/sherman-copy-di-13.png"></center>
 
-<center><img src=“/images/sherman-copy-di-14.png"></center>
+<center><img src="/images/sherman-copy-di-14.png"></center>
 
 
 **Notes**
