@@ -1,8 +1,7 @@
 ---
 title: The Roger Sherman Copy of the Declaration of Independence
 ---
-
-by Jonathan Scheick
+Jonathan Scheick
 
 
 A manuscript copy of an early version of the Declaration of Independence has emerged that appears to offer additional insight into the creation and evolution of one of our nation's Charters of Freedom. We can refer to this document as the Sherman copy, since it was used to inform Roger Sherman of the draft status of the Declaration during the fourth week of June, 1776.
@@ -68,7 +67,7 @@ While Sherman's review and approval of this draft was evidenced through his init
 To objectively evaluate and accurately attribute handwriting, our examination considered multiple characteristics that collectively identified the writer. Each characteristic, including movement, pressure, form (i.e. simplified or embellished), connectivity, and alignment (baseline, line direction & organization) is unique to each individual and provided a comprehensive analytic assessment. 
 
 The following characteristics were evaluated: form (*print/cursive*), connectivity, space, margins (*margin respect*), alignment (*baseline alignment*), and capitals. A unique quality of this early Declaration of Independence draft is the haste in which it was taken.<a href="#footnotes">(14)</a> While this undoubtedly affected writing slant, the characteristics described above remained intact.
-**[known John Adams fair copy of the Declaration of Independence in blue ink underlay (facsimile from J. Boyd's Declaration of Independence - The Evolution of a Text); Sherman copy manuscript in black ink overlay]**
+**(known John Adams fair copy of the Declaration of Independence in blue ink underlay - facsimile from J. Boyd's Declaration of Independence - The Evolution of a Text; Sherman copy manuscript in black ink overlay)**
 
 <center><img src="/images/sherman-copy-di-2.png"></center>
 
@@ -86,7 +85,7 @@ The manuscript's penmanship style was identified as eighteenth-century British-A
 
 The handwriting analysis noted this draft was not created by Roger Sherman. Rather, this manuscript was seemingly made for Sherman and other Declaration committee members for review.  Historically, we know that Sherman and his fellow Committee of Five members simultaneously participated in various Congressional committees, and Sherman's involvement in drafting the Declaration did not appear in the historical record until a preliminary draft was completed. Sherman and Adams were the only members of the Committee of Five that were also selected for the Board of War and Ordinances on June 12, 1776.  Sherman's involvement on the Committee of War could have precluded him from more active involvement in the Declaration's initial committee deliberations, thus necessitating the creation of this manuscript. <a href="#footnotes">(17)</a> The inscription (verso), *“A beginning perhaps - Original with Jefferson…”*, as well as the early draft state of the text, appeared to support the timeframe in which this would have happened. Sherman's initials on the upper right corner (verso) indicated that he received, reviewed & approved this draft, and signed off on it procedurally. The date of June 24, 1776 (recto) may indicate the date Sherman received the draft. Sherman's initials and approval of the manuscript allowed us to understand how and why it left his possession, and potentially forwarded to fellow Committee member Robert R. Livingston or significant others.
 
-Analysis of the "R.S." initials utilized Roger Sherman's "R" and "S" initials from the engrossed copy of the Declaration of Independence as a period reference. Comparison via light board overlay demonstrated an excellent match, with deviation attributed to natural variation.
+Analysis of the "R.S." initials utilized Roger Sherman's "R" and "S" initials from the engrossed copy of the Declaration of Independence as a period reference. Comparison via light board overlay demonstrated an excellent match, with deviation attributed to natural variation.  Roger Sherman's handwritten initials on the upper right corner (verso) of this manuscript validate its creation prior to Sherman's death in 1793.
 
 <center><img src="/images/sherman-copy-di-16.png"></center>
 
@@ -99,7 +98,6 @@ America's introduction to wove paper came through the hands of Benjamin Franklin
 When Franklin returned to the American colonies in 1762, he decided to utilize this new type of paper first in printing colonial currency in Philadelphia. Examples of Franklin's use of wove paper in currency appear as early as 1764.
 
 <center><img src="/images/sherman-copy-di-15.png"></center>
-1764 colonial currency on wove paper, printed by Franklin & Hall; Philadelphia, PA.
 
 This particular note, dated June 18, 1764, was printed by Benjamin Franklin & David Hall and issued to the Province of Pennsylvania.<a href="#footnotes">(20)</a> Franklin became a great supporter of this superior paper type and is credited for introducing wove paper to France in 1777.<a href="#footnotes">(21)</a>
 
@@ -130,10 +128,14 @@ The Sherman copy ink presented as black, fading to brown color with ink degradat
 In the areas tested, XRF spectroscopy detected the following elements: Elements marked in italics are noted as significant within the context of period ink recipes: *carbon*, *iron*, *zinc*, *copper*, argon, barium, *calcium* and potassium. EDS Spectroscopy detected presence of silicon, *sulfur* and aluminum. 
 
 Eighteenth-century colonial American ink primarily consisted of a dye and a mordant (a metallic salt) which acted as a binding agent.<a href=“#footnotes">(37)</a> Additional ingredients were utilized to stabilize the ink which, for example, decreased acidity and/or assisted with binding pigment to the substrate.<a href=“#footnotes">(38)</a> According to European historical records, inks of this period were prepared utilizing the following basic ingredients: for iron-based ink: tannin, water and mordant, commonly referred to as vitriol; for carbon-based ink: carbon black (soot) as a pigment and gum arabic as a binder.<a href=“#footnotes">(39)</a>
+  
 Iron and sulfur detected through XRF point to key elements in the ink’s metallic salt mordant, and indicated the use of green vitriol, aka copperas (ferrous sulfate). Aluminum and potassium appeared to reflect the detection of paper sizing directly below the ink’s surface. Aluminum potassium sulfate has been used as a paper sizing agent since antiquity.<a href=“#footnotes">(40)</a>
+  
 Ink and paper supplies were scarce during the American Revolution, as noted historically during 1776 paper crisis in colonial America.<a href=“#footnotes">(41)</a>  XRF detected multiple period elements that suggested a combination of ingredients.  This finding could demonstrate potential compensation for ingredient shortage due to restricted import.<a href=“#footnotes">(42)</a>  Zinc and copper appear to indicate the additional use of white vitriol (zinc sulfate) and blue vitriol (copper sulfate) to bolster the mordant, if the supply of green vitriol was limited during this time.
 Calcium indicated the use of calcium carbonate to reduce the acidity of the mordant.<a href=“#footnotes">(43)</a>  Carbon, iron, zinc, copper and sulfur are all elements consistent with medieval through eighteenth-century colonial American writing ink. As such, the ink samples examined appear to indicate the presence of period iron-based ink.
+  
 IR indicated surface contamination with a modern material, specifically Plextol d-514. Plextol d-514 is used in the manufacture of commercial products including adhesives and plexiglass. After an extensive search, our research found no evidence of Plextol d-514 used in writing ink. This substance is also UV resistant which would prevent ink from fading. Therefore, Plextol d-514 contamination appeared to result from the document’s amateur storage in plexiglass or another source, prior to its current archival storage. <a href=“#footnotes">(44)</a>
+  
 A key element in demonstrating how this manuscript was a working draft taken directly from the "*Original with Jefferson*" was discovered during the examination of the horizontal fold lines on the document. Under magnification, the horizontal fold lines (recto) were observed as convex. The writer appears to have folded the document to have one panel accessible at a time while copying the "original" placed above or beside this document. Such positioning allowed the writer to follow the text line by line, which ensured accuracy in copying.
 
 <center><img src="/images/sherman-copy-di-5.png"></center>
@@ -144,7 +146,7 @@ The following image shows distinct crease impressions in the manuscript run vert
 
 <center><img src="/images/sherman-copy-di-6.png"></center>
 
-* Editing and Evolution of the Text*
+*Editing and Evolution of the Text*
 
 After the evaluation of the Sherman copy manuscript was completed, it was important to consider this document's unique characteristics as an early working draft created during the Committee of Five deliberation. Multiple sections of the draft offer further insight into the evolution of the text, as demonstrated through the following edits and alterations discovered in its text: preceding the word "government" was the word "a", which was revised and later omitted as the committee continually edited the document.
 
@@ -253,7 +255,7 @@ Echoing the words of Thomas Edison, "...truth is governed by natural laws and ca
 
 25. Hunter (1943) 129
 
-26. "John Adams letter to Abigail Adams referencing the colonial paper crisis of 1776" 
+26. John Adams letter to Abigail Adams referencing the colonial paper crisis of 1776 
 https://www.masshist.org/digitaladams/archive/doc?id=L17760415ja&rec=sheet&archive=&hi=&numRecs=&query=&queryid=&start=&tag=&num=10&bc= 
 
 27. See Mellen 23-41
