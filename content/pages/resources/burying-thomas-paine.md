@@ -29,7 +29,7 @@ read Paine at all.
 
 
 [The Thomas Paine National Historical
-Association](http://thomaspaine.org) and the [Institute for Thomas
+Association](${SITEURL}) and the [Institute for Thomas
 Paine Studies at Iona
 College](http://www.iona.edu/About/Iona-in-Community/Institute-for-Thomas-Paine-Studies.aspx)
 knew about the preparation for this book through Clark himself, who
