@@ -3,6 +3,7 @@ version: '3'
 vars:
   PANDOC_ARGS: --ascii --fail-if-warnings
   SITEURL: https://thomaspaine.org
+  SITEEMAIL: info@thomaspaine.org
 
 tasks:
   default:
@@ -204,8 +205,8 @@ tasks:
             BREADCRUMB=RESOURCES;;
           esac
           echo "pages (${BREADCRUMB}) -> ${o}"
+          cat ${i} | SITEURL={{.SITEURL}} SITEEMAIL={{.SITEEMAIL}} envsubst |
           pandoc {{.PANDOC_ARGS}} -f markdown \
-            ${i}  \
             --template templates/page.tmpl \
             --variable SITEURL={{.SITEURL}} \
             --variable ENABLE_BREADCRUMB_${BREADCRUMB}=true \
