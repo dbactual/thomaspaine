@@ -11,12 +11,12 @@ tasks:
       - task: images
       - task: css
       - task: scripts
-      - task: output-header-footer
-      - task: output-index
-      - task: output-writings-and-timeline
-      - task: output-works
-      - task: output-resources
-      - task: output-pages
+      - task: header-footer
+      - task: index
+      - task: writings-and-timeline
+      - task: works
+      - task: resources
+      - task: pages
       - task: migration
 
   clean:
@@ -33,6 +33,7 @@ tasks:
       - script/gen-timeline.sh
     sources:
       - content/**/*.md
+      - templates/**/*
     generates:
       - gen/writings_index.md
       - gen/timeline_index.md
@@ -80,7 +81,7 @@ tasks:
     generates:
       - output/cgi-bin/*
 
-  output-header-footer:
+  header-footer:
     deps:
       - gen
     cmds:
@@ -93,7 +94,7 @@ tasks:
       - output/header.html
       - output/footer.html
 
-  output-index:
+  index:
     deps:
       - build-indices
     cmds:
@@ -110,7 +111,7 @@ tasks:
     generates:
       - output/index.html
 
-  output-writings-and-timeline:
+  writings-and-timeline:
     deps:
       - build-indices
     cmds:
@@ -126,14 +127,14 @@ tasks:
           gen/writings.md  \
           --template templates/page.tmpl \
           --variable SITEURL={{.SITEURL}} \
-          --variable ENABLE_BREADCRUMB_WRITINGS_AND_TIMELINE=true \
+          --variable ENABLE_BREADCRUMB_WRITINGS=true \
           -o output/writings.html
 
         pandoc {{.PANDOC_ARGS}} -f markdown \
           gen/timeline.md  \
           --template templates/page.tmpl \
           --variable SITEURL={{.SITEURL}} \
-          --variable ENABLE_BREADCRUMB_WRITINGS_AND_TIMELINE=true \
+          --variable ENABLE_BREADCRUMB_TIMELINE=true \
           -o output/timeline.html
 
     sources:
@@ -144,7 +145,7 @@ tasks:
       - output/writings.html
       - output/timeline.html
 
-  output-works:
+  works:
     cmds:
       - |
         for i in $(find content/works -type f -name "*.md"); do
@@ -165,7 +166,7 @@ tasks:
     generates:
       - output/works/**/*.html
 
-  output-resources:
+  resources:
     cmds:
       - |
         for i in $(find content/pages/resources -type f -name "*.md"); do
@@ -185,7 +186,7 @@ tasks:
     generates:
       - output/pages/resources/**/*.html
 
-  output-pages:
+  pages:
     cmds:
       - |
         for i in $(find content/pages -maxdepth 1 -type f -name "*.md"); do
@@ -201,6 +202,10 @@ tasks:
             BREADCRUMB=MEMBERSHIP;;
           *about-us*|*history*)
             BREADCRUMB=ABOUT;;
+          *search*)
+            BREADCRUMB=SEARCH;;
+          *videos*)
+            BREADCRUMB=VIDEOS;;
           *resources*)
             BREADCRUMB=RESOURCES;;
           esac

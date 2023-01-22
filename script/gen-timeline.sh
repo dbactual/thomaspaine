@@ -76,7 +76,7 @@ function output_timeline_index()
     echo "<a name=top></a>" >> ${F}
     # generate the shortcut navigation per year
     for key in $(echo ${SORTED_YEARS}); do
-        echo "<li class=\"dib\"><a href=\"${TIMELINE_URI}#${key}\">${key}</a></li>" >> ${F}
+        echo "<li class=\"dib\"><a class=\"link\" href=\"${TIMELINE_URI}#${key}\">${key}</a></li>" >> ${F}
     done
 }
 
@@ -110,10 +110,10 @@ for key in $(echo ${SORTED_YEARS}); do
     echo "<span id=\"${key}\"></span><br/><br/><h2>${key}</h2><ul>" >> ${TIMELINE_FILE}
     IFS="|"
     for x in ${l[@]}; do
-        echo "<li><a href=\"${x}\">${TITLES[$x]}</a></li>" >> ${TIMELINE_FILE}
+        echo "<li><a class=\"link\" href=\"${x}\">${TITLES[$x]}</a></li>" >> ${TIMELINE_FILE}
     done
     IFS=$OLDIFS
-    echo "<li><a href=\"#top\">Back to top</a>.</li>" >> ${TIMELINE_FILE}
+    echo "<li><a class=\"link\" href=\"#top\">Back to top</a>.</li>" >> ${TIMELINE_FILE}
     echo "</ul>" >> ${TIMELINE_FILE}
 done
 echo "done"
@@ -149,7 +149,7 @@ function output_works_index ()
     # generate the shortcut navigation
     for key in ${CATEGORIES[@]}; do
         TITLE=$(make_title ${key})
-        echo "<li><a href=\"${WRITINGS_URI}#${key}\">${TITLE}</a></li>" >> ${F}
+        echo "<li><a class=\"link\" href=\"${WRITINGS_URI}#${key}\">${TITLE}</a></li>" >> ${F}
     done
 }
 
@@ -195,7 +195,7 @@ for key in ${CATEGORIES[@]}; do
         TITLE=${TITLE//\"/}
         #TITLE=${TITLE//\'/}
         echo " ${F}: ${TITLE}"
-        echo "<li><a href=\"${F}\">${TITLE}</a></li>" >> ${WRITINGS_FILE}
+        echo "<li><a class=\"link\" href=\"${F}\">${TITLE}</a></li>" >> ${WRITINGS_FILE}
     done
     IFS=$OLDIFS
 
@@ -214,13 +214,13 @@ for key in ${CATEGORIES[@]}; do
             TITLE=${TITLE//\"/}
             #TITLE=${TITLE//\'/}
             echo " ${F}: ${TITLE}"
-            echo "<li><a href=\"${F}\">${TITLE}</a></li>" >> ${WRITINGS_FILE}
+            echo "<li><a class=\"link\" href=\"${F}\">${TITLE}</a></li>" >> ${WRITINGS_FILE}
         done
         IFS=$OLDIFS
         echo "</ul></li>" >> ${WRITINGS_FILE}
     done
     echo "</ul></li>" >> ${WRITINGS_FILE}
-    echo "<li><a href=\"#top\">Back to top</a>.</li>" >> ${WRITINGS_FILE}
+    echo "<li><a class=\"link\" href=\"#top\">Back to top</a>.</li>" >> ${WRITINGS_FILE}
 done
 
 echo "done"
