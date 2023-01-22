@@ -3,6 +3,7 @@ title: About Us
 ---
 
 
+
 <a class="center" href="/pages/history.html">
   <img class="br4 h5 w5 dib" src="/images/MemorialBuilding.JPG"/>
 </a>

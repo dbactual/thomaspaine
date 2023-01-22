@@ -47,82 +47,179 @@
       a:hover {
         color: #357EDD;
       }
+
+      .measure-ultra-wide {
+        max-width: 47em;
+      }
+
+      # menu
+
+      .mobile-menu-closed {
+        display: none;
+      }
+
+      .mobile-menu-open {
+        display: block;
+      }
+
     </style>
 
   </head>
 
-  <body class="w-100 f5 sans-serif bg-white" id="top">
+  <body class="w-100 f5 helvetica bg-white"
+        id="top">
 
-    <div class="center mw8 pt3 ph3 mb2">
+    <main class="bg-white black-70">
 
-      <header class="">
-        <div class="flex flex-wrap flex-nowrap-ns items-center center w-100">
-          <div class="flex items-center w-100 w-100-ns mb2 mb0-ns">
-            <a title="The Thomas Paine National Historical Association"
-               href="/"
-               class="link black-90 $if(ENABLE_BREADCRUMB_HOME)$dark-blue$endif$">
-              <img
-                src="/images/tp-2.png"
-                class="dib v-mid w3 h3 mt1 br-100 mr2 hide-m hide-s"/>
-              <div class="dib v-mid f5 f4-m f3-ns fw6 mt1 baskerville">
-                The Thomas Paine National Historical Association
-              </div>
+      <div class="mw8 center pa2 h7 cf bb b--black-10">
+
+        <nav class="db dt-l w-100 border-box">
+
+          <a class="db link dim"
+             title="The Thomas Paine National Historical Association"
+             alt="The Thomas Paine National Historical Association"
+             href="/">
+            <img class=""
+                 alt="TPNHA"
+                 src="/images/tpnha.png"
+                 >
+
+          </a>
+
+
+          <a href="#0" id="mobile-menu-toggle" class="link color-inherit f3 pa3 dn-l">
+            ☰ Menu
+          </a>
+
+          <div id="main-nav" class="db-l dn dtc-l v-mid tc tr-l w-50 f4">
+              <a title="Membership"
+                 class="dim link black-70 ml3 dib  $if(ENABLE_BREADCRUMB_MEMBERSHIP)$dark-blue bb  b--black-50$endif$"
+                 href="/pages/membership.html">
+                Membership
+              </a>
+
+              <a title="Donate"
+                 class="dim link black-70 ml3 dib  $if(ENABLE_BREADCRUMB_DONATE)$dark-blue bb  b--black-50$endif$"
+                 href="/pages/donate.html">
+                Donate
+              </a>
+
+              <a title="About"
+                 class="dim link black-70 dib ml3  $if(ENABLE_BREADCRUMB_ABOUT)$dark-blue bb  b--black-50$endif$"
+                 href="/pages/about-us.html">
+                About
+              </a>
+
+          </div>
+
+          <nav id="main-nav-mobile" class="dn absolute tc left-0 w-100 w-40-ns pa2 ba bg-white">
+
+              <a title="Membership"
+                 class="pa2  dim link black-70 dib"
+                 href="/pages/membership.html">
+                Membership
+              </a>
+
+              <a title="Donate"
+                 class="pa2  dim link black-70  dib"
+                 href="/pages/donate.html">
+                Donate
+              </a>
+
+              <a title="About"
+                 class="pa2  dim link black-70 dib"
+                 href="/pages/about-us.html">
+                About
+              </a>
+
+              <hr/>
+
+              <a title="Collected Works Project"
+                 class="pa2  dim link black-70 dib"
+                 href="/pages/collected-works-project.html">
+                Collected Works Project
+              </a>
+              <a title="Resources"
+                 class="pa2  dim link black-70 dib"
+                 href="/pages/resources.html">
+                Resources
+              </a>
+              <a title="Videos"
+                 class="pa2  dim link black-70 dib"
+                 href="/pages/videos.html">
+                Videos on Paine
+              </a>
+              <a title="Search"
+                 class="pa2  dim link black-70 dib"
+                 href="/pages/search.html">
+                Search
+              </a>
+              <a title="Writings & Timeline"
+                 class="pa2  dim link black-70 dib"
+                 href="/writings_and_timeline.html">
+                Writings
+              </a>
+
+          </nav>
+
+
+        </nav>
+
+      </div>
+
+      <div class="mw8 w-100 center ph2 pt1 cf mb4">
+
+        <div class="fl w-10-ns w-100 dn db-l black-70 ttc">
+
+          <div class="pv2 pl1 $if(ENABLE_BREADCRUMB_COLLECTED_WORKS)$bl b--black-50  $endif$">
+            <a title="Collected Works Project"
+               class="link hover-blue $if(ENABLE_BREADCRUMB_COLLECTED_WORKS)$dark-blue $endif$"
+               href="/pages/collected-works-project.html">
+              Collected Works Project
             </a>
           </div>
-        </div>
-      </header>
+          <div class="pv2 pl1 $if(ENABLE_BREADCRUMB_RESOURCES)$bl b--black-50  $endif$">
+            <a title="Resources"
+               class="link hover-blue $if(ENABLE_BREADCRUMB_RESOURCES)$dark-blue$endif$"
+               href="/pages/resources.html">
+              Resources
+            </a>
+          </div>
+          <div class="pv2 pl1 $if(ENABLE_BREADCRUMB_VIDEOS)$bl b--black-50  $endif$">
+            <a title="Videos"
+               class="link hover-blue $if(ENABLE_BREADCRUMB_VIDEOS)$dark-blue$endif$"
+               href="/pages/videos.html">
+              Videos on Paine
+            </a>
+          </div>
+          <div class="pv2 pl1 $if(ENABLE_BREADCRUMB_SEARCH)$bl b--black-50  $endif$">
+            <a title="Search"
+               class="link hover-blue $if(ENABLE_BREADCRUMB_SEARCH)$dark-blue$endif$"
+               href="/pages/search.html">
+              Search
+            </a>
+          </div>
+          <div class="pv2 pl1 $if(ENABLE_BREADCRUMB_WRITINGS)$bl b--black-50  $endif$">
+            <a title="Writings"
+               class="link hover-blue $if(ENABLE_BREADCRUMB_WRITINGS)$dark-blue$endif$"
+               href="/writings.html">
+              Writings
+            </a>
 
-      <header class="pv1">
-        <div class="flex flex-wrap flex-nowrap-ns items-center center w-100 f6 fw6 black-70">
+          </div>
 
-          <a title="Collected Works Project"
-             class="pv1-ns dim link black-70 mr3 dib tracked-tight $if(ENABLE_BREADCRUMB_COLLECTED_WORKS)$dark-blue bb$endif$"
-             href="/pages/collected-works-project.html">
-            Collected Works Project
-          </a>
+          <div class="pv2 pl1 $if(ENABLE_BREADCRUMB_TIMELINE)$bl b--black-50  $endif$">
+            <a title="Timeline"
+               class="link hover-blue $if(ENABLE_BREADCRUMB_TIMELINE)$dark-blue$endif$"
+               href="/timeline.html">
+              Timeline
+            </a>
 
-          <a title="Writings & Timeline"
-             class="pv1-ns dim link black-70 mr3 dib tracked-tight $if(ENABLE_BREADCRUMB_WRITINGS_AND_TIMELINE)$dark-blue bb$endif$"
-             href="/writings_and_timeline.html">
-            Writings&nbsp;&&nbsp;Timeline
-          </a>
+          </div>
 
-          <a title="Resources"
-             class="pv1-ns dim link black-70 mr3 dib tracked-tight $if(ENABLE_BREADCRUMB_RESOURCES)$dark-blue bb$endif$"
-             href="/pages/resources.html">
-            Resources
-          </a>
 
-          <a title="Membership"
-             class="pv1-ns dim link black-70 mr3 dib tracked-tight $if(ENABLE_BREADCRUMB_MEMBERSHIP)$dark-blue bb$endif$"
-             href="/pages/membership.html">
-            Membership
-          </a>
-
-          <a title="Donate"
-             class="pv1-ns dim link black-70 mr3 dib tracked-tight $if(ENABLE_BREADCRUMB_DONATE)$dark-blue bb$endif$"
-             href="/pages/donate.html">
-            Donate
-          </a>
-
-          <a title="About"
-             class="pv1-ns dim link black-70 mr3 dib tracked-tight $if(ENABLE_BREADCRUMB_ABOUT)$dark-blue bb$endif$"
-             href="/pages/about-us.html">
-            About
-          </a>
-
-          <form class="fr mw7 center br2-ns ba b--black-50" action="/cgi-bin/search.cgi" method="get">
-              <fieldset class="cf bn ma0 pa0">
-                <div class="cf">
-                  <input class="f6 input-reset bn fl black-80 bg-white lh-solid w-100 w-70-m w-70-l br2-ns br--left-ns" placeholder="" type="text" name="term" value="" id="search">
-                  <input class="f6 button-reset fl tc bn bg-animate bg-navy hover-bg-blue white pointer w-100 w-30-m w-30-l br2-ns br--right-ns" type="submit" name="submit" alt="Search" value="Search">
-                </div>
-              </fieldset>
-            </form>
+          </ul>
 
         </div>
 
-      </header>
-    </div>
-
-    <main class="bt b--black-10">
+        <div class="fl w-90 pl1 pl2-m pl4-ns bl b--black-10">

@@ -3,7 +3,7 @@ title: Membership
 ---
 
 
-<div class="bg-lightest-blue w-100 pa3">
+<div class="bg-lightest-blue w-100 pa3 br3 bb br b--black-20">
 <h3>Renew Membership</h3>
 
 <p>
@@ -16,7 +16,7 @@ If you are already a member and would like to renew your membership, click below
 </a>
 </div>
 
-   
+
 <h3>Sign Up For Annual Membership</h3>
 
 <a href="#enroll">Enroll today!</a>
