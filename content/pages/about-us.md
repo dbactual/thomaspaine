@@ -50,9 +50,9 @@ Board
 <h2 class="f6 fw4 mt2 mb0 black-60">San Diego, CA</h2>
 <dl class="mt2 f6 mb4">Editor of The Truth Seeker Magazine and documentarian.</dl>
 
-<h1 class="f6 f5-ns fw6 lh-title black mv0">Chris Gorman</h1>
-<h2 class="f6 fw4 mt2 mb0 black-60">Larchmont, NY</h2>
-<dl class="mt2 f6 mb4">Graphics designer, retired</dl>
+<h1 class="f6 f5-ns fw6 lh-title black mv0">Judah Freed</h1>
+<h2 class="f6 fw4 mt2 mb0 black-60">Denver, CO</h2>
+<dl class="mt2 f6 mb4">Journaist, Award winning author</dl>
 
 <h1 class="f6 f5-ns fw6 lh-title black mv0">Adrian Tawfik</h1>
 <h2 class="f6 fw4 mt2 mb0 black-60">Woodbury, NY</h2>
@@ -68,7 +68,7 @@ Board
 
 <h1 class="f6 f5-ns fw6 lh-title black mv0">Edmund Smith</h1>
 <h2 class="f6 fw4 mt2 mb0 black-60">Connecticut</h2>
-<dl class="mt2 f6 mb4">Science teacher</dl>
+<dl class="mt2 f6 mb4">Retired Science teacher</dl>
 
 <h1 class="f6 f5-ns fw6 lh-title black mv0">Danelle Brown</h1>
 <h2 class="f6 fw4 mt2 mb0 black-60">Brooklyn, NY</h2>
