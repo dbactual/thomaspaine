@@ -428,7 +428,7 @@ title: "Prospect Papers"
    of life  was a real tree, and that the fruit of it had the virtue of making
    those who eat it live forever.
 
-   The Jews did not believe the first chapters of Genisis to be fact. Muimonides,
+   The Jews did not believe the first chapters of Genisis to be fact. Maimonides,
    one of the most learned and celebrated of the Jewish authors who lived in the
    eleventh century, says, in is book MORE NEBACHIM. We ought not to understand nor take
    according to the letter that which is written in the book of the creation, (the book of Genesis.)
