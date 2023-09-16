@@ -1,5 +1,5 @@
 ---
-title: **Roger Sherman’s Draft Copy of the Declaration of Independence**
+title: Roger Sherman’s Draft Copy of the Declaration of Independence
 
 ---
 Jonathan Scheick
