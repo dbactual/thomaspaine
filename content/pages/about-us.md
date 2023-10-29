@@ -70,6 +70,10 @@ Board
 <h2 class="f6 fw4 mt2 mb0 black-60">Connecticut</h2>
 <dl class="mt2 f6 mb4">Retired Science teacher</dl>
 
+<h1 class="f6 f5-ns fw6 lh-title black mv0">John Heidenreich</h1>
+<h2 class="f6 fw4 mt2 mb0 black-60">New Rochelle</h2>
+<dl class="mt2 f6 mb4">Chemistry teacher</dl>
+
 
 History
 --------
