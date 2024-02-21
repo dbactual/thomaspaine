@@ -71,8 +71,8 @@ Enroll As a Member
   <label class="mt3 db fw4 lh-copy f6" for="email">Email</label>
   <input class="pa2 input-reset ba bg-transparent w-100 measure" name="email" type="text" value="" id="email" placeholder="you@address.com" style="width:85%;">
 
-  <label class="mt3 db fw4 lh-copy f6" for="email">Phone</label>
-  <input class="pa2 input-reset ba bg-transparent w-100 measure" name="email" type="text" value="" id="phone" placeholder="8881234567" style="width:85%;">
+  <label class="mt3 db fw4 lh-copy f6" for="phone">Phone</label>
+  <input class="pa2 input-reset ba bg-transparent w-100 measure" name="phone" type="text" value="" id="phone" placeholder="8881234567" style="width:85%;">
   <label class="mt3 db fw4 lh-copy f6" for="street">Street</label>
   <input class="pa2 input-reset ba bg-transparent w-100 measure" name="street" type="text" value="" id="street" placeholder="1 Main St" style="width:85%;">
 
