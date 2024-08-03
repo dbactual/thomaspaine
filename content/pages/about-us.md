@@ -26,9 +26,9 @@ Board
 <h2 class="f6 fw4 mt2 mb0 black-60">Bedford, NY</h2>
 <dl class="mt2 f6 mb4">TPNHA Secretary, Professor of English, Iona College</dl>
 
-<h1 class="f6 f5-ns fw6 lh-title black mv0">Michael Munisteri</h1>
-<h2 class="f6 fw4 mt2 mb0 black-60">Connecticut</h2>
-<dl class="mt2 f6 mb4">TPNHA Treasurer, Senior Finance Associate, Bridgewater Associates, retired</dl>
+<h1 class="f6 f5-ns fw6 lh-title black mv0">Eric Nowakowski</h1>
+<h2 class="f6 fw4 mt2 mb0 black-60">New Rochelle</h2>
+<dl class="mt2 f6 mb4">TPNHA Treasurer</dl>
 
 <h1 class="f6 f5-ns fw6 lh-title black mv0">Gary Berton</h1>
 <h2 class="f6 fw4 mt2 mb0 black-60">Walton, NY</h2>
@@ -73,6 +73,14 @@ Board
 <h1 class="f6 f5-ns fw6 lh-title black mv0">John Heidenreich</h1>
 <h2 class="f6 fw4 mt2 mb0 black-60">New Rochelle</h2>
 <dl class="mt2 f6 mb4">Chemistry teacher</dl>
+
+<h1 class="f6 f5-ns fw6 lh-title black mv0">Richard Briles Moriarty</h1>
+<h2 class="f6 fw4 mt2 mb0 black-60">Duluth, MN</h2>
+<dl class="mt2 f6 mb4">retired Asst. Attorney General, Minnesota</dl>
+
+<h1 class="f6 f5-ns fw6 lh-title black mv0">Connor Murray</h1>
+<h2 class="f6 fw4 mt2 mb0 black-60">New Rochelle</h2>
+<dl class="mt2 f6 mb4">President of Iona U. Student Council</dl>
 
 
 History
