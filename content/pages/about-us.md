@@ -80,7 +80,7 @@ Board
 
 <h1 class="f6 f5-ns fw6 lh-title black mv0">Connor Murray</h1>
 <h2 class="f6 fw4 mt2 mb0 black-60">New Rochelle</h2>
-<dl class="mt2 f6 mb4">President of Iona U. Student Council</dl>
+<dl class="mt2 f6 mb4">Senator, Iona U. Student Council</dl>
 
 
 History
